@@ -1,0 +1,16 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+2015-09-17,UEFA Europa League,Bordeaux - France ,1,1,Liverpool,N,False,2015 - 2016,5
+2015-10-01,UEFA Europa League,Liverpool - England ,1,1,FC,N,True,2015 - 2016,5
+2015-10-22,UEFA Europa League,Liverpool - England ,1,1,FC,N,True,2015 - 2016,5
+2015-11-05,UEFA Europa League,FC Rubin Kazan - Russia ,0,1,Liverpool,V,False,2015 - 2016,5
+2015-11-26,UEFA Europa League,Liverpool - England ,2,1,Bordeaux,V,True,2015 - 2016,5
+2015-12-10,UEFA Europa League,FC Sion - Switzerland ,0,0,Liverpool,N,False,2015 - 2016,4
+2016-02-18,UEFA Europa League,FC Augsburg - Germany ,0,0,Liverpool,N,False,2015 - 2016,4
+2016-02-25,UEFA Europa League,Liverpool - England ,1,0,FC,V,True,2015 - 2016,7
+2016-03-10,UEFA Europa League,Liverpool - England ,2,0,Manchester,V,True,2015 - 2016,4
+2016-03-17,UEFA Europa League,Manchester United - England ,1,1,Liverpool,N,False,2015 - 2016,7
+2016-04-07,UEFA Europa League,Borussia Dortmund - Germany ,1,1,Liverpool,N,False,2015 - 2016,5
+2016-04-14,UEFA Europa League,Liverpool - England ,4,3,Borussia,V,True,2015 - 2016,4
+2016-04-28,UEFA Europa League,Villarreal CF - Spain ,1,0,Liverpool,D,False,2015 - 2016,5
+2016-05-05,UEFA Europa League,Liverpool - England ,3,0,Villarreal,V,True,2015 - 2016,4
+2016-05-18,UEFA Europa League,Liverpool - England ,1,3,Sevilla,D,True,2015 - 2016,3

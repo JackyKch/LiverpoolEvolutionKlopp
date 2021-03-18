@@ -1,0 +1,39 @@
+season,contests,date_match,home_team,away_team,at_anfield,Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,liverpool_score,Interceptions,Blocks,Catches,Tackles,Possession,Elo_Liverpool,Elo_Opponent,Elo_Diff,Rest_Days,liverpool_score_ft,liverpool_score_ht,opponent_score_ft,opponent_score_ht,liverpool_result_ft,liverpool_result_ht
+2012 - 2013,English Premier League,2012-08-18,West Bromwich Albion FC,Liverpool,False,0,0,4-3-3,16,2,4,0,0,17,12,4,3,4,1,635,378,D,22,13,3,13,62%,1742.60021973,1675,67.60021972999994,6,0,0,3,1,D,D
+2012 - 2013,English Premier League,2012-08-26,Liverpool,Manchester City,True,2,1,4-3-3,14,4,1,0,0,21,10,0,4,1,0,511,268,N,38,7,1,3,44%,1729.25158691,1918,-188.74841308999999,3,2,1,2,0,N,V
+2012 - 2013,English Premier League,2012-09-02,Liverpool,Arsenal FC,True,0,0,4-3-3,17,5,3,0,0,21,12,3,10,2,0,732,439,D,25,5,0,21,56%,1733.52380371,1818,-84.47619628999996,3,0,0,2,1,D,D
+2012 - 2013,English Premier League,2012-09-15,AFC Sunderland,Liverpool,False,1,0,4-2-3-1,23,6,0,0,0,38,11,1,7,2,0,858,525,N,70,4,0,11,65%,1722.60900879,1676,46.60900878999996,13,1,0,1,1,N,D
+2012 - 2013,English Premier League,2012-09-23,Liverpool,Manchester United,True,1,0,4-3-3,12,5,1,0,0,23,14,0,7,1,1,541,299,D,14,1,1,11,54%,1732.29528809,1914,-181.70471191000001,3,1,0,2,0,D,N
+2012 - 2013,English Premier League,2012-09-29,Norwich City,Liverpool,False,5,2,4-4-1-1,15,5,2,0,0,15,6,5,5,0,0,830,587,V,30,2,0,2,67%,1727.04785156,1615,112.04785156000003,3,5,2,2,0,V,V
+2012 - 2013,English Premier League,2012-10-07,Liverpool,Stoke City FC,True,0,0,4-3-3,17,3,2,0,0,25,9,0,5,0,0,598,468,N,37,12,0,2,67%,1727.60327148,1675,52.6032714800001,3,0,0,0,0,N,N
+2012 - 2013,English Premier League,2012-10-20,Liverpool,Reading FC,True,1,1,4-3-3,26,8,3,0,0,17,13,3,6,1,0,566,308,V,34,2,1,13,60%,1724.62756348,1617,107.62756347999994,13,1,1,0,0,V,V
+2012 - 2013,English Premier League,2012-10-28,Everton FC,Liverpool,False,2,1,4-4-2,12,3,1,0,0,12,18,3,5,3,0,399,144,N,18,5,0,13,43%,1725.39208984,1781,-55.607910160000074,3,2,2,2,2,N,N
+2012 - 2013,English Premier League,2012-11-04,Liverpool,Newcastle United FC,True,1,1,4-2-3-1,21,6,2,0,0,33,12,0,14,0,0,786,414,N,73,5,1,10,66%,1728.54016113,1749,-20.459838870000112,4,1,0,1,1,N,D
+2012 - 2013,English Premier League,2012-11-11,Chelsea,Liverpool,False,1,1,3-5-2,9,2,2,0,0,8,13,7,7,3,0,557,318,N,33,3,0,0,50%,1721.96008301,1868,-146.03991698999994,3,1,0,1,1,N,D
+2012 - 2013,English Premier League,2012-11-17,Liverpool,Wigan Athletic,True,3,2,3-4-3,23,7,2,0,0,23,9,1,10,0,0,657,343,V,73,1,1,7,51%,1727.2890625,1648,79.2890625,6,3,0,0,0,V,N
+2012 - 2013,English Premier League,2012-11-25,Swansea City,Liverpool,False,0,0,4-2-3-1,21,10,2,0,0,23,10,3,6,0,0,756,416,N,121,6,1,6,55%,1719.41076659999,1647,72.41076659998998,3,0,0,0,0,N,N
+2012 - 2013,English Premier League,2012-11-28,Tottenham Hotspur,Liverpool,False,1,0,4-3-3,15,5,4,0,0,29,18,1,12,2,0,842,472,D,92,2,3,17,61%,1718.91088867,1752,-33.08911132999992,3,1,0,2,2,D,D
+2012 - 2013,English Premier League,2012-12-01,Liverpool,FC Southampton,True,1,1,4-3-3,24,8,2,0,0,62,15,3,10,2,0,863,470,V,135,5,1,11,58%,1713.06506348,1557,156.06506347999994,3,1,1,0,0,V,V
+2012 - 2013,English Premier League,2012-12-09,West Ham United,Liverpool,False,3,3,4-3-3,14,5,4,0,0,24,12,1,5,2,0,766,396,V,54,7,3,6,58%,1718.91943359,1653,65.91943358999993,3,3,1,2,2,V,D
+2012 - 2013,English Premier League,2012-12-15,Liverpool,Aston Villa,True,1,1,4-3-3,28,11,3,0,0,53,5,3,7,1,0,828,467,D,68,0,1,10,73%,1726.65087891,1619,107.65087891000007,6,1,0,3,2,D,D
+2012 - 2013,English Premier League,2012-12-22,Liverpool,Fulham FC,True,4,4,4-2-3-1,20,8,3,0,0,19,13,3,8,1,0,668,436,V,25,4,1,2,58%,1709.44140625,1667,42.44140625,7,4,2,0,0,V,V
+2012 - 2013,English Premier League,2012-12-26,Stoke City FC,Liverpool,False,1,0,4-2-3-1,15,4,3,1,1,25,6,3,8,1,0,611,334,D,29,5,0,0,59%,1720.85742188,1679,41.85742187999995,4,1,1,3,2,D,D
+2012 - 2013,English Premier League,2012-12-30,Queens Park Rangers,Liverpool,False,3,2,4-2-3-1,18,8,6,0,0,50,9,1,9,1,0,766,490,V,21,3,5,13,61%,1709.71435547,1542,167.7143554700001,4,3,3,0,0,V,V
+2012 - 2013,English Premier League,2013-01-02,Liverpool,AFC Sunderland,True,3,3,4-3-3,27,12,2,0,0,23,9,7,9,0,0,752,491,V,20,10,0,13,60%,1718.72534179999,1648,70.72534179999002,3,3,2,0,0,V,V
+2012 - 2013,English Premier League,2013-01-13,Manchester United,Liverpool,False,1,0,4-1-4-1,12,3,4,0,0,18,15,1,1,4,0,661,409,D,13,8,1,15,55%,1727.54980469,1904,-176.45019531000003,7,1,0,2,1,D,D
+2012 - 2013,English Premier League,2013-01-19,Liverpool,Norwich City,True,5,3,4-3-3,18,10,2,0,0,28,10,2,9,1,0,785,582,V,7,2,1,2,64%,1724.49072266,1622,102.49072266000007,6,5,2,0,0,V,V
+2012 - 2013,English Premier League,2013-01-30,Arsenal FC,Liverpool,False,2,1,4-3-3,11,6,5,0,0,14,11,3,6,1,0,561,286,N,39,8,1,4,39%,1734.50634766,1789,-54.493652339999926,3,2,1,2,0,N,V
+2012 - 2013,English Premier League,2013-02-03,Manchester City,Liverpool,False,2,1,4-2-3-1,18,6,1,0,0,20,8,2,10,4,0,607,347,N,20,3,0,3,53%,1737.39440918,1878,-140.6055908200001,4,2,1,2,1,N,N
+2012 - 2013,English Premier League,2013-02-11,Liverpool,West Bromwich Albion FC,True,0,0,4-2-3-1,25,7,1,1,0,32,10,5,13,1,0,819,427,D,130,1,0,5,58%,1742.52172852,1652,90.5217285199999,8,0,0,2,0,D,N
+2012 - 2013,English Premier League,2013-02-17,Liverpool,Swansea City,True,5,3,4-2-3-1,33,18,3,2,2,11,6,1,10,0,0,641,390,V,49,5,0,0,55%,1717.7947998,1680,37.794799799999964,3,5,1,0,0,V,V
+2012 - 2013,English Premier League,2013-03-02,Wigan Athletic,Liverpool,False,4,3,4-2-3-1,8,7,10,0,0,3,15,4,3,2,0,543,304,V,46,4,1,2,41%,1738.38793945,1622,116.38793944999998,9,4,3,0,0,V,V
+2012 - 2013,English Premier League,2013-03-10,Liverpool,Tottenham Hotspur,True,3,1,4-2-3-1,11,5,6,1,1,9,9,6,1,1,0,442,215,V,29,6,1,1,41%,1749.65100098,1820,-70.34899902000006,8,3,1,2,1,V,N
+2012 - 2013,English Premier League,2013-03-16,FC Southampton,Liverpool,False,1,0,4-2-3-1,8,6,8,0,0,9,10,6,5,1,0,683,348,D,78,6,3,0,55%,1763.78649902,1599,164.78649902000006,6,1,1,3,2,D,D
+2012 - 2013,English Premier League,2013-03-31,Aston Villa,Liverpool,False,2,1,4-2-3-1,17,13,3,1,1,7,9,6,8,1,0,737,438,V,88,1,2,0,55%,1748.75964355,1618,130.75964354999996,15,2,0,1,1,V,D
+2012 - 2013,English Premier League,2013-04-07,Liverpool,West Ham United,True,0,0,4-3-3,19,12,4,0,0,6,8,4,12,0,0,630,388,N,4,0,0,1,55%,1754.06286621,1632,122.06286621000004,7,0,0,0,0,N,N
+2012 - 2013,English Premier League,2013-04-13,Reading FC,Liverpool,False,0,0,4-3-3,26,15,5,0,0,0,9,6,9,1,0,847,395,N,154,4,1,10,67%,1749.46081543,1558,191.4608154299999,6,0,0,0,0,N,N
+2012 - 2013,English Premier League,2013-04-21,Liverpool,Chelsea,True,2,2,4-2-3-1,23,12,5,0,0,12,9,1,8,5,0,541,328,N,6,3,1,1,55%,1745.87280273,1841,-95.1271972699999,8,2,0,2,1,N,D
+2012 - 2013,English Premier League,2013-04-27,Newcastle United FC,Liverpool,False,6,5,4-2-3-1,11,10,1,0,0,0,7,5,7,2,0,719,402,V,95,3,0,0,48%,1748.60168457,1671,77.60168457000009,6,6,2,0,0,V,V
+2012 - 2013,English Premier League,2013-05-05,Liverpool,Everton FC,True,0,0,4-2-3-1,16,8,4,0,0,19,10,3,3,1,0,598,255,N,47,13,1,4,44%,1767.93225098,1782,-14.067749020000065,8,0,0,0,0,N,N
+2012 - 2013,English Premier League,2013-05-12,Fulham FC,Liverpool,False,3,3,3-5-2,19,13,4,0,0,11,10,2,8,1,0,762,475,V,69,4,2,12,53%,1766.53271484,1646,120.53271483999993,7,3,1,1,1,V,N
+2012 - 2013,English Premier League,2013-05-19,Liverpool,Queens Park Rangers,True,1,1,4-4-2,27,20,0,0,0,0,7,2,14,1,0,798,514,V,39,5,0,5,69%,1778.16760254,1554,224.16760253999996,7,1,1,0,0,V,V

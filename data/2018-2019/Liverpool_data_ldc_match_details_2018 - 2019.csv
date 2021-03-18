@@ -1,0 +1,14 @@
+Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,Interceptions,Blocks,Catches,Tackles,Possession,date_match,contests,home_team,away_team,liverpool_result,at_anfield,season,rest_days,elo_liverpool,elo_opponent,Diff_elo,liverpool_score_ft,opponent_score_ft
+3,1,4-3-3,17,8,3,1,1,46,14,1,13,1,0,1535,468,9,9,3,15,53%,2018-09-18,UEFA Champions League,Liverpool,Paris Saint,V,True,2018 - 2019,3,1936.02026367,1899,37.02026367000008,3,2
+0,0,4-3-3,4,0,3,0,0,13,9,1,1,1,0,1424,450,6,14,2,14,46%,2018-10-03,UEFA Champions League,SSC Napoli,Liverpool,D,False,2018 - 2019,4,1941.14575195,1850,91.14575194999998,0,1
+4,3,4-3-3,22,12,0,1,1,26,10,4,4,0,0,1745,569,6,15,3,17,59%,2018-10-24,UEFA Champions League,Liverpool,Crvena Zvezda,V,True,2018 - 2019,4,1930.55993652,1507,423.55993652000006,4,0
+0,0,4-3-3,22,3,2,0,0,41,9,4,9,1,0,1647,536,1,9,6,6,65%,2018-11-06,UEFA Champions League,Crvena Zvezda,Liverpool,D,False,2018 - 2019,3,1934.60778809,1505,429.60778809,0,2
+1,0,4-3-3,7,1,6,1,1,28,20,1,5,6,0,1455,476,2,18,4,19,54%,2018-11-28,UEFA Champions League,Paris Saint,Liverpool,D,False,2018 - 2019,4,1917.81872559,1895,22.818725589999985,1,2
+1,1,4-3-3,23,5,3,0,0,24,16,5,3,4,0,1423,440,9,21,5,8,49%,2018-12-11,UEFA Champions League,Liverpool,SSC Napoli,V,True,2018 - 2019,3,1927.54663086,1869,58.54663086000005,1,0
+0,0,4-3-3,16,2,1,0,0,25,10,1,5,1,0,1385,431,9,17,1,13,47%,2019-02-19,UEFA Champions League,Liverpool,FC Bayern Munich,N,True,2018 - 2019,10,1939.20471191,1936,3.2047119100000145,0,0
+3,3,4-3-3,9,6,1,0,0,19,14,2,7,3,0,1182,350,6,16,4,18,42%,2019-03-13,UEFA Champions League,FC Bayern Munich,Liverpool,V,False,2018 - 2019,3,1947.97265625,1951,-3.02734375,3,1
+2,2,4-3-3,14,3,3,0,0,20,9,4,4,0,0,1788,569,3,22,7,16,59%,2019-04-09,UEFA Champions League,Liverpool,FC Porto,V,True,2018 - 2019,4,1986.84802246,1824,162.84802246000004,2,0
+4,4,4-3-3,11,5,7,0,0,12,13,2,3,1,0,1218,354,9,27,7,13,47%,2019-04-17,UEFA Champions League,FC Porto,Liverpool,V,False,2018 - 2019,3,1998.65966797,1824,174.6596679700001,4,1
+0,0,4-3-3,14,3,2,0,0,31,15,1,5,1,0,1479,482,11,11,7,9,52%,2019-05-01,UEFA Champions League,FC Barcelona,Liverpool,D,False,2018 - 2019,5,2006.44958496,2042,-35.55041503999996,0,3
+4,3,4-3-3,13,7,5,0,0,33,12,1,7,2,0,1222,362,13,21,5,12,46%,2019-05-07,UEFA Champions League,Liverpool,FC Barcelona,V,True,2018 - 2019,3,1996.36315918,2035,-38.63684082000009,4,0
+2,1,4-3-3,14,3,8,1,1,19,6,2,9,0,0,796,197,8,11,6,12,38%,2019-06-01,UEFA Champions League,Tottenham Hotspur,Liverpool,V,False,2018 - 2019,20,2036.97473145,1897,139.97473145000004,2,0

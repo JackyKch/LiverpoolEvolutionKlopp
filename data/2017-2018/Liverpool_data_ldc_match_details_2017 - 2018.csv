@@ -1,0 +1,16 @@
+Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,Interceptions,Blocks,Catches,Tackles,Possession,date_match,contests,home_team,away_team,liverpool_result,at_anfield,season,rest_days,elo_liverpool,elo_opponent,Diff_elo,liverpool_score_ft,opponent_score_ft
+2,1,4-3-3,14,8,3,0,0,22,12,1,5,2,0,1076,265,5,15,2,14,0%,2017-08-15,UEFA Champions League,TSG 1899 Hoffenheim,Liverpool,V,False,2017 - 2018,3,1831.43115234,1763,68.43115233999993,2,1
+4,4,4-3-3,20,10,2,0,0,24,3,2,4,1,0,1338,325,10,23,0,16,0%,2017-08-23,UEFA Champions League,Liverpool,TSG 1899 Hoffenheim,V,True,2017 - 2018,4,1845.10327148,1757,88.1032714800001,4,2
+2,1,4-3-3,24,7,0,1,0,26,14,0,10,3,1,1372,389,6,29,1,21,50%,2017-09-13,UEFA Champions League,Liverpool,Sevilla FC,N,True,2017 - 2018,4,1851.71960449,1830,21.719604489999938,2,2
+1,1,4-3-3,17,7,1,0,0,45,11,3,5,2,0,1664,532,7,10,8,13,64%,2017-09-26,UEFA Champions League,Spartak Moscow,Liverpool,N,False,2017 - 2018,3,1849.04370117,1567,282.0437011700001,1,1
+7,7,4-3-3,28,13,2,0,0,32,11,3,9,0,0,1977,710,3,12,2,9,67%,2017-10-17,UEFA Champions League,NK Maribor,Liverpool,V,False,2017 - 2018,3,1851.02392578,1448,403.0239257799999,7,0
+3,3,4-3-3,23,8,1,1,0,48,7,0,17,0,0,2229,802,3,13,9,6,72%,2017-11-01,UEFA Champions League,Liverpool,NK Maribor,V,True,2017 - 2018,4,1850.36816406,1447,403.36816406,3,0
+3,3,4-3-3,10,7,2,0,0,15,19,1,7,3,0,898,208,12,22,1,10,32%,2017-11-21,UEFA Champions League,Sevilla FC,Liverpool,N,False,2017 - 2018,3,1866.83837891,1787,79.83837891000007,3,3
+7,5,4-3-3,17,10,4,1,1,15,16,2,3,1,0,1538,499,7,22,3,17,54%,2017-12-06,UEFA Champions League,Liverpool,Spartak Moscow,V,True,2017 - 2018,4,1871.71105957,1701,170.7110595700001,7,0
+5,5,4-3-3,13,6,2,0,0,13,10,1,1,0,0,1428,532,1,19,4,22,52%,2018-02-14,UEFA Champions League,FC Porto,Liverpool,V,False,2017 - 2018,3,1895.28051758,1778,117.28051757999992,5,0
+0,0,4-3-3,13,5,1,0,0,26,11,5,1,1,0,1957,723,5,16,2,19,62%,2018-03-06,UEFA Champions League,Liverpool,FC Porto,N,True,2017 - 2018,3,1917.8515625,1775,142.8515625,0,0
+3,3,4-3-3,8,4,0,0,0,16,6,3,0,1,0,1112,290,2,34,0,22,35%,2018-04-04,UEFA Champions League,Liverpool,Manchester City,V,True,2017 - 2018,4,1908.31738281,1993,-84.68261718999997,3,0
+2,0,4-3-3,5,3,2,0,0,7,7,0,2,4,0,883,224,13,29,4,10,31%,2018-04-10,UEFA Champions League,Manchester City,Liverpool,V,False,2017 - 2018,3,1924.44812012,1968,-43.55187987999989,2,1
+5,5,4-3-3,20,11,4,0,0,31,13,5,7,3,0,1319,366,13,20,10,13,50%,2018-04-24,UEFA Champions League,Liverpool,AS Roma,V,True,2017 - 2018,3,1930.45751953,1845,85.4575195299999,5,2
+2,1,4-3-3,11,5,3,0,0,10,14,5,3,3,0,1092,273,10,22,3,7,42%,2018-05-02,UEFA Champions League,AS Roma,Liverpool,D,False,2017 - 2018,4,1934.39086914,1835,99.39086913999995,2,4
+1,1,4-3-3,12,2,2,0,0,24,18,3,5,1,0,986,266,7,18,3,20,38%,2018-05-26,UEFA Champions League,Real Madrid CF,Liverpool,D,False,2017 - 2018,13,1923.88317871,2011,-87.11682128999996,1,3

@@ -1,0 +1,69 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+2015-08-01,Liverpool Pre-Season,Liverpool - England ,2,0,HJK,V,True,2015 - 2016,8
+2015-08-02,Liverpool Pre-Season,Swindon Town FC - England ,1,2,Liverpool,V,False,2015 - 2016,1
+2015-08-09,English Premier League,Stoke City FC ,0,1,Liverpool,V,False,2015 - 2016,7
+2015-08-17,English Premier League,Liverpool ,1,0,AFC,V,True,2015 - 2016,8
+2015-08-24,English Premier League,Arsenal FC ,0,0,Liverpool,N,False,2015 - 2016,7
+2015-08-29,English Premier League,Liverpool ,0,3,West,D,True,2015 - 2016,5
+2015-09-12,English Premier League,Manchester United ,3,1,Liverpool,D,False,2015 - 2016,14
+2015-09-17,UEFA Europa League,Bordeaux - France ,1,1,Liverpool,N,False,2015 - 2016,5
+2015-09-20,English Premier League,Liverpool ,1,1,Norwich,N,True,2015 - 2016,3
+2015-09-26,English Premier League,Liverpool ,3,2,Aston,V,True,2015 - 2016,6
+2015-10-01,UEFA Europa League,Liverpool - England ,1,1,FC,N,True,2015 - 2016,5
+2015-10-04,English Premier League,Everton FC ,1,1,Liverpool,N,False,2015 - 2016,3
+2015-10-17,English Premier League,Tottenham Hotspur ,0,0,Liverpool,N,False,2015 - 2016,13
+2015-10-22,UEFA Europa League,Liverpool - England ,1,1,FC,N,True,2015 - 2016,5
+2015-10-25,English Premier League,Liverpool ,1,1,FC,N,True,2015 - 2016,3
+2015-10-28,English League Cup,Liverpool ,1,0,AFC,V,True,2015 - 2016,3
+2015-10-31,English Premier League,Chelsea ,1,3,Liverpool,V,False,2015 - 2016,3
+2015-11-05,UEFA Europa League,FC Rubin Kazan - Russia ,0,1,Liverpool,V,False,2015 - 2016,5
+2015-11-08,English Premier League,Liverpool ,1,2,Crystal,D,True,2015 - 2016,3
+2015-11-21,English Premier League,Manchester City ,1,4,Liverpool,V,False,2015 - 2016,13
+2015-11-26,UEFA Europa League,Liverpool - England ,2,1,Bordeaux,V,True,2015 - 2016,5
+2015-11-29,English Premier League,Liverpool ,1,0,Swansea,V,True,2015 - 2016,3
+2015-12-02,English League Cup,FC Southampton ,1,6,Liverpool,V,False,2015 - 2016,3
+2015-12-06,English Premier League,Newcastle United FC ,2,0,Liverpool,D,False,2015 - 2016,4
+2015-12-10,UEFA Europa League,FC Sion - Switzerland ,0,0,Liverpool,N,False,2015 - 2016,4
+2015-12-13,English Premier League,Liverpool ,2,2,West,N,True,2015 - 2016,3
+2015-12-20,English Premier League,Watford ,3,0,Liverpool,D,False,2015 - 2016,7
+2015-12-26,English Premier League,Liverpool ,1,0,Leicester,V,True,2015 - 2016,6
+2015-12-30,English Premier League,AFC Sunderland ,0,1,Liverpool,V,False,2015 - 2016,4
+2016-01-02,English Premier League,West Ham United ,2,0,Liverpool,D,False,2015 - 2016,3
+2016-01-05,English League Cup,Stoke City FC ,0,1,Liverpool,V,False,2015 - 2016,3
+2016-01-08,England FA Cup,Exeter City ,2,2,Liverpool,N,False,2015 - 2016,3
+2016-01-13,English Premier League,Liverpool ,3,3,Arsenal,N,True,2015 - 2016,5
+2016-01-17,English Premier League,Liverpool ,0,1,Manchester,D,True,2015 - 2016,4
+2016-01-20,England FA Cup,Liverpool ,3,0,Exeter,V,True,2015 - 2016,3
+2016-01-23,English Premier League,Norwich City ,4,5,Liverpool,V,False,2015 - 2016,3
+2016-01-30,England FA Cup,Liverpool ,0,0,West,N,True,2015 - 2016,7
+2016-02-02,English Premier League,Leicester City ,2,0,Liverpool,D,False,2015 - 2016,3
+2016-02-06,English Premier League,Liverpool ,2,2,AFC,N,True,2015 - 2016,4
+2016-02-09,England FA Cup,West Ham United ,2,1,Liverpool,D,False,2015 - 2016,3
+2016-02-14,English Premier League,Aston Villa ,0,6,Liverpool,V,False,2015 - 2016,5
+2016-02-18,UEFA Europa League,FC Augsburg - Germany ,0,0,Liverpool,N,False,2015 - 2016,4
+2016-02-25,UEFA Europa League,Liverpool - England ,1,0,FC,V,True,2015 - 2016,7
+2016-03-02,English Premier League,Liverpool ,3,0,Manchester,V,True,2015 - 2016,6
+2016-03-06,English Premier League,Crystal Palace FC ,1,2,Liverpool,V,False,2015 - 2016,4
+2016-03-10,UEFA Europa League,Liverpool - England ,2,0,Manchester,V,True,2015 - 2016,4
+2016-03-17,UEFA Europa League,Manchester United - England ,1,1,Liverpool,N,False,2015 - 2016,7
+2016-03-20,English Premier League,FC Southampton ,3,2,Liverpool,D,False,2015 - 2016,3
+2016-04-02,English Premier League,Liverpool ,1,1,Tottenham,N,True,2015 - 2016,13
+2016-04-07,UEFA Europa League,Borussia Dortmund - Germany ,1,1,Liverpool,N,False,2015 - 2016,5
+2016-04-10,English Premier League,Liverpool ,4,1,Stoke,V,True,2015 - 2016,3
+2016-04-14,UEFA Europa League,Liverpool - England ,4,3,Borussia,V,True,2015 - 2016,4
+2016-04-17,English Premier League,AFC Bournemouth ,1,2,Liverpool,V,False,2015 - 2016,3
+2016-04-20,English Premier League,Liverpool ,4,0,Everton,V,True,2015 - 2016,3
+2016-04-23,English Premier League,Liverpool ,2,2,Newcastle,N,True,2015 - 2016,3
+2016-04-28,UEFA Europa League,Villarreal CF - Spain ,1,0,Liverpool,D,False,2015 - 2016,5
+2016-05-01,English Premier League,Swansea City ,3,1,Liverpool,D,False,2015 - 2016,3
+2016-05-05,UEFA Europa League,Liverpool - England ,3,0,Villarreal,V,True,2015 - 2016,4
+2016-05-08,English Premier League,Liverpool ,2,0,Watford,V,True,2015 - 2016,3
+2016-05-11,English Premier League,Liverpool ,1,1,Chelsea,N,True,2015 - 2016,3
+2016-05-15,English Premier League,West Bromwich Albion FC ,1,1,Liverpool,N,False,2015 - 2016,4
+2016-05-18,UEFA Europa League,Liverpool - England ,1,3,Sevilla,D,True,2015 - 2016,3
+2016-07-08,Liverpool Pre-Season,Tranmere Rovers FC - England ,0,1,Liverpool,V,False,2015 - 2016,51
+2016-07-13,Liverpool Pre-Season,Fleetwood Town - England ,0,5,Liverpool,V,False,2015 - 2016,5
+2016-07-17,Liverpool Pre-Season,Wigan Athletic - England ,0,2,Liverpool,V,False,2015 - 2016,4
+2016-07-20,Liverpool Pre-Season,Huddersfield Town - England ,0,2,Liverpool,V,False,2015 - 2016,3
+2016-07-28,International Champions Cup,Chelsea - England ,1,0,Liverpool,D,False,2015 - 2016,8
+2016-07-31,International Champions Cup,Liverpool - England ,2,0,AC,V,True,2015 - 2016,3

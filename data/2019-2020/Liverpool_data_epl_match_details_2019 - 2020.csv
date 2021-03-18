@@ -1,0 +1,39 @@
+season,contests,date_match,home_team,away_team,at_anfield,Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,liverpool_score,Interceptions,Blocks,Catches,Tackles,Possession,Elo_Liverpool,Elo_Opponent,Elo_Diff,Rest_Days,liverpool_score_ft,liverpool_score_ht,opponent_score_ft,opponent_score_ht,liverpool_result_ft,liverpool_result_ht
+2019 - 2020,English Premier League,2019-08-09,Liverpool,Norwich City,True,4,3,4-3-3,15,7,4,0,0,45,9,0,11,0,0,1365,408,V,4,18,6,18,55%,2043.73754883,1631,412.7375488299999,9,4,4,1,0,V,V
+2019 - 2020,English Premier League,2019-08-17,FC Southampton,Liverpool,False,2,2,4-3-3,15,6,2,0,0,31,6,1,9,1,0,1361,433,V,5,18,5,10,61%,2045.0657959,1663,382.0657959,8,2,1,1,0,V,V
+2019 - 2020,English Premier League,2019-08-24,Liverpool,Arsenal FC,True,3,2,4-3-3,25,5,2,1,1,36,8,1,6,1,0,1548,498,V,7,18,2,11,51%,2049.84277344,1878,171.8427734400002,7,3,1,1,0,V,V
+2019 - 2020,English Premier League,2019-08-31,Burnley FC,Liverpool,False,3,2,4-3-3,15,7,2,0,0,23,15,1,4,0,0,1461,438,V,5,20,6,8,61%,2054.93359375,1697,357.93359375,7,3,2,0,0,V,V
+2019 - 2020,English Premier League,2019-09-14,Liverpool,Newcastle United FC,True,3,2,4-3-3,21,9,0,0,0,49,5,2,10,0,0,2163,769,V,3,11,1,10,70%,2058.50927734,1713,345.50927734000015,14,3,2,1,1,V,V
+2019 - 2020,English Premier League,2019-09-22,Chelsea,Liverpool,False,2,2,4-3-3,6,3,1,0,0,15,13,1,4,3,0,1071,322,V,7,15,4,12,45%,2034.8470459,1855,179.8470459,5,2,2,1,0,V,V
+2019 - 2020,English Premier League,2019-09-28,Sheffield United FC,Liverpool,False,1,0,4-3-3,16,4,2,0,0,28,4,1,5,1,0,1774,607,V,7,18,3,10,65%,2039.78540039,1639,400.78540038999995,3,1,0,0,0,V,N
+2019 - 2020,English Premier League,2019-10-05,Liverpool,Leicester City,True,2,1,4-3-3,18,8,0,1,1,23,9,3,4,1,0,1345,414,V,12,17,5,10,51%,2041.78515625,1768,273.78515625,3,2,1,1,0,V,V
+2019 - 2020,English Premier League,2019-10-20,Manchester United,Liverpool,False,1,1,4-3-3,10,4,1,0,0,32,14,1,1,1,0,1699,554,N,3,27,4,8,62%,2043.49182129,1810,233.49182128999996,15,1,0,1,1,N,D
+2019 - 2020,English Premier League,2019-10-27,Liverpool,Tottenham Hotspur,True,2,0,4-3-3,21,13,3,1,1,48,9,0,8,3,0,1670,538,V,4,16,6,14,63%,2050.35034179999,1843,207.35034179999002,4,2,0,1,1,V,D
+2019 - 2020,English Premier League,2019-11-02,Aston Villa,Liverpool,False,2,2,4-3-3,25,6,1,0,0,47,9,2,10,2,0,1755,575,V,4,20,2,14,65%,2052.68359375,1644,408.68359375,6,2,0,1,1,V,D
+2019 - 2020,English Premier League,2019-11-10,Liverpool,Manchester City,True,3,2,4-3-3,12,5,2,0,0,19,10,3,4,0,0,1217,346,V,5,24,1,9,47%,2053.68701172,2026,27.6870117200001,5,3,2,1,0,V,V
+2019 - 2020,English Premier League,2019-11-23,Crystal Palace FC,Liverpool,False,2,1,4-3-3,12,4,5,0,0,30,7,0,8,1,0,1383,434,V,1,22,9,16,54%,2061.64257812,1741,320.64257812000005,13,2,0,1,0,V,N
+2019 - 2020,English Premier League,2019-11-30,Liverpool,Brighton & Hove Albion,True,2,2,4-3-3,15,7,4,0,0,18,3,1,4,0,1,1170,383,V,10,22,4,9,46%,2043.8458252,1633,410.84582520000004,3,2,2,1,0,V,V
+2019 - 2020,English Premier League,2019-12-04,Liverpool,Everton FC,True,5,5,4-3-3,11,5,2,0,0,16,13,3,5,1,0,1301,419,V,1,12,5,13,57%,2044.61401367,1702,342.6140136700001,4,5,4,2,2,V,V
+2019 - 2020,English Premier League,2019-12-07,AFC Bournemouth,Liverpool,False,3,3,4-3-3,21,9,0,0,0,34,6,1,3,1,0,2150,769,V,4,8,3,9,70%,2046.59387207,1679,367.5938720700001,3,3,2,0,0,V,V
+2019 - 2020,English Premier League,2019-12-14,Liverpool,Watford,True,2,2,4-2-3-1,16,6,2,0,0,23,8,5,6,2,0,1665,540,V,2,7,6,8,62%,2059.01733398,1630,429.0173339799999,4,2,1,0,0,V,V
+2019 - 2020,English Premier League,2019-12-26,Leicester City,Liverpool,False,4,3,4-3-3,15,6,0,1,1,34,7,3,8,1,0,1621,523,V,2,16,3,11,58%,2059.98071289,1827,232.98071289000018,5,4,1,0,0,V,V
+2019 - 2020,English Premier League,2019-12-29,Liverpool,Wolverhampton Wanderers FC,True,1,1,4-3-3,10,3,2,0,0,20,7,2,5,1,0,1686,546,V,4,19,2,11,59%,2067.63696289,1772,295.6369628900002,3,1,1,0,0,V,V
+2019 - 2020,English Premier League,2020-01-02,Liverpool,Sheffield United FC,True,2,1,4-3-3,19,7,2,0,0,33,5,1,8,0,0,2437,891,V,6,6,4,8,71%,2069.15380859,1685,384.15380859000015,4,2,1,0,0,V,V
+2019 - 2020,English Premier League,2020-01-11,Tottenham Hotspur,Liverpool,False,1,1,4-3-3,13,7,4,0,0,27,8,2,3,2,0,1977,685,V,8,17,11,17,62%,2070.47412109,1820,250.47412109000015,6,1,1,0,0,V,V
+2019 - 2020,English Premier League,2020-01-19,Liverpool,Manchester United,True,2,2,4-3-3,16,5,4,0,0,29,7,2,11,1,0,1405,410,V,4,14,7,11,54%,2073.97216797,1819,254.9721679700001,8,2,1,0,0,V,V
+2019 - 2020,English Premier League,2020-01-23,Wolverhampton Wanderers FC,Liverpool,False,2,2,4-3-3,13,6,2,0,0,12,11,0,4,1,0,1560,513,V,1,13,2,15,51%,2076.77856445,1765,311.77856445,4,2,1,1,0,V,V
+2019 - 2020,English Premier League,2020-01-29,West Ham United,Liverpool,False,2,1,4-3-3,13,5,4,1,1,21,6,0,7,0,0,1947,728,V,2,14,5,6,64%,2079.34912109,1685,394.34912109000015,3,2,1,0,0,V,V
+2019 - 2020,English Premier League,2020-02-01,Liverpool,FC Southampton,True,4,4,4-3-3,16,9,4,0,0,15,9,2,6,0,0,1388,415,V,4,21,4,8,57%,2081.60449219,1701,380.6044921900002,3,4,0,0,0,V,N
+2019 - 2020,English Premier League,2020-02-15,Norwich City,Liverpool,False,1,1,4-3-3,17,6,1,0,0,35,11,0,7,2,0,1700,560,V,4,14,3,10,60%,2083.49731445,1603,480.49731445,11,1,0,0,0,V,N
+2019 - 2020,English Premier League,2020-02-24,Liverpool,West Ham United,True,3,3,4-3-3,25,7,2,0,0,41,4,2,16,0,0,1825,552,V,2,15,3,11,65%,2077.74145508,1678,399.7414550799999,6,3,1,2,1,V,N
+2019 - 2020,English Premier League,2020-02-29,Watford,Liverpool,False,0,0,4-3-3,7,1,2,0,0,32,8,1,5,0,0,1848,596,D,4,18,4,4,64%,2075.89550781,1662,413.8955078099998,5,0,0,3,0,D,N
+2019 - 2020,English Premier League,2020-03-07,Liverpool,AFC Bournemouth,True,2,2,4-3-3,14,6,2,0,0,36,10,1,9,0,0,1878,637,V,4,12,1,7,69%,2048.10473633,1641,407.1047363299999,4,2,2,1,1,V,V
+2019 - 2020,English Premier League,2020-06-21,Everton FC,Liverpool,False,0,0,4-3-3,10,3,3,0,0,8,12,1,6,2,0,733,639,N,2,9,3,20,70,2020.29455566,1733,287.29455566,102,0,0,0,0,N,N
+2019 - 2020,English Premier League,2020-06-24,Liverpool,Crystal Palace,True,4,3,4-3-3,21,7,0,0,0,18,9,0,6,0,0,1025,929,V,4,8,0,15,73,2014.28186035,1732,282.28186035,3,4,2,0,0,V,V
+2019 - 2020,English Premier League,2020-07-02,Manchester City,Liverpool,False,0,0,4-3-3,11,3,2,0,0,21,7,2,3,2,0,1392,469,D,6,13,6,11,49%,2017.88659668,1970,47.88659667999991,8,0,0,4,3,D,D
+2019 - 2020,English Premier League,2020-07-05,Liverpool,Aston Villa,True,2,2,4-3-3,6,4,3,0,0,32,18,1,7,1,0,1789,585,V,3,8,5,9,65%,2001.73840332,1595,406.7384033200001,3,2,0,0,0,V,N
+2019 - 2020,English Premier League,2020-07-08,Brighton & Hove Albion,Liverpool,False,3,3,4-3-3,19,8,1,0,0,32,15,0,10,4,0,1371,431,V,3,17,3,8,53%,2002.9407959,1652,350.9407959,3,3,2,1,1,V,V
+2019 - 2020,English Premier League,2020-07-11,Liverpool,Burnley FC,True,1,1,4-3-3,23,9,1,0,0,36,7,2,11,1,0,1968,600,N,6,12,5,5,66%,2005.79724121,1725,280.79724121000004,3,1,1,1,0,N,V
+2019 - 2020,English Premier League,2020-07-15,Arsenal FC,Liverpool,False,1,1,4-3-3,24,8,0,0,0,36,10,4,13,1,0,1706,558,D,6,15,5,7,64%,1998.45800781,1800,198.45800781000003,4,1,1,2,2,D,D
+2019 - 2020,English Premier League,2020-07-22,Liverpool,Chelsea,True,5,3,4-3-3,10,7,2,0,0,14,8,0,6,1,0,1356,484,V,2,10,2,7,49%,1986.60888672,1820,166.6088867200001,7,5,3,3,1,V,V
+2019 - 2020,English Premier League,2020-07-26,Newcastle United FC,Liverpool,False,3,3,4-3-3,14,6,1,0,0,18,5,1,4,0,0,2059,732,V,2,9,2,4,68%,1991.13781738,1686,305.1378173799999,4,3,1,1,1,V,N

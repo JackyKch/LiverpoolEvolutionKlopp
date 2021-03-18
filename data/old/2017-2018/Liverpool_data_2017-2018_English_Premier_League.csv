@@ -1,0 +1,39 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+2017-08-12,English Premier League,Watford ,3,3,Liverpool,N,False,2017 - 2018,7
+2017-08-19,English Premier League,Liverpool ,1,0,Crystal,V,True,2017 - 2018,4
+2017-08-27,English Premier League,Liverpool ,4,0,Arsenal,V,True,2017 - 2018,4
+2017-09-09,English Premier League,Manchester City ,5,0,Liverpool,D,False,2017 - 2018,13
+2017-09-16,English Premier League,Liverpool ,1,1,Burnley,N,True,2017 - 2018,3
+2017-09-23,English Premier League,Leicester City ,2,3,Liverpool,V,False,2017 - 2018,4
+2017-10-01,English Premier League,Newcastle United FC ,1,1,Liverpool,N,False,2017 - 2018,5
+2017-10-14,English Premier League,Liverpool ,0,0,Manchester,N,True,2017 - 2018,13
+2017-10-22,English Premier League,Tottenham Hotspur ,4,1,Liverpool,D,False,2017 - 2018,5
+2017-10-28,English Premier League,Liverpool ,3,0,Huddersfield,V,True,2017 - 2018,6
+2017-11-04,English Premier League,West Ham United ,1,4,Liverpool,V,False,2017 - 2018,3
+2017-11-18,English Premier League,Liverpool ,3,0,FC,V,True,2017 - 2018,14
+2017-11-25,English Premier League,Liverpool ,1,1,Chelsea,N,True,2017 - 2018,4
+2017-11-29,English Premier League,Stoke City FC ,0,3,Liverpool,V,False,2017 - 2018,4
+2017-12-02,English Premier League,Brighton & Hove Albion ,1,5,Liverpool,V,False,2017 - 2018,3
+2017-12-10,English Premier League,Liverpool ,1,1,Everton,N,True,2017 - 2018,4
+2017-12-13,English Premier League,Liverpool ,0,0,West,N,True,2017 - 2018,3
+2017-12-17,English Premier League,AFC Bournemouth ,0,4,Liverpool,V,False,2017 - 2018,4
+2017-12-22,English Premier League,Arsenal FC ,3,3,Liverpool,N,False,2017 - 2018,5
+2017-12-26,English Premier League,Liverpool ,5,0,Swansea,V,True,2017 - 2018,4
+2017-12-30,English Premier League,Liverpool ,2,1,Leicester,V,True,2017 - 2018,4
+2018-01-01,English Premier League,Burnley FC ,1,2,Liverpool,V,False,2017 - 2018,2
+2018-01-14,English Premier League,Liverpool ,4,3,Manchester,V,True,2017 - 2018,9
+2018-01-22,English Premier League,Swansea City ,1,0,Liverpool,D,False,2017 - 2018,8
+2018-01-30,English Premier League,Huddersfield Town ,0,3,Liverpool,V,False,2017 - 2018,3
+2018-02-04,English Premier League,Liverpool ,2,2,Tottenham,N,True,2017 - 2018,5
+2018-02-11,English Premier League,FC Southampton ,0,2,Liverpool,V,False,2017 - 2018,7
+2018-02-24,English Premier League,Liverpool ,4,1,West,V,True,2017 - 2018,10
+2018-03-03,English Premier League,Liverpool ,2,0,Newcastle,V,True,2017 - 2018,7
+2018-03-10,English Premier League,Manchester United ,2,1,Liverpool,D,False,2017 - 2018,4
+2018-03-17,English Premier League,Liverpool ,5,0,Watford,V,True,2017 - 2018,7
+2018-03-31,English Premier League,Crystal Palace FC ,1,2,Liverpool,V,False,2017 - 2018,14
+2018-04-07,English Premier League,Everton FC ,0,0,Liverpool,N,False,2017 - 2018,3
+2018-04-14,English Premier League,Liverpool ,3,0,AFC,V,True,2017 - 2018,4
+2018-04-21,English Premier League,West Bromwich Albion FC ,2,2,Liverpool,N,False,2017 - 2018,7
+2018-04-28,English Premier League,Liverpool ,0,0,Stoke,N,True,2017 - 2018,4
+2018-05-06,English Premier League,Chelsea ,1,0,Liverpool,D,False,2017 - 2018,4
+2018-05-13,English Premier League,Liverpool ,4,0,Brighton,V,True,2017 - 2018,7

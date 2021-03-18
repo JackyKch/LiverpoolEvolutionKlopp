@@ -1,0 +1,9 @@
+Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,Interceptions,Blocks,Catches,Tackles,Possession,date_match,contests,home_team,away_team,liverpool_result,at_anfield,season,rest_days,elo_liverpool,elo_opponent,Diff_elo,liverpool_score_ft,opponent_score_ft
+0,0,4-3-3,12,4,3,0,0,15,10,1,6,2,0,1504,520,5,25,1,20,51%,2019-09-17,UEFA Champions League,SSC Napoli,Liverpool,D,False,2019 - 2020,3,2060.13549805,1804,256.13549805,0,2
+4,4,4-3-3,11,5,2,0,0,21,7,1,6,1,0,1935,694,7,18,3,10,67%,2019-10-02,UEFA Champions League,Liverpool,Red Bull Salzburg,V,True,2019 - 2020,4,2035.74169922,1800,235.7416992200001,4,3
+4,4,4-3-3,16,7,3,0,0,31,14,2,7,1,0,2050,712,1,20,6,10,68%,2019-10-23,UEFA Champions League,KRC Genk,Liverpool,V,False,2019 - 2020,3,2041.11743164,1619,422.11743163999995,4,1
+2,1,4-3-3,27,8,2,0,0,30,10,3,9,0,0,2036,716,7,9,3,12,64%,2019-11-05,UEFA Champions League,Liverpool,KRC Genk,V,True,2019 - 2020,3,2054.2434082,1593,461.2434082,2,1
+1,1,4-3-3,14,4,0,0,0,49,15,0,10,2,0,2029,687,4,20,7,8,66%,2019-11-27,UEFA Champions League,Liverpool,SSC Napoli,N,True,2019 - 2020,4,2063.20532227,1785,278.2053222700001,1,1
+2,1,4-3-3,22,7,5,0,0,20,4,1,4,1,0,1626,504,9,19,4,9,57%,2019-12-10,UEFA Champions League,Red Bull Salzburg,Liverpool,V,False,2019 - 2020,3,2049.83374023,1787,262.8337402299999,2,0
+0,0,4-3-3,6,0,1,0,0,33,13,1,7,3,0,1930,640,1,10,1,11,68%,2020-02-18,UEFA Champions League,Atletico de Madrid,Liverpool,D,False,2019 - 2020,3,2084.40844727,1840,244.40844727000012,0,1
+2,1,4-3-3,35,12,3,0,0,72,18,2,16,1,0,2381,764,10,16,6,15,66%,2020-03-11,UEFA Champions League,Liverpool,Atletico de Madrid,D,True,2019 - 2020,4,2045.39086914,1841,204.39086913999995,2,3

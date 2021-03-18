@@ -1,0 +1,39 @@
+season,contests,date_match,home_team,away_team,at_anfield,Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,liverpool_score,Interceptions,Blocks,Catches,Tackles,Possession,Elo_Liverpool,Elo_Opponent,Elo_Diff,Rest_Days,liverpool_score_ft,liverpool_score_ht,opponent_score_ft,opponent_score_ht,liverpool_result_ft,liverpool_result_ht
+2018 - 2019,English Premier League,2018-08-12,Liverpool,West Ham United,True,4,3,4-3-3,18,8,2,0,0,33,14,5,5,1,0,1873,628,V,8,19,5,11,61%,1914.92382812,1671,243.92382812000005,5,4,2,0,0,V,V
+2018 - 2019,English Premier League,2018-08-20,Crystal Palace FC,Liverpool,False,2,1,4-3-3,16,6,2,1,1,28,13,2,7,1,0,1755,585,V,6,15,5,16,59%,1921.41906738,1705,216.4190673799999,8,2,1,0,0,V,V
+2018 - 2019,English Premier League,2018-08-25,Liverpool,Brighton & Hove Albion,True,1,1,4-3-3,22,8,2,0,0,32,8,1,8,1,0,2038,680,V,2,13,3,16,69%,1923.71032715,1633,290.71032715,5,1,1,0,0,V,V
+2018 - 2019,English Premier League,2018-09-01,Leicester City,Liverpool,False,2,2,4-3-3,10,4,4,0,0,12,12,2,4,2,0,1347,410,V,7,17,4,13,50%,1922.75268555,1703,219.75268555000002,7,2,2,1,0,V,V
+2018 - 2019,English Premier League,2018-09-15,Tottenham Hotspur,Liverpool,False,2,0,4-3-3,17,10,2,0,0,15,16,2,4,0,0,1085,294,V,8,18,3,13,42%,1926.84753418,1916,10.847534179999911,14,2,1,1,0,V,V
+2018 - 2019,English Premier League,2018-09-22,Liverpool,FC Southampton,True,3,1,4-2-3-1,12,4,1,0,0,23,7,4,5,0,0,1924,681,V,4,14,5,11,57%,1939.24194336,1645,294.24194336000005,4,3,3,0,0,V,V
+2018 - 2019,English Premier League,2018-09-29,Chelsea,Liverpool,False,1,1,4-3-3,13,6,3,0,0,22,8,2,4,2,0,1665,553,N,8,18,3,14,54%,1941.79602051,1855,86.79602051000006,3,1,0,1,1,N,D
+2018 - 2019,English Premier League,2018-10-07,Liverpool,Manchester City,True,0,0,4-3-3,7,2,2,0,0,21,10,2,2,1,0,1514,467,N,9,19,4,16,51%,1929.03295898,1963,-33.9670410199999,4,0,0,0,0,N,N
+2018 - 2019,English Premier League,2018-10-20,Huddersfield Town,Liverpool,False,1,1,4-3-3,11,2,1,0,0,20,6,2,4,2,0,1542,499,V,9,25,3,11,51%,1928.21496582,1542,386.2149658200001,13,1,1,0,0,V,V
+2018 - 2019,English Premier League,2018-10-27,Liverpool,Cardiff City,True,4,2,4-2-3-1,19,7,0,0,0,32,6,0,8,0,0,2301,776,V,5,14,0,13,74%,1933.84973145,1556,377.84973145000004,3,4,1,1,0,V,V
+2018 - 2019,English Premier League,2018-11-03,Arsenal FC,Liverpool,False,1,0,4-3-3,13,4,3,0,0,24,7,1,8,1,0,1083,300,N,5,24,5,11,41%,1935.45996094,1845,90.45996093999997,7,1,0,1,0,N,N
+2018 - 2019,English Premier League,2018-11-11,Liverpool,Fulham FC,True,2,2,4-3-3,20,7,3,0,0,28,11,2,6,1,0,1925,667,V,3,17,3,12,67%,1911.03955078,1572,339.0395507799999,5,2,1,0,0,V,V
+2018 - 2019,English Premier League,2018-11-24,Watford,Liverpool,False,3,1,4-2-3-1,10,7,1,0,0,22,13,4,5,0,1,1673,559,V,15,16,4,9,61%,1912.60180664,1650,262.60180663999995,13,3,0,0,0,V,N
+2018 - 2019,English Premier League,2018-12-02,Liverpool,Everton FC,True,1,0,4-2-3-1,16,4,3,0,0,28,12,1,8,3,0,1474,452,V,3,15,3,11,57%,1913.48352051,1711,202.48352051000006,4,1,0,0,0,V,N
+2018 - 2019,English Premier League,2018-12-05,Burnley FC,Liverpool,False,3,3,4-4-2,18,12,5,0,0,28,3,3,9,0,0,1781,603,V,3,12,8,7,67%,1915.98449707,1615,300.9844970700001,3,3,0,1,0,V,N
+2018 - 2019,English Premier League,2018-12-08,AFC Bournemouth,Liverpool,False,4,2,4-4-2,10,4,2,0,0,17,11,2,6,1,0,1656,561,V,7,28,2,7,58%,1919.99267578,1683,236.9926757799999,3,4,1,0,0,V,V
+2018 - 2019,English Premier League,2018-12-16,Liverpool,Manchester United,True,3,1,4-3-3,36,11,1,0,0,33,6,2,13,0,0,1692,480,V,5,16,3,12,61%,1930.93078613,1842,88.93078612999989,5,3,1,1,1,V,N
+2018 - 2019,English Premier League,2018-12-21,Wolverhampton Wanderers FC,Liverpool,False,2,2,4-2-3-1,15,6,5,0,0,18,3,2,10,0,0,1789,623,V,11,24,5,8,60%,1937.31054688,1628,309.31054687999995,5,2,1,0,0,V,V
+2018 - 2019,English Premier League,2018-12-26,Liverpool,Newcastle United FC,True,4,2,4-2-3-1,16,8,2,1,1,38,7,1,10,0,0,1849,659,V,8,14,7,11,67%,1941.13952637,1630,311.1395263700001,5,4,1,0,0,V,V
+2018 - 2019,English Premier League,2018-12-29,Liverpool,Arsenal FC,True,5,1,4-2-3-1,15,10,1,2,2,11,8,2,5,1,0,1296,438,V,14,24,4,10,45%,1944.08325195,1843,101.08325194999998,3,5,4,1,1,V,V
+2018 - 2019,English Premier League,2019-01-03,Manchester City,Liverpool,False,1,1,4-3-3,7,5,2,0,0,20,7,1,1,2,0,1419,499,D,7,16,3,11,48%,1952.49291992,1963,-10.507080079999923,5,1,0,2,1,D,D
+2018 - 2019,English Premier League,2019-01-12,Brighton & Hove Albion,Liverpool,False,1,0,4-2-3-1,10,3,0,1,1,22,5,0,7,0,0,1868,664,V,8,11,6,13,67%,1946.10949707,1641,305.1094970700001,5,1,0,0,0,V,N
+2018 - 2019,English Premier League,2019-01-19,Liverpool,Crystal Palace FC,True,4,2,4-2-3-1,19,9,0,0,0,37,6,1,8,0,1,2031,665,V,4,21,5,10,64%,1948.7277832,1658,290.7277832,7,4,0,3,1,V,D
+2018 - 2019,English Premier League,2019-01-30,Liverpool,Leicester City,True,1,0,4-2-3-1,10,3,1,0,0,35,13,4,7,1,0,2085,729,N,7,14,3,6,67%,1950.35314941,1683,267.35314941,11,1,1,1,1,N,N
+2018 - 2019,English Premier League,2019-02-04,West Ham United,Liverpool,False,1,1,4-3-3,11,6,1,0,0,22,11,3,5,1,0,1867,618,N,3,13,6,15,65%,1943.01025391,1663,280.0102539100001,5,1,1,1,1,N,N
+2018 - 2019,English Premier League,2019-02-09,Liverpool,AFC Bournemouth,True,3,3,4-3-3,20,9,2,0,0,21,14,1,8,2,0,2025,662,V,9,26,3,20,64%,1937.44152832,1670,267.4415283200001,5,3,2,0,0,V,V
+2018 - 2019,English Premier League,2019-02-24,Manchester United,Liverpool,False,0,0,4-3-3,7,1,3,0,0,34,17,1,7,3,0,1636,505,N,7,14,6,11,62%,1940.45117188,1861,79.45117187999995,5,0,0,0,0,N,N
+2018 - 2019,English Premier League,2019-02-27,Liverpool,Watford,True,5,5,4-3-3,19,10,3,0,0,32,5,1,6,0,0,1719,558,V,8,18,4,17,58%,1939.83374023,1682,257.8337402300001,3,5,2,0,0,V,V
+2018 - 2019,English Premier League,2019-03-03,Everton FC,Liverpool,False,0,0,4-3-3,10,3,3,0,0,28,10,4,7,2,0,1284,387,N,14,13,8,9,53%,1943.95910645,1679,264.95910645000004,4,0,0,0,0,N,N
+2018 - 2019,English Premier League,2019-03-10,Liverpool,Burnley FC,True,4,1,4-3-3,23,5,0,0,0,30,4,2,7,2,0,1696,563,V,6,16,5,16,63%,1945.45141602,1644,301.4514160199999,7,4,2,2,1,V,V
+2018 - 2019,English Premier League,2019-03-17,Fulham FC,Liverpool,False,2,1,4-3-3,16,6,1,1,1,42,7,1,10,1,0,1647,532,V,8,16,4,8,61%,1976.72216797,1564,412.7221679700001,4,2,1,1,0,V,V
+2018 - 2019,English Premier League,2019-03-31,Liverpool,Tottenham Hotspur,True,2,1,4-3-3,14,3,1,0,0,28,5,2,10,0,0,1232,386,V,5,24,1,6,48%,1978.22216797,1899,79.2221679700001,14,2,1,1,0,V,V
+2018 - 2019,English Premier League,2019-04-05,FC Southampton,Liverpool,False,3,3,4-3-3,17,5,0,0,0,35,7,3,5,4,0,1532,509,V,3,11,4,14,63%,1982.79174805,1678,304.79174805,5,3,1,1,1,V,N
+2018 - 2019,English Premier League,2019-04-14,Liverpool,Chelsea,True,2,2,4-3-3,15,7,3,0,0,33,5,2,9,0,0,1849,589,V,11,15,3,15,61%,1995.51538086,1866,129.51538086000005,5,2,0,0,0,V,N
+2018 - 2019,English Premier League,2019-04-21,Cardiff City,Liverpool,False,2,1,4-3-3,17,6,2,1,1,24,5,2,10,1,0,1776,584,V,6,18,2,9,71%,2006.70556641,1590,416.7055664100001,4,2,0,0,0,V,N
+2018 - 2019,English Premier League,2019-04-26,Liverpool,Huddersfield Town,True,5,5,4-3-3,21,7,1,0,0,20,5,2,4,0,0,1997,668,V,10,14,4,11,68%,2008.90795898,1501,507.9079589800001,5,5,3,0,0,V,V
+2018 - 2019,English Premier League,2019-05-04,Newcastle United FC,Liverpool,False,3,3,4-3-3,11,4,4,0,0,22,4,2,3,1,0,1713,601,V,4,17,8,7,64%,1993.42053223,1690,303.42053222999994,3,3,2,2,1,V,V
+2018 - 2019,English Premier League,2019-05-12,Liverpool,Wolverhampton Wanderers FC,True,2,1,4-3-3,13,5,2,0,0,20,3,3,4,0,0,1699,540,V,3,15,4,9,59%,2035.16088867,1721,314.1608886700001,5,2,1,0,0,V,V

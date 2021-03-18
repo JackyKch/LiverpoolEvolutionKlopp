@@ -1,0 +1,39 @@
+season,contests,date_match,home_team,away_team,at_anfield,Goals,Assists,Formation,Shots,Shots On Target,Saves,Penalties won,Penalties scored,Crosses,Fouls,Offsides,Corners,Yellow Card,Red Cards,Balls touched,Passes,liverpool_score,Interceptions,Blocks,Catches,Tackles,Possession,Elo_Liverpool,Elo_Opponent,Elo_Diff,Rest_Days,liverpool_score_ft,liverpool_score_ht,opponent_score_ft,opponent_score_ht,liverpool_result_ft,liverpool_result_ht
+2014 - 2015,English Premier League,2014-08-17,Liverpool,FC Southampton,True,2,2,4-3-3,12,5,5,0,0,12,8,2,2,1,0,770,452,V,51,4,3,5,58%,1897.86303711,1717,180.86303711000005,7,2,1,1,0,V,V
+2014 - 2015,English Premier League,2014-08-25,Manchester City,Liverpool,False,1,0,4-3-3,11,3,1,0,0,16,7,1,7,1,0,709,446,D,92,2,1,6,46%,1897.79125977,1954,-56.2087402300001,8,1,0,3,1,D,D
+2014 - 2015,English Premier League,2014-08-31,Tottenham Hotspur,Liverpool,False,3,1,4-4-2,17,8,1,1,1,8,11,1,3,4,0,516,243,V,56,1,0,6,39%,1890.76953125,1807,83.76953125,6,3,1,0,0,V,V
+2014 - 2015,English Premier League,2014-09-13,Liverpool,Aston Villa,True,0,0,4-2-3-1,18,1,0,0,0,22,9,3,7,2,0,898,618,D,45,0,0,12,65%,1902.55236816,1630,272.55236816,13,0,0,1,1,D,D
+2014 - 2015,English Premier League,2014-09-20,West Ham United,Liverpool,False,1,0,4-3-3,11,5,4,0,0,17,11,0,5,1,0,733,393,D,87,5,2,12,57%,1883.68005371,1648,235.68005371000004,4,1,1,3,2,D,D
+2014 - 2015,English Premier League,2014-09-27,Liverpool,Everton FC,True,1,0,4-3-3,24,8,4,0,0,20,8,2,8,2,0,693,365,N,86,5,3,10,46%,1866.01416016,1804,62.014160160000074,7,1,0,1,0,N,N
+2014 - 2015,English Premier League,2014-10-04,Liverpool,West Bromwich Albion FC,True,2,2,4-2-3-1,19,7,3,0,0,21,12,3,5,2,0,545,223,V,39,8,2,6,42%,1847.27001953,1632,215.2700195299999,3,2,1,1,0,V,V
+2014 - 2015,English Premier League,2014-10-19,Queens Park Rangers,Liverpool,False,3,1,4-2-3-1,15,5,4,0,0,9,15,2,2,3,0,784,376,V,109,7,0,12,52%,1849.68725586,1547,302.68725586000005,15,3,0,2,0,V,N
+2014 - 2015,English Premier League,2014-10-25,Liverpool,Hull City,True,0,0,4-3-3,18,4,3,0,0,29,12,1,14,3,0,747,441,N,24,5,2,22,62%,1843.09118652,1578,265.09118652000006,3,0,0,0,0,N,N
+2014 - 2015,English Premier League,2014-11-01,Newcastle United FC,Liverpool,False,0,0,4-3-3,6,3,1,0,0,18,8,7,2,3,0,813,483,D,77,9,0,10,60%,1835.81103516,1634,201.81103516000007,4,0,0,1,0,D,N
+2014 - 2015,English Premier League,2014-11-08,Liverpool,Chelsea,True,1,1,4-2-3-1,12,4,3,0,0,26,9,6,5,2,0,775,432,D,81,9,2,10,54%,1815.82714844,1921,-105.17285156000003,4,1,1,2,1,D,N
+2014 - 2015,English Premier League,2014-11-23,Crystal Palace FC,Liverpool,False,1,1,4-2-3-1,12,1,2,0,0,18,10,1,3,2,0,762,469,D,64,6,1,5,58%,1809.1505127,1589,220.15051270000004,15,1,1,3,1,D,N
+2014 - 2015,English Premier League,2014-11-29,Liverpool,Stoke City FC,True,1,0,4-2-3-1,16,3,4,0,0,24,11,0,5,0,0,752,369,V,95,9,1,6,45%,1800.33056641,1673,127.33056641000007,3,1,0,0,0,V,N
+2014 - 2015,English Premier League,2014-12-02,Leicester City,Liverpool,False,3,1,4-4-2,11,3,3,0,0,14,10,6,4,2,0,697,352,V,77,14,2,5,52%,1804.09375,1610,194.09375,3,3,1,1,1,V,N
+2014 - 2015,English Premier League,2014-12-06,Liverpool,AFC Sunderland,True,0,0,4-2-3-1,15,2,1,0,0,27,12,1,5,1,0,725,375,N,93,6,0,14,54%,1810.6114502,1647,163.61145020000004,4,0,0,0,0,N,N
+2014 - 2015,English Premier League,2014-12-14,Manchester United,Liverpool,False,0,0,3-5-2,19,8,3,0,0,10,14,2,7,3,0,680,349,D,92,2,1,5,48%,1797.86706543,1842,-44.13293457000009,5,0,0,3,2,D,D
+2014 - 2015,English Premier League,2014-12-21,Liverpool,Arsenal FC,True,2,2,3-4-3,27,10,1,0,0,10,6,0,10,0,1,925,518,N,115,6,0,8,56%,1788.74633789,1847,-58.25366211000005,4,2,1,2,1,N,N
+2014 - 2015,English Premier League,2014-12-26,Burnley FC,Liverpool,False,1,1,3-4-3,10,3,0,0,0,13,5,4,2,1,0,798,395,V,105,10,0,1,55%,1788.64733887,1586,202.6473388700001,5,1,0,0,0,V,N
+2014 - 2015,English Premier League,2014-12-29,Liverpool,Swansea City,True,4,2,3-4-3,21,11,3,0,0,9,8,2,6,1,0,678,405,V,66,3,2,6,47%,1793.18505859,1687,106.18505858999993,3,4,1,1,0,V,V
+2014 - 2015,English Premier League,2015-01-01,Liverpool,Leicester City,True,2,0,3-4-1-2,18,6,1,2,2,12,13,2,4,2,0,669,362,N,64,9,0,9,51%,1800.46789551,1591,209.46789551000006,3,2,2,2,0,N,V
+2014 - 2015,English Premier League,2015-01-10,AFC Sunderland,Liverpool,False,1,1,3-4-3,21,4,1,0,0,14,11,0,6,4,0,697,430,V,64,7,1,14,55%,1794.05615234,1642,152.05615233999993,5,1,1,0,0,V,V
+2014 - 2015,English Premier League,2015-01-17,Aston Villa,Liverpool,False,2,2,3-4-3,12,5,4,0,0,16,11,5,5,1,0,730,374,V,85,4,1,9,56%,1799.59545898,1607,192.5954589800001,7,2,1,0,0,V,V
+2014 - 2015,English Premier League,2015-01-31,Liverpool,West Ham United,True,2,2,3-4-3,21,7,2,0,0,12,12,1,5,1,0,805,435,V,88,7,2,13,61%,1806.31896973,1707,99.31896972999994,4,2,0,0,0,V,N
+2014 - 2015,English Premier League,2015-02-07,Everton FC,Liverpool,False,0,0,3-4-2-1,17,6,1,0,0,7,7,2,6,1,0,762,452,N,61,0,0,10,54%,1812.40515137,1746,66.40515137000011,3,0,0,0,0,N,N
+2014 - 2015,English Premier League,2015-02-10,Liverpool,Tottenham Hotspur,True,3,2,3-4-2-1,16,7,3,1,1,13,13,1,5,3,0,1216,294,V,73,9,1,7,49%,1812.03479004,1791,21.03479003999996,3,3,1,2,1,V,N
+2014 - 2015,English Premier League,2015-02-22,FC Southampton,Liverpool,False,2,1,3-4-2-1,6,4,5,0,0,6,14,2,1,3,0,1292,272,V,78,4,2,20,44%,1824.15197754,1774,50.15197753999996,3,2,1,0,0,V,V
+2014 - 2015,English Premier League,2015-03-01,Liverpool,Manchester City,True,2,2,3-4-2-1,11,5,0,0,0,11,8,3,3,1,0,1444,366,V,95,5,0,12,49%,1810.90100098,1911,-100.09899902000006,7,2,1,1,1,V,N
+2014 - 2015,English Premier League,2015-03-04,Liverpool,Burnley FC,True,2,1,3-4-3,20,8,1,0,0,9,8,0,6,0,0,1834,554,V,38,14,1,19,60%,1820.05700684,1569,251.05700683999999,3,2,1,0,0,V,V
+2014 - 2015,English Premier League,2015-03-16,Swansea City,Liverpool,False,1,0,3-4-2-1,16,5,3,0,0,15,16,0,5,3,0,1632,478,V,92,3,1,14,52%,1820.18725586,1666,154.18725586000005,8,1,0,0,0,V,N
+2014 - 2015,English Premier League,2015-03-22,Liverpool,Manchester United,True,1,0,3-4-3,7,1,2,0,0,5,14,0,2,2,1,1266,295,D,60,10,1,13,43%,1821.62683105,1831,-9.373168950000036,6,1,0,2,1,D,D
+2014 - 2015,English Premier League,2015-04-04,Arsenal FC,Liverpool,False,1,0,3-5-2,13,2,6,1,1,11,9,3,5,0,1,1502,389,D,96,5,3,9,50%,1812.62329102,1854,-41.3767089800001,13,1,0,4,3,D,D
+2014 - 2015,English Premier League,2015-04-13,Liverpool,Newcastle United FC,True,2,1,4-3-3,14,6,3,0,0,17,8,3,6,2,0,1498,427,V,52,4,2,23,57%,1802.78552246,1621,181.78552246000004,5,2,1,0,0,V,V
+2014 - 2015,English Premier League,2015-04-25,West Bromwich Albion FC,Liverpool,False,0,0,3-4-3,22,5,4,0,0,23,11,1,4,0,0,2929,566,N,139,2,2,4,67%,1807.02526855,1601,206.02526854999996,6,0,0,0,0,N,N
+2014 - 2015,English Premier League,2015-04-28,Hull City,Liverpool,False,0,0,4-4-2,12,9,3,0,0,14,10,0,7,0,0,1648,513,D,84,6,1,9,63%,1802.78833008,1571,231.78833007999992,3,0,0,1,1,D,D
+2014 - 2015,English Premier League,2015-05-02,Liverpool,Queens Park Rangers,True,2,2,4-3-3,25,8,1,1,0,18,9,3,9,2,0,1446,348,V,113,9,1,5,58%,1790.08776855,1550,240.08776854999996,4,2,1,1,0,V,V
+2014 - 2015,English Premier League,2015-05-10,Chelsea,Liverpool,False,1,1,4-3-3,15,4,2,0,0,22,11,3,4,3,0,1430,391,N,84,14,0,16,52%,1792.27502441,1922,-129.72497558999999,8,1,1,1,1,N,N
+2014 - 2015,English Premier League,2015-05-16,Liverpool,Crystal Palace FC,True,1,0,3-4-3,18,3,3,0,0,22,10,1,4,2,0,1550,480,D,63,3,0,5,60%,1797.00012207,1624,173.0001220700001,6,1,1,3,1,D,N
+2014 - 2015,English Premier League,2015-05-24,Stoke City FC,Liverpool,False,1,1,3-4-1-2,13,4,3,0,0,9,4,1,9,2,0,4369,398,D,75,2,0,4,53%,1777.94396973,1682,95.94396972999994,8,1,0,6,5,D,D

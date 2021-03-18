@@ -1,0 +1,39 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+2018-08-12,English Premier League,Liverpool ,4,0,West,V,True,2018 - 2019,5
+2018-08-20,English Premier League,Crystal Palace FC ,0,2,Liverpool,V,False,2018 - 2019,8
+2018-08-25,English Premier League,Liverpool ,1,0,Brighton,V,True,2018 - 2019,5
+2018-09-01,English Premier League,Leicester City ,1,2,Liverpool,V,False,2018 - 2019,7
+2018-09-15,English Premier League,Tottenham Hotspur ,1,2,Liverpool,V,False,2018 - 2019,14
+2018-09-22,English Premier League,Liverpool ,3,0,FC,V,True,2018 - 2019,4
+2018-09-29,English Premier League,Chelsea ,1,1,Liverpool,N,False,2018 - 2019,3
+2018-10-07,English Premier League,Liverpool ,0,0,Manchester,N,True,2018 - 2019,4
+2018-10-20,English Premier League,Huddersfield Town ,0,1,Liverpool,V,False,2018 - 2019,13
+2018-10-27,English Premier League,Liverpool ,4,1,Cardiff,V,True,2018 - 2019,3
+2018-11-03,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2018 - 2019,7
+2018-11-11,English Premier League,Liverpool ,2,0,Fulham,V,True,2018 - 2019,5
+2018-11-24,English Premier League,Watford ,0,3,Liverpool,V,False,2018 - 2019,13
+2018-12-02,English Premier League,Liverpool ,1,0,Everton,V,True,2018 - 2019,4
+2018-12-05,English Premier League,Burnley FC ,1,3,Liverpool,V,False,2018 - 2019,3
+2018-12-08,English Premier League,AFC Bournemouth ,0,4,Liverpool,V,False,2018 - 2019,3
+2018-12-16,English Premier League,Liverpool ,3,1,Manchester,V,True,2018 - 2019,5
+2018-12-21,English Premier League,Wolverhampton Wanderers FC ,0,2,Liverpool,V,False,2018 - 2019,5
+2018-12-26,English Premier League,Liverpool ,4,0,Newcastle,V,True,2018 - 2019,5
+2018-12-29,English Premier League,Liverpool ,5,1,Arsenal,V,True,2018 - 2019,3
+2019-01-03,English Premier League,Manchester City ,2,1,Liverpool,D,False,2018 - 2019,5
+2019-01-12,English Premier League,Brighton & Hove Albion ,0,1,Liverpool,V,False,2018 - 2019,5
+2019-01-19,English Premier League,Liverpool ,4,3,Crystal,V,True,2018 - 2019,7
+2019-01-30,English Premier League,Liverpool ,1,1,Leicester,N,True,2018 - 2019,11
+2019-02-04,English Premier League,West Ham United ,1,1,Liverpool,N,False,2018 - 2019,5
+2019-02-09,English Premier League,Liverpool ,3,0,AFC,V,True,2018 - 2019,5
+2019-02-24,English Premier League,Manchester United ,0,0,Liverpool,N,False,2018 - 2019,5
+2019-02-27,English Premier League,Liverpool ,5,0,Watford,V,True,2018 - 2019,3
+2019-03-03,English Premier League,Everton FC ,0,0,Liverpool,N,False,2018 - 2019,4
+2019-03-10,English Premier League,Liverpool ,4,2,Burnley,V,True,2018 - 2019,7
+2019-03-17,English Premier League,Fulham FC ,1,2,Liverpool,V,False,2018 - 2019,4
+2019-03-31,English Premier League,Liverpool ,2,1,Tottenham,V,True,2018 - 2019,14
+2019-04-05,English Premier League,FC Southampton ,1,3,Liverpool,V,False,2018 - 2019,5
+2019-04-14,English Premier League,Liverpool ,2,0,Chelsea,V,True,2018 - 2019,5
+2019-04-21,English Premier League,Cardiff City ,0,2,Liverpool,V,False,2018 - 2019,4
+2019-04-26,English Premier League,Liverpool ,5,0,Huddersfield,V,True,2018 - 2019,5
+2019-05-04,English Premier League,Newcastle United FC ,2,3,Liverpool,V,False,2018 - 2019,3
+2019-05-12,English Premier League,Liverpool ,2,0,Wolverhampton,V,True,2018 - 2019,5

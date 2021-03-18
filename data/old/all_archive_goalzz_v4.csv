@@ -1,0 +1,1854 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+1894-02-24,FA Cup,Bolton Wanderers ,3,0,Liverpool,D,False,1893 - 1894,0
+1897-02-27,FA Cup,Liverpool ,1,1,Nottingham,N,True,1896 - 1897,1099
+1897-03-03,FA Cup,Nottingham Forest FC ,0,1,Liverpool,V,False,1896 - 1897,4
+1897-03-20,FA Cup,Aston Villa ,3,0,Liverpool,D,False,1896 - 1897,17
+1898-02-26,FA Cup,Derby County FC ,1,1,Liverpool,N,False,1897 - 1898,343
+1898-03-02,FA Cup,Liverpool ,1,5,Derby,D,True,1897 - 1898,4
+1899-02-25,FA Cup,West Bromwich Albion FC ,0,2,Liverpool,V,False,1898 - 1899,360
+1899-03-18,FA Cup,Sheffield United FC ,2,2,Liverpool,N,False,1898 - 1899,21
+1899-03-23,FA Cup,Sheffield United FC ,4,4,Liverpool,N,False,1898 - 1899,5
+1899-03-30,FA Cup,Sheffield United FC ,1,0,Liverpool,D,False,1898 - 1899,7
+1906-03-10,FA Cup,Liverpool ,3,0,FC,V,True,1905 - 1906,2536
+1906-03-31,FA Cup,Everton FC ,2,0,Liverpool,D,False,1905 - 1906,21
+1907-03-09,FA Cup,Sheffield Wednesday FC ,1,0,Liverpool,D,False,1906 - 1907,343
+1914-03-07,FA Cup,Liverpool ,2,1,Queens,V,True,1913 - 1914,2555
+1914-03-28,FA Cup,Liverpool ,2,0,Aston,V,True,1913 - 1914,21
+1914-04-25,FA Cup,Burnley FC ,1,0,Liverpool,D,False,1913 - 1914,28
+1920-03-06,FA Cup,Huddersfield Town ,2,1,Liverpool,D,False,1919 - 1920,2142
+1922-10-05,FA Community Shield,Huddersfield Town ,1,0,Liverpool,D,False,1922 - 1923,943
+1924-03-08,FA Cup,Newcastle United FC ,1,0,Liverpool,D,False,1923 - 1924,520
+1925-03-07,FA Cup,FC Southampton ,1,0,Liverpool,D,False,1924 - 1925,364
+1932-02-27,FA Cup,Liverpool ,0,2,Chelsea,D,True,1931 - 1932,2548
+1947-03-01,FA Cup,Liverpool ,4,1,Birmingham,V,True,1946 - 1947,5481
+1947-03-29,FA Cup,Burnley FC ,0,0,Liverpool,N,False,1946 - 1947,28
+1947-04-12,FA Cup,Liverpool ,0,1,Burnley,D,True,1946 - 1947,14
+1950-03-04,FA Cup,Blackpool FC ,1,2,Liverpool,V,False,1949 - 1950,1057
+1950-03-25,FA Cup,Everton FC ,0,2,Liverpool,V,False,1949 - 1950,21
+1950-04-29,FA Cup,Liverpool ,0,2,Arsenal,D,True,1949 - 1950,35
+1958-03-01,FA Cup,Blackburn Rovers FC ,2,1,Liverpool,D,False,1957 - 1958,2863
+1963-03-30,FA Cup,Liverpool ,1,0,West,V,True,1962 - 1963,1855
+1963-04-27,FA Cup,Leicester City ,1,0,Liverpool,D,False,1962 - 1963,28
+1964-02-29,FA Cup,Liverpool ,1,2,Swansea,D,True,1963 - 1964,308
+1964-08-15,FA Community Shield,Liverpool ,2,2,West,N,True,1964 - 1965,168
+1964-08-17,UEFA Champions League,KR Reykjavik - Iceland ,0,5,Liverpool,V,False,1964 - 1965,2
+1964-09-14,UEFA Champions League,Liverpool - England ,6,1,KR,V,True,1964 - 1965,28
+1964-11-25,UEFA Champions League,Liverpool - England ,3,0,RSC,V,True,1964 - 1965,72
+1964-12-16,UEFA Champions League,RSC Anderlecht - Belgium ,0,1,Liverpool,V,False,1964 - 1965,21
+1965-02-10,UEFA Champions League,1. FC Koln - Germany ,0,0,Liverpool,N,False,1964 - 1965,56
+1965-03-06,FA Cup,Leicester City ,0,0,Liverpool,N,False,1964 - 1965,24
+1965-03-10,FA Cup,Liverpool ,1,0,Leicester,V,True,1964 - 1965,4
+1965-03-17,UEFA Champions League,Liverpool - England ,0,0,1.,N,True,1964 - 1965,7
+1965-03-24,UEFA Champions League,Liverpool - England ,2,2,1.,N,True,1964 - 1965,7
+1965-03-27,FA Cup,Liverpool ,2,0,Chelsea,V,True,1964 - 1965,3
+1965-05-01,FA Cup,Liverpool ,2,1,Leeds,V,True,1964 - 1965,35
+1965-05-04,UEFA Champions League,Liverpool - England ,3,1,Internazionale,V,True,1964 - 1965,3
+1965-05-12,UEFA Champions League,Internazionale Milano - Italy ,3,0,Liverpool,D,False,1964 - 1965,8
+1965-08-14,FA Community Shield,Manchester United ,2,2,Liverpool,N,False,1965 - 1966,94
+1965-09-29,European Cup Winners Cup,Juventus FC - Italy ,1,0,Liverpool,D,False,1965 - 1966,46
+1965-10-13,European Cup Winners Cup,Liverpool - England ,2,0,Juventus,V,True,1965 - 1966,14
+1965-11-24,European Cup Winners Cup,Liverpool - England ,3,1,Standard,V,True,1965 - 1966,42
+1965-12-01,European Cup Winners Cup,Standard de Liege - Belgium ,1,2,Liverpool,V,False,1965 - 1966,7
+1966-03-01,European Cup Winners Cup,Liverpool - England ,2,0,K.,V,True,1965 - 1966,90
+1966-03-08,European Cup Winners Cup,K. Budapest Honved - Hungary ,0,0,Liverpool,N,False,1965 - 1966,7
+1966-04-14,European Cup Winners Cup,Celtic Glasgow - Scotland ,1,0,Liverpool,D,False,1965 - 1966,37
+1966-04-19,European Cup Winners Cup,Liverpool - England ,2,0,Celtic,V,True,1965 - 1966,5
+1966-05-05,European Cup Winners Cup,Borussia Dortmund - Germany ,2,1,Liverpool,D,False,1965 - 1966,16
+1966-08-13,FA Community Shield,Liverpool ,1,0,Everton,V,True,1966 - 1967,100
+1966-09-28,UEFA Champions League,Liverpool - England ,2,0,FC,V,True,1966 - 1967,46
+1966-10-12,UEFA Champions League,FC Petrolul Ploiesti - Romania ,3,1,Liverpool,D,False,1966 - 1967,14
+1966-10-19,UEFA Champions League,Liverpool - England ,2,0,FC,V,True,1966 - 1967,7
+1966-12-07,UEFA Champions League,Ajax Amsterdam - Netherlands ,5,1,Liverpool,D,False,1966 - 1967,49
+1966-12-14,UEFA Champions League,Liverpool - England ,2,2,Ajax,N,True,1966 - 1967,7
+1968-03-30,FA Cup,West Bromwich Albion FC ,0,0,Liverpool,N,False,1967 - 1968,472
+1968-04-08,FA Cup,Liverpool ,1,1,West,N,True,1967 - 1968,9
+1968-04-18,FA Cup,West Bromwich Albion FC ,2,1,Liverpool,D,False,1967 - 1968,10
+1970-02-21,FA Cup,Watford ,1,0,Liverpool,D,False,1969 - 1970,674
+1971-03-06,FA Cup,Liverpool ,0,0,Tottenham,N,True,1970 - 1971,378
+1971-03-16,FA Cup,Tottenham Hotspur ,0,1,Liverpool,V,False,1970 - 1971,10
+1971-03-27,FA Cup,Liverpool ,2,1,Everton,V,True,1970 - 1971,11
+1971-04-14,European Cup of Exhibitions - Football,Liverpool - England ,0,1,Leeds,D,True,1970 - 1971,18
+1971-04-28,European Cup of Exhibitions - Football,Leeds United FC - England ,0,0,Liverpool,N,False,1970 - 1971,14
+1971-05-08,FA Cup,Liverpool ,1,2,Arsenal,D,True,1970 - 1971,10
+1971-08-07,FA Community Shield,Leicester City ,1,0,Liverpool,D,False,1971 - 1972,91
+1971-09-15,European Cup Winners Cup,Servette FC - Switzerland ,2,1,Liverpool,D,False,1971 - 1972,39
+1971-09-29,European Cup Winners Cup,Liverpool - England ,2,0,Servette,V,True,1971 - 1972,14
+1971-10-20,European Cup Winners Cup,Liverpool - England ,0,0,FC,N,True,1971 - 1972,21
+1971-11-03,European Cup Winners Cup,FC Bayern Munich - Germany ,3,1,Liverpool,D,False,1971 - 1972,14
+1972-09-12,UEFA Cup,Liverpool - England ,2,0,Eintracht,V,True,1972 - 1973,314
+1972-09-26,UEFA Cup,Eintracht Frankfurt - Germany ,0,0,Liverpool,N,False,1972 - 1973,14
+1972-10-24,UEFA Cup,Liverpool - England ,3,0,AEK,V,True,1972 - 1973,28
+1972-11-07,UEFA Cup,AEK Athens - Greece ,1,3,Liverpool,V,False,1972 - 1973,14
+1972-11-29,UEFA Cup,Dynamo Berlin - Germany ,0,0,Liverpool,N,False,1972 - 1973,22
+1972-12-04,English League Cup,Liverpool ,1,1,Tottenham,N,True,1972 - 1973,5
+1972-12-06,English League Cup,Tottenham Hotspur ,3,1,Liverpool,D,False,1972 - 1973,2
+1972-12-13,UEFA Cup,Liverpool - England ,3,1,Dynamo,V,True,1972 - 1973,7
+1973-03-07,UEFA Cup,Liverpool - England ,2,0,SG,V,True,1972 - 1973,84
+1973-03-21,UEFA Cup,SG Dynamo Dresden - Germany ,0,1,Liverpool,V,False,1972 - 1973,14
+1973-04-10,UEFA Cup,Liverpool - England ,1,0,Tottenham,V,True,1972 - 1973,20
+1973-04-25,UEFA Cup,Tottenham Hotspur - England ,2,1,Liverpool,D,False,1972 - 1973,15
+1973-05-10,UEFA Cup,Liverpool - England ,3,0,Borussia,V,True,1972 - 1973,15
+1973-05-23,UEFA Cup,Borussia Monchengladbach - Germany ,2,0,Liverpool,D,False,1972 - 1973,13
+1973-09-19,UEFA Champions League,Jeunesse Esch - Luxembourg ,1,1,Liverpool,N,False,1973 - 1974,119
+1973-10-03,UEFA Champions League,Liverpool - England ,2,0,Jeunesse,V,True,1973 - 1974,14
+1973-10-24,UEFA Champions League,Crvena Zvezda - Serbia ,2,1,Liverpool,D,False,1973 - 1974,21
+1973-11-06,UEFA Champions League,Liverpool - England ,1,2,Crvena,D,True,1973 - 1974,13
+1973-12-19,English League Cup,Wolverhampton Wanderers FC ,1,0,Liverpool,D,False,1973 - 1974,43
+1974-03-09,FA Cup,Bristol City FC ,0,1,Liverpool,V,False,1973 - 1974,80
+1974-03-30,FA Cup,Liverpool ,0,0,Leicester,N,True,1973 - 1974,21
+1974-04-03,FA Cup,Leicester City ,1,3,Liverpool,V,False,1973 - 1974,4
+1974-05-04,FA Cup,Liverpool ,3,0,Newcastle,V,True,1973 - 1974,31
+1974-09-18,European Cup Winners Cup,Liverpool - England 1,1,0,Strømsgodset,V,True,1974 - 1975,137
+1974-10-02,European Cup Winners Cup,Strømsgodset - Norway ,0,1,Liverpool,V,False,1974 - 1975,14
+1974-10-23,European Cup Winners Cup,Liverpool - England ,1,1,Ferencvarosi,N,True,1974 - 1975,21
+1974-11-06,European Cup Winners Cup,Ferencvarosi TC - Hungary ,0,0,Liverpool,N,False,1974 - 1975,14
+1975-09-17,UEFA Cup,Hibernian FC - Scotland ,0,1,Liverpool,V,False,1975 - 1976,315
+1975-09-30,UEFA Cup,Liverpool - England ,3,1,Hibernian,V,True,1975 - 1976,13
+1975-10-22,UEFA Cup,Real Sociedad - Spain ,1,3,Liverpool,V,False,1975 - 1976,22
+1975-11-04,UEFA Cup,Liverpool - England ,6,0,Real,V,True,1975 - 1976,13
+1975-11-26,UEFA Cup,WKS Slask Wroclaw - Poland ,1,2,Liverpool,V,False,1975 - 1976,22
+1975-12-10,UEFA Cup,Liverpool - England ,3,0,WKS,V,True,1975 - 1976,14
+1976-03-03,UEFA Cup,SG Dynamo Dresden - Germany ,0,0,Liverpool,N,False,1975 - 1976,84
+1976-03-17,UEFA Cup,Liverpool - England ,2,1,SG,V,True,1975 - 1976,14
+1976-03-30,UEFA Cup,FC Barcelona - Spain ,0,1,Liverpool,V,False,1975 - 1976,13
+1976-04-14,UEFA Cup,Liverpool - England ,1,1,FC,N,True,1975 - 1976,15
+1976-04-28,UEFA Cup,Liverpool - England ,3,2,Club,V,True,1975 - 1976,14
+1976-05-19,UEFA Cup,Club Brugge KV - Belgium ,1,1,Liverpool,N,False,1975 - 1976,21
+1976-08-14,FA Community Shield,Liverpool ,1,0,FC,V,True,1976 - 1977,87
+1976-09-14,UEFA Champions League,Liverpool - England ,2,0,Crusaders,V,True,1976 - 1977,31
+1976-09-28,UEFA Champions League,Crusaders FC - Northern Ireland ,0,5,Liverpool,V,False,1976 - 1977,14
+1976-10-20,UEFA Champions League,Trabzonspor - Turkey ,1,0,Liverpool,D,False,1976 - 1977,22
+1976-11-03,UEFA Champions League,Liverpool - England ,3,0,Trabzonspor,V,True,1976 - 1977,14
+1977-03-02,UEFA Champions League,Saint Etienne - France ,1,0,Liverpool,D,False,1976 - 1977,119
+1977-03-16,UEFA Champions League,Liverpool - England ,3,1,Saint,V,True,1976 - 1977,14
+1977-03-19,FA Cup,Liverpool ,2,0,Middlesbrough,V,True,1976 - 1977,3
+1977-04-06,UEFA Champions League,FC Zurich - Switzerland ,1,3,Liverpool,V,False,1976 - 1977,18
+1977-04-20,UEFA Champions League,Liverpool - England ,3,0,FC,V,True,1976 - 1977,14
+1977-04-23,FA Cup,Liverpool ,2,2,Everton,N,True,1976 - 1977,3
+1977-04-27,FA Cup,Everton FC ,0,3,Liverpool,V,False,1976 - 1977,4
+1977-05-21,FA Cup,Manchester United ,2,1,Liverpool,D,False,1976 - 1977,24
+1977-05-25,UEFA Champions League,Liverpool - England ,3,1,Borussia,V,True,1976 - 1977,4
+1977-08-13,FA Community Shield,Liverpool ,0,0,Manchester,N,True,1977 - 1978,80
+1977-10-19,UEFA Champions League,Liverpool - England ,5,1,SG,V,True,1977 - 1978,67
+1977-11-02,UEFA Champions League,SG Dynamo Dresden - Germany ,2,1,Liverpool,D,False,1977 - 1978,14
+1977-11-22,UEFA Super Cup,Hamburger SV - Germany ,1,1,Liverpool,N,False,1977 - 1978,20
+1977-12-06,UEFA Super Cup,Liverpool - England ,6,0,Hamburger,V,True,1977 - 1978,14
+1978-01-17,English League Cup,Wrexham FC ,1,3,Liverpool,V,False,1977 - 1978,42
+1978-02-07,English League Cup,Liverpool ,2,1,Arsenal,V,True,1977 - 1978,21
+1978-02-14,English League Cup,Arsenal FC ,0,0,Liverpool,N,False,1977 - 1978,7
+1978-03-01,UEFA Champions League,SL Benfica - Portugal ,1,2,Liverpool,V,False,1977 - 1978,15
+1978-03-15,UEFA Champions League,Liverpool - England ,4,1,SL,V,True,1977 - 1978,14
+1978-03-18,English League Cup,Nottingham Forest FC ,0,0,Liverpool,N,False,1977 - 1978,3
+1978-03-22,English League Cup,Nottingham Forest FC ,1,0,Liverpool,D,False,1977 - 1978,4
+1978-03-29,UEFA Champions League,Borussia Monchengladbach - Germany ,2,1,Liverpool,D,False,1977 - 1978,7
+1978-04-12,UEFA Champions League,Liverpool - England ,3,0,Borussia,V,True,1977 - 1978,14
+1978-05-10,UEFA Champions League,Liverpool - England ,1,0,Club,V,True,1977 - 1978,28
+1978-09-13,UEFA Champions League,Nottingham Forest FC - England ,2,0,Liverpool,D,False,1978 - 1979,126
+1978-09-27,UEFA Champions League,Liverpool - England ,0,0,Nottingham,N,True,1978 - 1979,14
+1978-12-04,UEFA Super Cup,RSC Anderlecht - Belgium ,3,1,Liverpool,D,False,1978 - 1979,68
+1978-12-19,UEFA Super Cup,Liverpool - England ,2,1,RSC,V,True,1978 - 1979,15
+1979-03-10,FA Cup,Ipswich Town FC ,0,1,Liverpool,V,False,1978 - 1979,81
+1979-03-31,FA Cup,Manchester United ,2,2,Liverpool,N,False,1978 - 1979,21
+1979-04-04,FA Cup,Liverpool ,0,1,Manchester,D,True,1978 - 1979,4
+1979-08-11,FA Community Shield,Liverpool ,3,1,Arsenal,V,True,1979 - 1980,129
+1979-09-19,UEFA Champions League,Liverpool - England ,2,1,Dinamo,V,True,1979 - 1980,39
+1979-10-03,UEFA Champions League,Dinamo Tiflis - Georgia ,3,0,Liverpool,D,False,1979 - 1980,14
+1979-12-05,English League Cup,Norwich City ,1,3,Liverpool,V,False,1979 - 1980,63
+1980-01-22,English League Cup,Nottingham Forest FC ,1,0,Liverpool,D,False,1979 - 1980,48
+1980-02-12,English League Cup,Liverpool ,1,1,Nottingham,N,True,1979 - 1980,21
+1980-03-08,FA Cup,Tottenham Hotspur ,0,1,Liverpool,V,False,1979 - 1980,25
+1980-04-12,FA Cup,Liverpool ,0,0,Arsenal,N,True,1979 - 1980,35
+1980-04-16,FA Cup,Liverpool ,1,1,Arsenal,N,True,1979 - 1980,4
+1980-04-28,FA Cup,Liverpool ,1,1,Arsenal,N,True,1979 - 1980,12
+1980-05-01,FA Cup,Liverpool ,0,1,Arsenal,D,True,1979 - 1980,3
+1980-08-09,FA Community Shield,Liverpool ,1,0,West,V,True,1980 - 1981,100
+1980-09-17,UEFA Champions League,OPS Oulu - Finland ,1,1,Liverpool,N,False,1980 - 1981,39
+1980-10-01,UEFA Champions League,Liverpool - England 1,0,1,OPS,D,True,1980 - 1981,14
+1980-10-22,UEFA Champions League,Aberdeen F.C - Scotland ,0,1,Liverpool,V,False,1980 - 1981,21
+1980-11-05,UEFA Champions League,Liverpool - England ,4,0,Aberdeen,V,True,1980 - 1981,14
+1980-12-02,English League Cup,Liverpool ,3,1,Birmingham,V,True,1980 - 1981,27
+1981-01-14,English League Cup,Manchester City ,0,1,Liverpool,V,False,1980 - 1981,43
+1981-02-10,English League Cup,Liverpool ,1,1,Manchester,N,True,1980 - 1981,27
+1981-03-04,UEFA Champions League,Liverpool - England ,5,1,CSKA,V,True,1980 - 1981,22
+1981-03-14,English League Cup,Liverpool ,1,1,West,N,True,1980 - 1981,10
+1981-03-18,UEFA Champions League,CSKA Sofia - Bulgaria ,0,1,Liverpool,V,False,1980 - 1981,4
+1981-04-01,English League Cup,Liverpool ,2,1,West,V,True,1980 - 1981,14
+1981-04-08,UEFA Champions League,Liverpool - England ,0,0,FC,N,True,1980 - 1981,7
+1981-04-22,UEFA Champions League,FC Bayern Munich - Germany ,1,1,Liverpool,N,False,1980 - 1981,14
+1981-05-27,UEFA Champions League,Liverpool - England ,1,0,Real,V,True,1980 - 1981,35
+1981-09-16,UEFA Champions League,OPS Oulu - Finland ,0,1,Liverpool,V,False,1981 - 1982,112
+1981-09-30,UEFA Champions League,Liverpool - England ,7,0,OPS,V,True,1981 - 1982,14
+1981-10-21,UEFA Champions League,AZ Alkmaar - Netherlands ,2,2,Liverpool,N,False,1981 - 1982,21
+1981-11-04,UEFA Champions League,Liverpool - England ,3,2,AZ,V,True,1981 - 1982,14
+1981-12-13,Intercontinental Club Cup,Flamengo - Brazil ,3,0,Liverpool,D,False,1981 - 1982,39
+1982-01-12,English League Cup,Liverpool ,0,0,Barnsley,N,True,1981 - 1982,30
+1982-01-19,English League Cup,Barnsley FC ,1,3,Liverpool,V,False,1981 - 1982,7
+1982-02-02,English League Cup,Ipswich Town FC ,0,2,Liverpool,V,False,1981 - 1982,14
+1982-02-09,English League Cup,Liverpool ,2,2,Ipswich,N,True,1981 - 1982,7
+1982-03-03,UEFA Champions League,Liverpool - England ,1,0,CSKA,V,True,1981 - 1982,22
+1982-03-13,English League Cup,Liverpool ,3,1,Tottenham,V,True,1981 - 1982,10
+1982-03-17,UEFA Champions League,CSKA Sofia - Bulgaria ,2,0,Liverpool,D,False,1981 - 1982,4
+1982-08-12,FA Community Shield,Liverpool ,1,0,Tottenham,V,True,1982 - 1983,148
+1982-09-15,UEFA Champions League,Dundalk FC - Ireland ,1,4,Liverpool,V,False,1982 - 1983,34
+1982-09-29,UEFA Champions League,Liverpool - England ,1,0,Dundalk,V,True,1982 - 1983,14
+1982-10-20,UEFA Champions League,HJK Helsinki - Finland ,1,0,Liverpool,D,False,1982 - 1983,21
+1982-11-03,UEFA Champions League,Liverpool - England ,5,0,HJK,V,True,1982 - 1983,14
+1983-01-18,English League Cup,Liverpool ,2,1,West,V,True,1982 - 1983,76
+1983-02-08,English League Cup,Liverpool ,3,0,Burnley,V,True,1982 - 1983,21
+1983-02-15,English League Cup,Burnley FC ,1,0,Liverpool,D,False,1982 - 1983,7
+1983-03-02,UEFA Champions League,Widzew Lodz - Poland ,2,0,Liverpool,D,False,1982 - 1983,15
+1983-03-16,UEFA Champions League,Liverpool - England ,3,2,Widzew,V,True,1982 - 1983,14
+1983-03-26,English League Cup,Liverpool ,2,1,Manchester,V,True,1982 - 1983,10
+1983-08-20,FA Community Shield,Manchester United ,2,0,Liverpool,D,False,1983 - 1984,147
+1983-09-14,UEFA Champions League,Odense Boldklub - Denmark ,0,1,Liverpool,V,False,1983 - 1984,25
+1983-09-28,UEFA Champions League,Liverpool - England ,5,0,Odense,V,True,1983 - 1984,14
+1983-10-19,UEFA Champions League,Liverpool - England ,0,0,Athletic,N,True,1983 - 1984,21
+1983-11-02,UEFA Champions League,Athletic de Bilbao - Spain ,0,1,Liverpool,V,False,1983 - 1984,14
+1984-01-17,English League Cup,Sheffield Wednesday FC ,2,2,Liverpool,N,False,1983 - 1984,76
+1984-01-25,English League Cup,Liverpool ,3,0,Sheffield,V,True,1983 - 1984,8
+1984-02-07,English League Cup,Liverpool ,2,2,Walsall,N,True,1983 - 1984,13
+1984-02-14,English League Cup,Walsall ,0,2,Liverpool,V,False,1983 - 1984,7
+1984-03-07,UEFA Champions League,Liverpool - England ,1,0,SL,V,True,1983 - 1984,22
+1984-03-21,UEFA Champions League,SL Benfica - Portugal ,1,4,Liverpool,V,False,1983 - 1984,14
+1984-03-25,English League Cup,Liverpool ,0,0,Everton,N,True,1983 - 1984,4
+1984-03-28,English League Cup,Liverpool ,1,0,Everton,V,True,1983 - 1984,3
+1984-04-05,UEFA Champions League,Dinamo Bucarest - Romania ,1,2,Liverpool,V,False,1983 - 1984,8
+1984-04-11,UEFA Champions League,Liverpool - England ,1,0,Dinamo,V,True,1983 - 1984,6
+1984-08-14,FA Community Shield,Everton FC ,1,0,Liverpool,D,False,1984 - 1985,125
+1984-09-19,UEFA Champions League,KKS Lech Poznan - Poland ,0,1,Liverpool,V,False,1984 - 1985,36
+1984-10-03,UEFA Champions League,Liverpool - England ,4,0,KKS,V,True,1984 - 1985,14
+1984-10-24,UEFA Champions League,Liverpool - England ,3,1,SL,V,True,1984 - 1985,21
+1984-11-07,UEFA Champions League,SL Benfica - Portugal ,1,0,Liverpool,D,False,1984 - 1985,14
+1984-12-09,Intercontinental Club Cup,Independiente - Argentina ,1,0,Liverpool,D,False,1984 - 1985,32
+1985-01-16,UEFA Super Cup,Juventus FC - Italy ,2,0,Liverpool,D,False,1984 - 1985,38
+1985-03-06,UEFA Champions League,FK Austria Wien - Austria ,1,1,Liverpool,N,False,1984 - 1985,49
+1985-03-10,FA Cup,Barnsley FC ,0,4,Liverpool,V,False,1984 - 1985,4
+1985-03-20,UEFA Champions League,Liverpool - England ,4,1,FK,V,True,1984 - 1985,10
+1985-04-10,UEFA Champions League,Liverpool - England ,4,0,Panathinaikos,V,True,1984 - 1985,21
+1985-04-13,FA Cup,Manchester United ,2,2,Liverpool,N,False,1984 - 1985,3
+1985-04-17,FA Cup,Liverpool ,1,2,Manchester,D,True,1984 - 1985,4
+1985-04-24,UEFA Champions League,Panathinaikos - Greece ,0,1,Liverpool,V,False,1984 - 1985,7
+1985-05-29,UEFA Champions League,Juventus FC - Italy ,1,0,Liverpool,D,False,1984 - 1985,35
+1986-01-21,English League Cup,Liverpool ,3,0,Ipswich,V,True,1985 - 1986,237
+1986-02-12,English League Cup,Queens Park Rangers ,1,0,Liverpool,D,False,1985 - 1986,22
+1986-03-05,English League Cup,Liverpool ,2,2,Queens,N,True,1985 - 1986,21
+1986-03-11,FA Cup,Liverpool ,0,0,Watford,N,True,1985 - 1986,6
+1986-03-17,FA Cup,Watford ,1,2,Liverpool,V,False,1985 - 1986,6
+1986-04-05,FA Cup,Liverpool ,2,0,FC,V,True,1985 - 1986,19
+1986-05-10,FA Cup,Liverpool ,3,1,Everton,V,True,1985 - 1986,35
+1986-08-06,FA Community Shield,Liverpool ,1,1,Everton,N,True,1986 - 1987,88
+1987-01-21,English League Cup,Everton FC ,0,1,Liverpool,V,False,1986 - 1987,168
+1987-02-11,English League Cup,FC Southampton ,0,0,Liverpool,N,False,1986 - 1987,21
+1987-02-25,English League Cup,Liverpool ,3,0,FC,V,True,1986 - 1987,14
+1987-04-05,English League Cup,Arsenal FC ,2,1,Liverpool,D,False,1986 - 1987,39
+1988-03-13,FA Cup,Manchester City ,0,4,Liverpool,V,False,1987 - 1988,343
+1988-04-09,FA Cup,Liverpool ,2,1,Nottingham,V,True,1987 - 1988,27
+1988-05-14,FA Cup,Wimbledon FC ,1,0,Liverpool,D,False,1987 - 1988,35
+1988-08-12,Teresa Herrera Trophy,Atletico de Madrid ,5,1,Liverpool,D,False,1988 - 1989,90
+1988-08-14,Teresa Herrera Trophy,Liverpool ,4,0,Real,V,True,1988 - 1989,2
+1988-08-20,FA Community Shield,Liverpool ,2,1,Wimbledon,V,True,1988 - 1989,6
+1989-03-18,FA Cup,Liverpool ,4,0,Brentford,V,True,1988 - 1989,210
+1989-04-15,FA Cup,Liverpool ,0,0,Nottingham,N,True,1988 - 1989,28
+1989-05-07,FA Cup,Liverpool ,3,1,Nottingham,V,True,1988 - 1989,22
+1989-05-20,FA Cup,Liverpool ,3,2,Everton,V,True,1988 - 1989,13
+1989-08-12,FA Community Shield,Arsenal FC ,0,1,Liverpool,V,False,1989 - 1990,84
+1990-03-11,FA Cup,Queens Park Rangers ,2,2,Liverpool,N,False,1989 - 1990,211
+1990-03-14,FA Cup,Liverpool ,1,0,Queens,V,True,1989 - 1990,3
+1990-04-08,FA Cup,Crystal Palace FC ,4,3,Liverpool,D,False,1989 - 1990,25
+1990-08-18,FA Community Shield,Liverpool ,1,1,Manchester,N,True,1990 - 1991,132
+1991-09-18,UEFA Cup,Liverpool - England ,6,1,FC,V,True,1991 - 1992,396
+1991-10-02,UEFA Cup,FC Kuusysi - Finland ,1,0,Liverpool,D,False,1991 - 1992,14
+1991-10-23,UEFA Cup,Auxerre - France ,2,0,Liverpool,D,False,1991 - 1992,21
+1991-11-06,UEFA Cup,Liverpool - England ,3,0,Auxerre,V,True,1991 - 1992,14
+1991-11-27,UEFA Cup,FC Wacker Innsbruck - Austria ,0,2,Liverpool,V,False,1991 - 1992,21
+1991-12-11,UEFA Cup,Liverpool - England ,4,0,FC,V,True,1991 - 1992,14
+1992-03-04,UEFA Cup,Genoa CFC - Italy ,2,0,Liverpool,D,False,1991 - 1992,84
+1992-03-07,FA Cup,Liverpool ,1,0,Aston,V,True,1991 - 1992,3
+1992-03-18,UEFA Cup,Liverpool - England ,1,2,Genoa,D,True,1991 - 1992,11
+1992-04-05,FA Cup,Liverpool ,1,1,Portsmouth,N,True,1991 - 1992,18
+1992-05-09,FA Cup,Liverpool ,2,0,AFC,V,True,1991 - 1992,34
+1992-08-08,FA Community Shield,Leeds United FC ,4,3,Liverpool,D,False,1992 - 1993,91
+1992-08-16,English Premier League,Nottingham Forest FC ,1,0,Liverpool,D,False,1992 - 1993,8
+1992-08-19,English Premier League,Liverpool ,2,1,Sheffield,V,True,1992 - 1993,3
+1992-08-23,English Premier League,Liverpool ,0,2,Arsenal,D,True,1992 - 1993,4
+1992-08-25,English Premier League,Ipswich Town FC ,2,2,Liverpool,N,False,1992 - 1993,2
+1992-08-29,English Premier League,Leeds United FC ,2,2,Liverpool,N,False,1992 - 1993,4
+1992-09-01,English Premier League,Liverpool ,1,1,FC,N,True,1992 - 1993,3
+1992-09-05,English Premier League,Liverpool ,2,1,Chelsea,V,True,1992 - 1993,4
+1992-09-12,English Premier League,Sheffield United FC ,1,0,Liverpool,D,False,1992 - 1993,7
+1992-09-16,European Cup Winners Cup,Liverpool - England ,6,1,Apollon,V,True,1992 - 1993,4
+1992-09-19,English Premier League,Aston Villa ,4,2,Liverpool,D,False,1992 - 1993,3
+1992-09-26,English Premier League,Liverpool ,2,3,Wimbledon,D,True,1992 - 1993,7
+1992-09-30,European Cup Winners Cup,Apollon Limassol - Cyprus ,1,2,Liverpool,V,False,1992 - 1993,4
+1992-10-03,English Premier League,Liverpool ,1,0,Sheffield,V,True,1992 - 1993,3
+1992-10-18,English Premier League,Manchester United ,2,2,Liverpool,N,False,1992 - 1993,15
+1992-10-21,European Cup Winners Cup,Spartak Moscow - Russia ,4,2,Liverpool,D,False,1992 - 1993,3
+1992-10-25,English Premier League,Liverpool ,4,1,Norwich,V,True,1992 - 1993,4
+1992-10-31,English Premier League,Tottenham Hotspur ,2,0,Liverpool,D,False,1992 - 1993,6
+1992-11-07,English Premier League,Liverpool ,4,1,Middlesbrough,V,True,1992 - 1993,7
+1992-11-08,European Cup Winners Cup,Liverpool - England ,0,2,Spartak,D,True,1992 - 1993,1
+1992-11-23,English Premier League,Queens Park Rangers ,0,1,Liverpool,V,False,1992 - 1993,15
+1992-11-28,English Premier League,Liverpool ,5,0,Crystal,V,True,1992 - 1993,5
+1992-12-05,English Premier League,Everton FC ,2,1,Liverpool,D,False,1992 - 1993,7
+1992-12-13,English Premier League,Liverpool ,2,1,Blackburn,V,True,1992 - 1993,8
+1992-12-19,English Premier League,Coventry City ,5,1,Liverpool,D,False,1992 - 1993,6
+1992-12-28,English Premier League,Liverpool ,1,1,Manchester,N,True,1992 - 1993,9
+1993-01-09,English Premier League,Liverpool ,1,2,Aston,D,True,1992 - 1993,12
+1993-01-16,English Premier League,Wimbledon FC ,2,0,Liverpool,D,False,1992 - 1993,7
+1993-01-31,English Premier League,Arsenal FC ,0,1,Liverpool,V,False,1992 - 1993,15
+1993-02-06,English Premier League,Liverpool ,0,0,Nottingham,N,True,1992 - 1993,6
+1993-02-10,English Premier League,Chelsea ,0,0,Liverpool,N,False,1992 - 1993,4
+1993-02-13,English Premier League,FC Southampton ,2,1,Liverpool,D,False,1992 - 1993,3
+1993-02-20,English Premier League,Liverpool ,0,0,Ipswich,N,True,1992 - 1993,7
+1993-02-27,English Premier League,Sheffield Wednesday FC ,1,1,Liverpool,N,False,1992 - 1993,7
+1993-03-06,English Premier League,Liverpool ,1,2,Manchester,D,True,1992 - 1993,7
+1993-03-10,English Premier League,Liverpool ,1,0,Queens,V,True,1992 - 1993,4
+1993-03-13,English Premier League,Middlesbrough ,1,2,Liverpool,V,False,1992 - 1993,3
+1993-03-20,English Premier League,Liverpool ,1,0,Everton,V,True,1992 - 1993,7
+1993-03-23,English Premier League,Crystal Palace FC ,1,1,Liverpool,N,False,1992 - 1993,3
+1993-04-03,English Premier League,Blackburn Rovers FC ,4,1,Liverpool,D,False,1992 - 1993,11
+1993-04-10,English Premier League,Liverpool ,1,0,Oldham,V,True,1992 - 1993,7
+1993-04-12,English Premier League,Manchester City ,1,1,Liverpool,N,False,1992 - 1993,2
+1993-04-17,English Premier League,Liverpool ,4,0,Coventry,V,True,1992 - 1993,5
+1993-04-21,English Premier League,Liverpool ,2,0,Leeds,V,True,1992 - 1993,4
+1993-05-01,English Premier League,Norwich City ,1,0,Liverpool,D,False,1992 - 1993,10
+1993-05-05,English Premier League,Oldham Athletic ,3,2,Liverpool,D,False,1992 - 1993,4
+1993-05-08,English Premier League,Liverpool ,6,2,Tottenham,V,True,1992 - 1993,3
+1993-08-14,English Premier League,Liverpool ,2,0,Sheffield,V,True,1993 - 1994,98
+1993-08-18,English Premier League,Queens Park Rangers ,1,3,Liverpool,V,False,1993 - 1994,4
+1993-08-22,English Premier League,Swindon Town FC ,0,5,Liverpool,V,False,1993 - 1994,4
+1993-08-25,English Premier League,Liverpool ,1,2,Tottenham,D,True,1993 - 1994,3
+1993-08-28,English Premier League,Liverpool ,2,0,Leeds,V,True,1993 - 1994,3
+1993-09-01,English Premier League,Coventry City ,1,0,Liverpool,D,False,1993 - 1994,4
+1993-09-12,English Premier League,Liverpool ,0,1,Blackburn,D,True,1993 - 1994,11
+1993-09-18,English Premier League,Everton FC ,2,0,Liverpool,D,False,1993 - 1994,6
+1993-09-25,English Premier League,Chelsea ,1,0,Liverpool,D,False,1993 - 1994,7
+1993-10-02,English Premier League,Liverpool ,0,0,Arsenal,N,True,1993 - 1994,7
+1993-10-16,English Premier League,Liverpool ,2,1,Oldham,V,True,1993 - 1994,14
+1993-10-23,English Premier League,Manchester City ,1,1,Liverpool,N,False,1993 - 1994,7
+1993-10-27,English League Cup,Liverpool ,3,2,Ipswich,V,True,1993 - 1994,4
+1993-10-30,English Premier League,Liverpool ,4,2,FC,V,True,1993 - 1994,3
+1993-11-06,English Premier League,Liverpool ,2,0,West,V,True,1993 - 1994,7
+1993-11-21,English Premier League,Newcastle United FC ,3,0,Liverpool,D,False,1993 - 1994,15
+1993-11-28,English Premier League,Liverpool ,2,1,Aston,V,True,1993 - 1994,7
+1993-12-01,English League Cup,Liverpool ,1,1,Wimbledon,N,True,1993 - 1994,3
+1993-12-04,English Premier League,Sheffield Wednesday FC ,3,1,Liverpool,D,False,1993 - 1994,3
+1993-12-08,English Premier League,Liverpool ,3,2,Queens,V,True,1993 - 1994,4
+1993-12-11,English Premier League,Liverpool ,2,2,Swindon,N,True,1993 - 1994,3
+1993-12-18,English Premier League,Tottenham Hotspur ,3,3,Liverpool,N,False,1993 - 1994,7
+1993-12-26,English Premier League,Sheffield United FC ,0,0,Liverpool,N,False,1993 - 1994,8
+1993-12-28,English Premier League,Liverpool ,1,1,Wimbledon,N,True,1993 - 1994,2
+1994-01-01,English Premier League,Ipswich Town FC ,1,2,Liverpool,V,False,1993 - 1994,4
+1994-01-04,English Premier League,Liverpool ,3,3,Manchester,N,True,1993 - 1994,3
+1994-01-15,English Premier League,Oldham Athletic ,0,3,Liverpool,V,False,1993 - 1994,11
+1994-01-22,English Premier League,Liverpool ,2,1,Manchester,V,True,1993 - 1994,7
+1994-02-05,English Premier League,Norwich City ,2,2,Liverpool,N,False,1993 - 1994,14
+1994-02-14,English Premier League,FC Southampton ,4,2,Liverpool,D,False,1993 - 1994,9
+1994-02-19,English Premier League,Leeds United FC ,2,0,Liverpool,D,False,1993 - 1994,5
+1994-02-26,English Premier League,Liverpool ,1,0,Coventry,V,True,1993 - 1994,7
+1994-03-05,English Premier League,Blackburn Rovers FC ,2,0,Liverpool,D,False,1993 - 1994,7
+1994-03-13,English Premier League,Liverpool ,2,1,Everton,V,True,1993 - 1994,8
+1994-03-19,English Premier League,Liverpool ,2,1,Chelsea,V,True,1993 - 1994,6
+1994-03-26,English Premier League,Arsenal FC ,1,0,Liverpool,D,False,1993 - 1994,7
+1994-03-30,English Premier League,Manchester United ,1,0,Liverpool,D,False,1993 - 1994,4
+1994-04-02,English Premier League,Liverpool ,1,2,Sheffield,D,True,1993 - 1994,3
+1994-04-04,English Premier League,Wimbledon FC ,1,1,Liverpool,N,False,1993 - 1994,2
+1994-04-09,English Premier League,Liverpool ,1,0,Ipswich,V,True,1993 - 1994,5
+1994-04-16,English Premier League,Liverpool ,0,2,Newcastle,D,True,1993 - 1994,7
+1994-04-23,English Premier League,West Ham United ,1,2,Liverpool,V,False,1993 - 1994,7
+1994-04-30,English Premier League,Liverpool ,0,1,Norwich,D,True,1993 - 1994,7
+1994-05-07,English Premier League,Aston Villa ,2,1,Liverpool,D,False,1993 - 1994,7
+1994-08-20,English Premier League,Crystal Palace FC ,1,6,Liverpool,V,False,1994 - 1995,105
+1994-08-28,English Premier League,Liverpool ,3,0,Arsenal,V,True,1994 - 1995,8
+1994-08-31,English Premier League,FC Southampton ,0,2,Liverpool,V,False,1994 - 1995,3
+1994-09-10,English Premier League,Liverpool ,0,0,West,N,True,1994 - 1995,10
+1994-09-17,English Premier League,Manchester United ,2,0,Liverpool,D,False,1994 - 1995,7
+1994-09-24,English Premier League,Newcastle United FC ,1,1,Liverpool,N,False,1994 - 1995,7
+1994-10-01,English Premier League,Liverpool ,4,1,Sheffield,V,True,1994 - 1995,7
+1994-10-08,English Premier League,Liverpool ,3,2,Aston,V,True,1994 - 1995,7
+1994-10-15,English Premier League,Blackburn Rovers FC ,3,2,Liverpool,D,False,1994 - 1995,7
+1994-10-22,English Premier League,Liverpool ,3,0,Wimbledon,V,True,1994 - 1995,7
+1994-10-25,English League Cup,Liverpool ,2,1,Stoke,V,True,1994 - 1995,3
+1994-10-29,English Premier League,Ipswich Town FC ,1,3,Liverpool,V,False,1994 - 1995,4
+1994-10-31,English Premier League,Queens Park Rangers ,2,1,Liverpool,D,False,1994 - 1995,2
+1994-11-05,English Premier League,Liverpool ,1,0,Nottingham,V,True,1994 - 1995,5
+1994-11-09,English Premier League,Liverpool ,3,1,Chelsea,V,True,1994 - 1995,4
+1994-11-21,English Premier League,Everton FC ,2,0,Liverpool,D,False,1994 - 1995,12
+1994-11-26,English Premier League,Liverpool ,1,1,Tottenham,N,True,1994 - 1995,5
+1994-11-30,English League Cup,Blackburn Rovers FC ,1,3,Liverpool,V,False,1994 - 1995,4
+1994-12-03,English Premier League,Coventry City ,1,1,Liverpool,N,False,1994 - 1995,3
+1994-12-11,English Premier League,Liverpool ,0,0,Crystal,N,True,1994 - 1995,8
+1994-12-18,English Premier League,Chelsea ,0,0,Liverpool,N,False,1994 - 1995,7
+1994-12-26,English Premier League,Leicester City ,1,2,Liverpool,V,False,1994 - 1995,8
+1994-12-28,English Premier League,Liverpool ,2,0,Manchester,V,True,1994 - 1995,2
+1994-12-31,English Premier League,Leeds United FC ,0,2,Liverpool,V,False,1994 - 1995,3
+1995-01-02,English Premier League,Liverpool ,4,0,Norwich,V,True,1994 - 1995,2
+1995-01-11,English League Cup,Liverpool ,1,0,Arsenal,V,True,1994 - 1995,9
+1995-01-14,English Premier League,Liverpool ,0,1,Ipswich,D,True,1994 - 1995,3
+1995-01-24,English Premier League,Liverpool ,0,0,Everton,N,True,1994 - 1995,10
+1995-02-04,English Premier League,Nottingham Forest FC ,1,1,Liverpool,N,False,1994 - 1995,11
+1995-02-11,English Premier League,Liverpool ,1,1,Queens,N,True,1994 - 1995,7
+1995-02-15,English League Cup,Liverpool ,1,0,Crystal,V,True,1994 - 1995,4
+1995-02-25,English Premier League,Sheffield Wednesday FC ,1,2,Liverpool,V,False,1994 - 1995,10
+1995-03-04,English Premier League,Liverpool ,2,0,Newcastle,V,True,1994 - 1995,7
+1995-03-08,English League Cup,Crystal Palace FC ,0,1,Liverpool,V,False,1994 - 1995,4
+1995-03-14,English Premier League,Liverpool ,2,3,Coventry,D,True,1994 - 1995,6
+1995-03-19,English Premier League,Liverpool ,2,0,Manchester,V,True,1994 - 1995,5
+1995-03-22,English Premier League,Tottenham Hotspur ,0,0,Liverpool,N,False,1994 - 1995,3
+1995-04-02,English League Cup,Liverpool ,2,1,Bolton,V,True,1994 - 1995,11
+1995-04-05,English Premier League,Liverpool ,3,1,FC,V,True,1994 - 1995,3
+1995-04-09,English Premier League,Liverpool ,0,1,Leeds,D,True,1994 - 1995,4
+1995-04-12,English Premier League,Arsenal FC ,0,1,Liverpool,V,False,1994 - 1995,3
+1995-04-14,English Premier League,Manchester City ,2,1,Liverpool,D,False,1994 - 1995,2
+1995-04-17,English Premier League,Liverpool ,2,0,Leicester,V,True,1994 - 1995,3
+1995-04-29,English Premier League,Norwich City ,1,2,Liverpool,V,False,1994 - 1995,12
+1995-05-02,English Premier League,Wimbledon FC ,0,0,Liverpool,N,False,1994 - 1995,3
+1995-05-06,English Premier League,Aston Villa ,2,0,Liverpool,D,False,1994 - 1995,4
+1995-05-10,English Premier League,West Ham United ,3,0,Liverpool,D,False,1994 - 1995,4
+1995-05-14,English Premier League,Liverpool ,2,1,Blackburn,V,True,1994 - 1995,4
+1995-08-19,English Premier League,Liverpool ,1,0,Sheffield,V,True,1995 - 1996,97
+1995-08-21,English Premier League,Leeds United FC ,1,0,Liverpool,D,False,1995 - 1996,2
+1995-08-26,English Premier League,Tottenham Hotspur ,1,3,Liverpool,V,False,1995 - 1996,5
+1995-08-30,English Premier League,Liverpool ,1,0,Queens,V,True,1995 - 1996,4
+1995-09-09,English Premier League,Wimbledon FC ,1,0,Liverpool,D,False,1995 - 1996,10
+1995-09-12,UEFA Cup,FC Alania Vladikavkaz - Russia ,1,2,Liverpool,V,False,1995 - 1996,3
+1995-09-16,English Premier League,Liverpool ,3,0,Blackburn,V,True,1995 - 1996,4
+1995-09-23,English Premier League,Liverpool ,5,2,Bolton,V,True,1995 - 1996,7
+1995-09-26,UEFA Cup,Liverpool - England ,0,0,FC,N,True,1995 - 1996,3
+1995-10-01,English Premier League,Manchester United ,2,2,Liverpool,N,False,1995 - 1996,5
+1995-10-14,English Premier League,Liverpool ,0,0,Coventry,N,True,1995 - 1996,13
+1995-10-17,UEFA Cup,Brondby IF - Denmark ,0,0,Liverpool,N,False,1995 - 1996,3
+1995-10-22,English Premier League,FC Southampton ,1,3,Liverpool,V,False,1995 - 1996,5
+1995-10-25,English League Cup,Liverpool ,4,0,Manchester,V,True,1995 - 1996,3
+1995-10-28,English Premier League,Liverpool ,6,0,Manchester,V,True,1995 - 1996,3
+1995-10-31,UEFA Cup,Liverpool - England ,0,1,Brondby,D,True,1995 - 1996,3
+1995-11-04,English Premier League,Newcastle United FC ,2,1,Liverpool,D,False,1995 - 1996,4
+1995-11-18,English Premier League,Liverpool ,1,2,Everton,D,True,1995 - 1996,14
+1995-11-22,English Premier League,West Ham United ,0,0,Liverpool,N,False,1995 - 1996,4
+1995-11-25,English Premier League,Middlesbrough ,2,1,Liverpool,D,False,1995 - 1996,3
+1995-11-29,English League Cup,Liverpool ,0,1,Newcastle,D,True,1995 - 1996,4
+1995-12-02,English Premier League,Liverpool ,1,1,FC,N,True,1995 - 1996,3
+1995-12-09,English Premier League,Bolton Wanderers ,0,1,Liverpool,V,False,1995 - 1996,7
+1995-12-17,English Premier League,Liverpool ,2,0,Manchester,V,True,1995 - 1996,8
+1995-12-23,English Premier League,Liverpool ,3,1,Arsenal,V,True,1995 - 1996,6
+1995-12-30,English Premier League,Chelsea ,2,2,Liverpool,N,False,1995 - 1996,7
+1996-01-01,English Premier League,Liverpool ,4,2,Nottingham,V,True,1995 - 1996,2
+1996-01-13,English Premier League,Sheffield Wednesday FC ,1,1,Liverpool,N,False,1995 - 1996,12
+1996-01-20,English Premier League,Liverpool ,5,0,Leeds,V,True,1995 - 1996,7
+1996-01-31,English Premier League,Aston Villa ,0,2,Liverpool,V,False,1995 - 1996,11
+1996-02-03,English Premier League,Liverpool ,0,0,Tottenham,N,True,1995 - 1996,3
+1996-02-11,English Premier League,Queens Park Rangers ,1,2,Liverpool,V,False,1995 - 1996,8
+1996-02-24,English Premier League,Blackburn Rovers FC ,2,3,Liverpool,V,False,1995 - 1996,13
+1996-03-02,English Premier League,Liverpool ,3,0,Aston,V,True,1995 - 1996,7
+1996-03-13,English Premier League,Liverpool ,2,2,Wimbledon,N,True,1995 - 1996,11
+1996-03-16,English Premier League,Liverpool ,2,0,Chelsea,V,True,1995 - 1996,3
+1996-03-23,English Premier League,Nottingham Forest FC ,1,0,Liverpool,D,False,1995 - 1996,7
+1996-04-03,English Premier League,Liverpool ,4,3,Newcastle,V,True,1995 - 1996,11
+1996-04-06,English Premier League,Coventry City ,1,0,Liverpool,D,False,1995 - 1996,3
+1996-04-08,English Premier League,Liverpool ,2,0,West,V,True,1995 - 1996,2
+1996-04-14,English Premier League,Everton FC ,1,1,Liverpool,N,False,1995 - 1996,6
+1996-04-27,English Premier League,Liverpool ,1,0,Middlesbrough,V,True,1995 - 1996,13
+1996-05-01,English Premier League,Arsenal FC ,0,0,Liverpool,N,False,1995 - 1996,4
+1996-05-05,English Premier League,Manchester City ,2,2,Liverpool,N,False,1995 - 1996,4
+1996-05-11,FA Cup,Manchester United ,1,0,Liverpool,D,False,1995 - 1996,6
+1996-08-17,English Premier League,Middlesbrough ,3,3,Liverpool,N,False,1996 - 1997,98
+1996-08-19,English Premier League,Liverpool ,2,0,Arsenal,V,True,1996 - 1997,2
+1996-08-24,English Premier League,Liverpool ,0,0,AFC,N,True,1996 - 1997,5
+1996-09-04,English Premier League,Coventry City ,0,1,Liverpool,V,False,1996 - 1997,11
+1996-09-07,English Premier League,Liverpool ,2,1,FC,V,True,1996 - 1997,3
+1996-09-12,European Cup Winners Cup,MyPa - Finland ,0,1,Liverpool,V,False,1996 - 1997,5
+1996-09-15,English Premier League,Leicester City ,0,3,Liverpool,V,False,1996 - 1997,3
+1996-09-21,English Premier League,Liverpool ,5,1,Chelsea,V,True,1996 - 1997,6
+1996-09-26,European Cup Winners Cup,Liverpool - England ,3,1,MyPa,V,True,1996 - 1997,5
+1996-09-29,English Premier League,West Ham United ,1,2,Liverpool,V,False,1996 - 1997,3
+1996-10-12,English Premier League,Manchester United ,1,0,Liverpool,D,False,1996 - 1997,13
+1996-10-17,European Cup Winners Cup,FC Sion - Switzerland ,1,2,Liverpool,V,False,1996 - 1997,5
+1996-10-23,English League Cup,Charlton Athletic FC ,1,1,Liverpool,N,False,1996 - 1997,6
+1996-10-27,English Premier League,Liverpool ,2,1,Derby,V,True,1996 - 1997,4
+1996-10-31,European Cup Winners Cup,Liverpool - England ,6,3,FC,V,True,1996 - 1997,4
+1996-11-03,English Premier League,Blackburn Rovers FC ,3,0,Liverpool,D,False,1996 - 1997,3
+1996-11-13,English League Cup,Liverpool ,4,1,Charlton,V,True,1996 - 1997,10
+1996-11-16,English Premier League,Leeds United FC ,0,2,Liverpool,V,False,1996 - 1997,3
+1996-11-20,English Premier League,Liverpool ,1,1,Everton,N,True,1996 - 1997,4
+1996-11-23,English Premier League,Liverpool ,1,1,Wimbledon,N,True,1996 - 1997,3
+1996-11-27,English League Cup,Liverpool ,4,2,Arsenal,V,True,1996 - 1997,4
+1996-12-02,English Premier League,Tottenham Hotspur ,0,2,Liverpool,V,False,1996 - 1997,5
+1996-12-07,English Premier League,Liverpool ,0,1,Sheffield,D,True,1996 - 1997,5
+1996-12-14,English Premier League,Liverpool ,5,1,Middlesbrough,V,True,1996 - 1997,7
+1996-12-17,English Premier League,Liverpool ,4,2,Nottingham,V,True,1996 - 1997,3
+1996-12-23,English Premier League,Newcastle United FC ,1,1,Liverpool,N,False,1996 - 1997,6
+1996-12-26,English Premier League,Liverpool ,1,1,Leicester,N,True,1996 - 1997,3
+1996-12-29,English Premier League,FC Southampton ,0,1,Liverpool,V,False,1996 - 1997,3
+1997-01-01,English Premier League,Chelsea ,1,0,Liverpool,D,False,1996 - 1997,3
+1997-01-08,English League Cup,Middlesbrough ,2,1,Liverpool,D,False,1996 - 1997,7
+1997-01-11,English Premier League,Liverpool ,0,0,West,N,True,1996 - 1997,3
+1997-01-18,English Premier League,Liverpool ,3,0,Aston,V,True,1996 - 1997,7
+1997-01-26,FA Cup,Chelsea ,4,2,Liverpool,D,False,1996 - 1997,8
+1997-02-01,English Premier League,Derby County FC ,0,1,Liverpool,V,False,1996 - 1997,6
+1997-02-19,English Premier League,Liverpool ,4,0,Leeds,V,True,1996 - 1997,18
+1997-02-22,English Premier League,Liverpool ,0,0,Blackburn,N,True,1996 - 1997,3
+1997-03-02,English Premier League,Aston Villa ,1,0,Liverpool,D,False,1996 - 1997,8
+1997-03-06,European Cup Winners Cup,SK Brann - Norway ,1,1,Liverpool,N,False,1996 - 1997,4
+1997-03-10,English Premier League,Liverpool ,4,3,Newcastle,V,True,1996 - 1997,4
+1997-03-15,English Premier League,Nottingham Forest FC ,1,1,Liverpool,N,False,1996 - 1997,5
+1997-03-20,European Cup Winners Cup,Liverpool - England ,3,0,FC,V,True,1996 - 1997,5
+1997-03-24,English Premier League,Arsenal FC ,1,2,Liverpool,V,False,1996 - 1997,4
+1997-04-06,English Premier League,Liverpool ,1,2,Coventry,D,True,1996 - 1997,13
+1997-04-10,European Cup Winners Cup,Paris Saint-Germain - France ,3,0,Liverpool,D,False,1996 - 1997,4
+1997-04-13,English Premier League,AFC Sunderland ,1,2,Liverpool,V,False,1996 - 1997,3
+1997-04-16,English Premier League,Everton FC ,1,1,Liverpool,N,False,1996 - 1997,3
+1997-04-19,English Premier League,Liverpool ,1,3,Manchester,D,True,1996 - 1997,3
+1997-04-24,European Cup Winners Cup,Liverpool - England ,2,0,Paris,V,True,1996 - 1997,5
+1997-05-03,English Premier League,Liverpool ,2,1,Tottenham,V,True,1996 - 1997,9
+1997-05-06,English Premier League,Wimbledon FC ,2,1,Liverpool,D,False,1996 - 1997,3
+1997-05-11,English Premier League,Sheffield Wednesday FC ,1,1,Liverpool,N,False,1996 - 1997,5
+1997-08-09,English Premier League,Wimbledon FC ,1,1,Liverpool,N,False,1997 - 1998,90
+1997-08-13,English Premier League,Liverpool ,1,2,Leicester,D,True,1997 - 1998,4
+1997-08-23,English Premier League,Blackburn Rovers FC ,1,1,Liverpool,N,False,1997 - 1998,10
+1997-08-26,English Premier League,Leeds United FC ,0,2,Liverpool,V,False,1997 - 1998,3
+1997-09-13,English Premier League,Liverpool ,2,1,Sheffield,V,True,1997 - 1998,18
+1997-09-16,UEFA Cup,Celtic Glasgow - Scotland ,2,2,Liverpool,N,False,1997 - 1998,3
+1997-09-20,English Premier League,FC Southampton ,1,1,Liverpool,N,False,1997 - 1998,4
+1997-09-22,English Premier League,Liverpool ,3,0,Aston,V,True,1997 - 1998,2
+1997-09-27,English Premier League,West Ham United ,2,1,Liverpool,D,False,1997 - 1998,5
+1997-09-30,UEFA Cup,Liverpool - England ,0,0,Celtic,N,True,1997 - 1998,3
+1997-10-05,English Premier League,Liverpool ,4,2,Chelsea,V,True,1997 - 1998,5
+1997-10-15,English League Cup,West Bromwich Albion FC ,0,2,Liverpool,V,False,1997 - 1998,10
+1997-10-18,English Premier League,Everton FC ,2,0,Liverpool,D,False,1997 - 1998,3
+1997-10-21,UEFA Cup,RC Strasbourg - France ,3,0,Liverpool,D,False,1997 - 1998,3
+1997-10-25,English Premier League,Liverpool ,4,0,Derby,V,True,1997 - 1998,4
+1997-11-01,English Premier League,Bolton Wanderers ,1,1,Liverpool,N,False,1997 - 1998,7
+1997-11-04,UEFA Cup,Liverpool - England ,2,0,RC,V,True,1997 - 1998,3
+1997-11-08,English Premier League,Liverpool ,4,0,Tottenham,V,True,1997 - 1998,4
+1997-11-18,English League Cup,Liverpool ,3,0,Grimsby,V,True,1997 - 1998,10
+1997-11-22,English Premier League,Liverpool ,0,1,Barnsley,D,True,1997 - 1998,4
+1997-11-30,English Premier League,Arsenal FC ,0,1,Liverpool,V,False,1997 - 1998,8
+1997-12-06,English Premier League,Liverpool ,1,3,Manchester,D,True,1997 - 1998,6
+1997-12-13,English Premier League,Crystal Palace FC ,0,3,Liverpool,V,False,1997 - 1998,7
+1997-12-20,English Premier League,Liverpool ,1,0,Coventry,V,True,1997 - 1998,7
+1997-12-26,English Premier League,Liverpool ,3,1,Leeds,V,True,1997 - 1998,6
+1997-12-28,English Premier League,Newcastle United FC ,1,2,Liverpool,V,False,1997 - 1998,2
+1998-01-07,English League Cup,Newcastle United FC ,0,2,Liverpool,V,False,1997 - 1998,10
+1998-01-10,English Premier League,Liverpool ,2,0,Wimbledon,V,True,1997 - 1998,3
+1998-01-17,English Premier League,Leicester City ,0,0,Liverpool,N,False,1997 - 1998,7
+1998-01-20,English Premier League,Liverpool ,1,0,Newcastle,V,True,1997 - 1998,3
+1998-01-27,English League Cup,Liverpool ,2,1,Middlesbrough,V,True,1997 - 1998,7
+1998-01-31,English Premier League,Liverpool ,0,0,Blackburn,N,True,1997 - 1998,4
+1998-02-07,English Premier League,Liverpool ,2,3,FC,D,True,1997 - 1998,7
+1998-02-14,English Premier League,Sheffield Wednesday FC ,3,3,Liverpool,N,False,1997 - 1998,7
+1998-02-18,English League Cup,Middlesbrough ,2,0,Liverpool,D,False,1997 - 1998,4
+1998-02-23,English Premier League,Liverpool ,1,1,Everton,N,True,1997 - 1998,5
+1998-02-28,English Premier League,Aston Villa ,2,1,Liverpool,D,False,1997 - 1998,5
+1998-03-07,English Premier League,Liverpool ,2,1,Bolton,V,True,1997 - 1998,7
+1998-03-14,English Premier League,Tottenham Hotspur ,3,3,Liverpool,N,False,1997 - 1998,7
+1998-03-28,English Premier League,Barnsley FC ,2,3,Liverpool,V,False,1997 - 1998,14
+1998-04-10,English Premier League,Manchester United ,1,1,Liverpool,N,False,1997 - 1998,13
+1998-04-13,English Premier League,Liverpool ,2,1,Crystal,V,True,1997 - 1998,3
+1998-04-19,English Premier League,Coventry City ,1,1,Liverpool,N,False,1997 - 1998,6
+1998-04-25,English Premier League,Chelsea ,4,1,Liverpool,D,False,1997 - 1998,6
+1998-05-03,English Premier League,Liverpool ,5,0,West,V,True,1997 - 1998,8
+1998-05-06,English Premier League,Liverpool ,4,0,Arsenal,V,True,1997 - 1998,3
+1998-05-10,English Premier League,Derby County FC ,1,0,Liverpool,D,False,1997 - 1998,4
+1998-08-16,English Premier League,FC Southampton ,1,2,Liverpool,V,False,1998 - 1999,98
+1998-08-22,English Premier League,Liverpool ,0,0,Arsenal,N,True,1998 - 1999,6
+1998-08-30,English Premier League,Newcastle United FC ,1,4,Liverpool,V,False,1998 - 1999,8
+1998-09-09,English Premier League,Liverpool ,2,0,Coventry,V,True,1998 - 1999,10
+1998-09-12,English Premier League,West Ham United ,2,1,Liverpool,D,False,1998 - 1999,3
+1998-09-15,UEFA Cup,MFK Kosice - Slovakia ,0,3,Liverpool,V,False,1998 - 1999,3
+1998-09-19,English Premier League,Liverpool ,3,3,Charlton,N,True,1998 - 1999,4
+1998-09-24,English Premier League,Manchester United ,2,0,Liverpool,D,False,1998 - 1999,5
+1998-09-29,UEFA Cup,Liverpool - England ,5,0,MFK,V,True,1998 - 1999,5
+1998-10-04,English Premier League,Liverpool ,1,1,Chelsea,N,True,1998 - 1999,5
+1998-10-17,English Premier League,Everton FC ,0,0,Liverpool,N,False,1998 - 1999,13
+1998-10-20,UEFA Cup,Liverpool - England ,0,0,Valencia,N,True,1998 - 1999,3
+1998-10-24,English Premier League,Liverpool ,5,1,Nottingham,V,True,1998 - 1999,4
+1998-10-27,English League Cup,Liverpool ,3,1,Fulham,V,True,1998 - 1999,3
+1998-10-31,English Premier League,Leicester City ,1,0,Liverpool,D,False,1998 - 1999,4
+1998-11-03,UEFA Cup,Valencia C.F - Spain ,2,2,Liverpool,N,False,1998 - 1999,3
+1998-11-07,English Premier League,Liverpool ,1,2,Derby,D,True,1998 - 1999,4
+1998-11-10,English League Cup,Liverpool ,1,3,Tottenham,D,True,1998 - 1999,3
+1998-11-14,English Premier League,Liverpool ,1,3,Leeds,D,True,1998 - 1999,4
+1998-11-21,English Premier League,Aston Villa ,2,4,Liverpool,V,False,1998 - 1999,7
+1998-11-24,UEFA Cup,Celta de Vigo - Spain ,3,1,Liverpool,D,False,1998 - 1999,3
+1998-11-29,English Premier League,Liverpool ,2,0,Blackburn,V,True,1998 - 1999,5
+1998-12-05,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,1998 - 1999,6
+1998-12-08,UEFA Cup,Liverpool - England ,0,1,Celta,D,True,1998 - 1999,3
+1998-12-13,English Premier League,Wimbledon FC ,1,0,Liverpool,D,False,1998 - 1999,5
+1998-12-19,English Premier League,Liverpool ,2,0,Sheffield,V,True,1998 - 1999,6
+1998-12-26,English Premier League,Middlesbrough ,1,3,Liverpool,V,False,1998 - 1999,7
+1998-12-28,English Premier League,Liverpool ,4,2,Newcastle,V,True,1998 - 1999,2
+1999-01-09,English Premier League,Arsenal FC ,0,0,Liverpool,N,False,1998 - 1999,12
+1999-01-16,English Premier League,Liverpool ,7,1,FC,V,True,1998 - 1999,7
+1999-01-24,FA Cup,Manchester United ,2,1,Liverpool,D,False,1998 - 1999,8
+1999-01-30,English Premier League,Coventry City ,2,1,Liverpool,D,False,1998 - 1999,6
+1999-02-06,English Premier League,Liverpool ,3,1,Middlesbrough,V,True,1998 - 1999,7
+1999-02-13,English Premier League,Charlton Athletic FC ,1,0,Liverpool,D,False,1998 - 1999,7
+1999-02-20,English Premier League,Liverpool ,2,2,West,N,True,1998 - 1999,7
+1999-02-27,English Premier League,Chelsea ,2,1,Liverpool,D,False,1998 - 1999,7
+1999-03-13,English Premier League,Derby County FC ,3,2,Liverpool,D,False,1998 - 1999,14
+1999-04-03,English Premier League,Liverpool ,3,2,Everton,V,True,1998 - 1999,21
+1999-04-05,English Premier League,Nottingham Forest FC ,2,2,Liverpool,N,False,1998 - 1999,2
+1999-04-12,English Premier League,Leeds United FC ,0,0,Liverpool,N,False,1998 - 1999,7
+1999-04-17,English Premier League,Liverpool ,0,1,Aston,D,True,1998 - 1999,5
+1999-04-21,English Premier League,Liverpool ,0,1,Leicester,D,True,1998 - 1999,4
+1999-04-24,English Premier League,Blackburn Rovers FC ,1,3,Liverpool,V,False,1998 - 1999,3
+1999-05-01,English Premier League,Liverpool ,3,2,Tottenham,V,True,1998 - 1999,7
+1999-05-05,English Premier League,Liverpool ,2,2,Manchester,N,True,1998 - 1999,4
+1999-05-08,English Premier League,Sheffield Wednesday FC ,1,0,Liverpool,D,False,1998 - 1999,3
+1999-05-16,English Premier League,Liverpool ,3,0,Wimbledon,V,True,1998 - 1999,8
+1999-08-07,English Premier League,Sheffield Wednesday FC ,1,2,Liverpool,V,False,1999 - 2000,83
+1999-08-14,English Premier League,Liverpool ,0,1,Watford,D,True,1999 - 2000,7
+1999-08-21,English Premier League,Middlesbrough ,1,0,Liverpool,D,False,1999 - 2000,7
+1999-08-23,English Premier League,Leeds United FC ,1,2,Liverpool,V,False,1999 - 2000,2
+1999-08-28,English Premier League,Liverpool ,2,0,Arsenal,V,True,1999 - 2000,5
+1999-09-11,English Premier League,Liverpool ,2,3,Manchester,D,True,1999 - 2000,14
+1999-09-18,English Premier League,Leicester City ,2,2,Liverpool,N,False,1999 - 2000,7
+1999-09-27,English Premier League,Liverpool ,0,1,Everton,D,True,1999 - 2000,9
+1999-10-02,English Premier League,Aston Villa ,0,0,Liverpool,N,False,1999 - 2000,5
+1999-10-13,English League Cup,FC Southampton ,2,1,Liverpool,D,False,1999 - 2000,11
+1999-10-16,English Premier League,Liverpool ,1,0,Chelsea,V,True,1999 - 2000,3
+1999-10-23,English Premier League,FC Southampton ,1,1,Liverpool,N,False,1999 - 2000,7
+1999-10-27,English Premier League,Liverpool ,1,0,West,V,True,1999 - 2000,4
+1999-11-01,English Premier League,Liverpool ,3,1,Bradford,V,True,1999 - 2000,5
+1999-11-06,English Premier League,Liverpool ,2,0,Derby,V,True,1999 - 2000,5
+1999-11-20,English Premier League,AFC Sunderland ,0,2,Liverpool,V,False,1999 - 2000,14
+1999-11-27,English Premier League,West Ham United ,1,0,Liverpool,D,False,1999 - 2000,7
+1999-12-05,English Premier League,Liverpool ,4,1,Sheffield,V,True,1999 - 2000,8
+1999-12-18,English Premier League,Liverpool ,2,0,Coventry,V,True,1999 - 2000,13
+1999-12-26,English Premier League,Newcastle United FC ,2,2,Liverpool,N,False,1999 - 2000,8
+1999-12-28,English Premier League,Liverpool ,3,1,Wimbledon,V,True,1999 - 2000,2
+2000-01-03,English Premier League,Tottenham Hotspur ,1,0,Liverpool,D,False,1999 - 2000,6
+2000-01-10,FA Cup,Liverpool ,0,1,Blackburn,D,True,1999 - 2000,7
+2000-01-15,English Premier League,Watford ,2,3,Liverpool,V,False,1999 - 2000,5
+2000-01-22,English Premier League,Liverpool ,0,0,Middlesbrough,N,True,1999 - 2000,7
+2000-02-05,English Premier League,Liverpool ,3,1,Leeds,V,True,1999 - 2000,14
+2000-02-13,English Premier League,Arsenal FC ,0,1,Liverpool,V,False,1999 - 2000,8
+2000-03-04,English Premier League,Manchester United ,1,1,Liverpool,N,False,1999 - 2000,20
+2000-03-11,English Premier League,Liverpool ,1,1,AFC,N,True,1999 - 2000,7
+2000-03-15,English Premier League,Liverpool ,0,0,Aston,N,True,1999 - 2000,4
+2000-03-18,English Premier League,Derby County FC ,0,2,Liverpool,V,False,1999 - 2000,3
+2000-03-25,English Premier League,Liverpool ,2,1,Newcastle,V,True,1999 - 2000,7
+2000-04-01,English Premier League,Coventry City ,0,3,Liverpool,V,False,1999 - 2000,7
+2000-04-09,English Premier League,Liverpool ,2,0,Tottenham,V,True,1999 - 2000,8
+2000-04-16,English Premier League,Wimbledon FC ,1,2,Liverpool,V,False,1999 - 2000,7
+2000-04-21,English Premier League,Everton FC ,0,0,Liverpool,N,False,1999 - 2000,5
+2000-04-29,English Premier League,Chelsea ,2,0,Liverpool,D,False,1999 - 2000,8
+2000-05-03,English Premier League,Liverpool ,0,2,Leicester,D,True,1999 - 2000,4
+2000-05-07,English Premier League,Liverpool ,0,0,FC,N,True,1999 - 2000,4
+2000-05-14,English Premier League,Bradford City FC ,1,0,Liverpool,D,False,1999 - 2000,7
+2000-08-19,English Premier League,Liverpool ,1,0,Bradford,V,True,2000 - 2001,97
+2000-08-21,English Premier League,Arsenal FC ,2,0,Liverpool,D,False,2000 - 2001,2
+2000-08-26,English Premier League,FC Southampton ,3,3,Liverpool,N,False,2000 - 2001,5
+2000-09-06,English Premier League,Liverpool ,3,1,Aston,V,True,2000 - 2001,11
+2000-09-09,English Premier League,Liverpool ,3,2,Manchester,V,True,2000 - 2001,3
+2000-09-14,UEFA Cup,Rapid Bucharest - Romania ,0,1,Liverpool,V,False,2000 - 2001,5
+2000-09-17,English Premier League,West Ham United ,1,1,Liverpool,N,False,2000 - 2001,3
+2000-09-23,English Premier League,Liverpool ,1,1,AFC,N,True,2000 - 2001,6
+2000-09-28,UEFA Cup,Liverpool - England ,0,0,Rapid,N,True,2000 - 2001,5
+2000-10-01,English Premier League,Chelsea ,3,0,Liverpool,D,False,2000 - 2001,3
+2000-10-15,English Premier League,Derby County FC ,0,4,Liverpool,V,False,2000 - 2001,14
+2000-10-21,English Premier League,Liverpool ,1,0,Leicester,V,True,2000 - 2001,6
+2000-10-26,UEFA Cup,Liverpool - England ,1,0,Slovan,V,True,2000 - 2001,5
+2000-10-29,English Premier League,Liverpool ,3,1,Everton,V,True,2000 - 2001,3
+2000-11-01,English League Cup,Liverpool ,2,1,Chelsea,V,True,2000 - 2001,3
+2000-11-04,English Premier League,Leeds United FC ,4,3,Liverpool,D,False,2000 - 2001,3
+2000-11-09,UEFA Cup,Slovan Liberec - Czech Republic ,2,3,Liverpool,V,False,2000 - 2001,5
+2000-11-12,English Premier League,Liverpool ,4,1,Coventry,V,True,2000 - 2001,3
+2000-11-19,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2000 - 2001,7
+2000-11-23,UEFA Cup,Olympiacos Piraeus - Greece ,2,2,Liverpool,N,False,2000 - 2001,4
+2000-11-26,English Premier League,Newcastle United FC ,2,1,Liverpool,D,False,2000 - 2001,3
+2000-11-29,English League Cup,Stoke City FC ,0,8,Liverpool,V,False,2000 - 2001,3
+2000-12-02,English Premier League,Liverpool ,3,0,Charlton,V,True,2000 - 2001,3
+2000-12-07,UEFA Cup,Liverpool - England ,2,0,Olympiacos,V,True,2000 - 2001,5
+2000-12-10,English Premier League,Liverpool ,0,1,Ipswich,D,True,2000 - 2001,3
+2000-12-13,English League Cup,Liverpool ,3,0,Fulham,V,True,2000 - 2001,3
+2000-12-17,English Premier League,Manchester United ,0,1,Liverpool,V,False,2000 - 2001,4
+2000-12-23,English Premier League,Liverpool ,4,0,Arsenal,V,True,2000 - 2001,6
+2000-12-26,English Premier League,Middlesbrough ,1,0,Liverpool,D,False,2000 - 2001,3
+2000-12-30,English Premier League,Bradford City FC ,0,0,Liverpool,N,False,2000 - 2001,4
+2001-01-01,English Premier League,Liverpool ,2,1,FC,V,True,2000 - 2001,2
+2001-01-10,English League Cup,Crystal Palace FC ,2,1,Liverpool,D,False,2000 - 2001,9
+2001-01-13,English Premier League,Aston Villa ,0,3,Liverpool,V,False,2000 - 2001,3
+2001-01-20,English Premier League,Liverpool ,0,0,Middlesbrough,N,True,2000 - 2001,7
+2001-01-24,English League Cup,Liverpool ,5,0,Crystal,V,True,2000 - 2001,4
+2001-01-27,FA Cup,Leeds United FC ,0,2,Liverpool,V,False,2000 - 2001,3
+2001-01-31,English Premier League,Manchester City ,1,1,Liverpool,N,False,2000 - 2001,4
+2001-02-03,English Premier League,Liverpool ,3,0,West,V,True,2000 - 2001,3
+2001-02-10,English Premier League,AFC Sunderland ,1,1,Liverpool,N,False,2000 - 2001,7
+2001-02-15,UEFA Cup,AS Roma - Italy ,0,2,Liverpool,V,False,2000 - 2001,5
+2001-02-18,FA Cup,Liverpool ,4,2,Manchester,V,True,2000 - 2001,3
+2001-02-22,UEFA Cup,Liverpool - England ,0,1,AS,D,True,2000 - 2001,4
+2001-03-03,English Premier League,Leicester City ,2,0,Liverpool,D,False,2000 - 2001,9
+2001-03-08,UEFA Cup,FC Porto - Portugal ,0,0,Liverpool,N,False,2000 - 2001,5
+2001-03-11,FA Cup,Tranmere Rovers FC ,2,4,Liverpool,V,False,2000 - 2001,3
+2001-03-15,UEFA Cup,Liverpool - England ,2,0,FC,V,True,2000 - 2001,4
+2001-03-18,English Premier League,Liverpool ,1,1,Derby,N,True,2000 - 2001,3
+2001-03-31,English Premier League,Liverpool ,2,0,Manchester,V,True,2000 - 2001,13
+2001-04-05,UEFA Cup,FC Barcelona - Spain ,0,0,Liverpool,N,False,2000 - 2001,5
+2001-04-08,FA Cup,Wycombe Wanderers FC ,1,2,Liverpool,V,False,2000 - 2001,3
+2001-04-10,English Premier League,Ipswich Town FC ,1,1,Liverpool,N,False,2000 - 2001,2
+2001-04-13,English Premier League,Liverpool ,1,2,Leeds,D,True,2000 - 2001,3
+2001-04-16,English Premier League,Everton FC ,2,3,Liverpool,V,False,2000 - 2001,3
+2001-04-19,UEFA Cup,Liverpool - England ,1,0,FC,V,True,2000 - 2001,3
+2001-04-22,English Premier League,Liverpool ,3,1,Tottenham,V,True,2000 - 2001,3
+2001-04-28,English Premier League,Coventry City ,0,2,Liverpool,V,False,2000 - 2001,6
+2001-05-01,English Premier League,Bradford City FC ,0,2,Liverpool,V,False,2000 - 2001,3
+2001-05-05,English Premier League,Liverpool ,3,0,Newcastle,V,True,2000 - 2001,4
+2001-05-08,English Premier League,Liverpool ,2,2,Chelsea,N,True,2000 - 2001,3
+2001-05-12,FA Cup,Arsenal FC ,1,2,Liverpool,V,False,2000 - 2001,4
+2001-05-16,UEFA Cup,Liverpool - England ,5,4,Deportivo,V,True,2000 - 2001,4
+2001-05-19,English Premier League,Charlton Athletic FC ,0,4,Liverpool,V,False,2000 - 2001,3
+2001-07-26,Amsterdam Intl.,Liverpool ,1,0,Valencia,V,True,2000 - 2001,68
+2001-07-28,Amsterdam Intl.,Ajax Amsterdam ,3,1,Liverpool,D,False,2000 - 2001,2
+2001-08-08,UEFA Champions League,Valkeakosken Haka - Finland ,0,5,Liverpool,V,False,2001 - 2002,11
+2001-08-12,FA Community Shield,Manchester United ,1,2,Liverpool,V,False,2001 - 2002,4
+2001-08-18,English Premier League,Liverpool ,2,1,West,V,True,2001 - 2002,6
+2001-08-21,UEFA Champions League,Liverpool - England ,4,1,Valkeakosken,V,True,2001 - 2002,3
+2001-08-24,UEFA Super Cup,Liverpool - England ,3,2,FC,V,True,2001 - 2002,3
+2001-08-27,English Premier League,Bolton Wanderers ,2,1,Liverpool,D,False,2001 - 2002,3
+2001-09-08,English Premier League,Liverpool ,1,3,Aston,D,True,2001 - 2002,12
+2001-09-11,UEFA Champions League,Liverpool - England ,1,1,Boavista,N,True,2001 - 2002,3
+2001-09-15,English Premier League,Everton FC ,1,3,Liverpool,V,False,2001 - 2002,4
+2001-09-19,UEFA Champions League,Borussia Dortmund - Germany ,0,0,Liverpool,N,False,2001 - 2002,4
+2001-09-22,English Premier League,Liverpool ,1,0,Tottenham,V,True,2001 - 2002,3
+2001-09-26,UEFA Champions League,Liverpool - England ,1,0,Dynamo,V,True,2001 - 2002,4
+2001-09-30,English Premier League,Newcastle United FC ,0,2,Liverpool,V,False,2001 - 2002,4
+2001-10-09,English League Cup,Liverpool ,1,2,Grimsby,D,True,2001 - 2002,9
+2001-10-13,English Premier League,Liverpool ,1,1,Leeds,N,True,2001 - 2002,4
+2001-10-16,UEFA Champions League,Dynamo Kiev - Ukraine ,1,2,Liverpool,V,False,2001 - 2002,3
+2001-10-20,English Premier League,Leicester City ,1,4,Liverpool,V,False,2001 - 2002,4
+2001-10-24,UEFA Champions League,Boavista FC - Portugal ,1,1,Liverpool,N,False,2001 - 2002,4
+2001-10-27,English Premier League,Charlton Athletic FC ,0,2,Liverpool,V,False,2001 - 2002,3
+2001-10-30,UEFA Champions League,Liverpool - England ,2,0,Borussia,V,True,2001 - 2002,3
+2001-11-04,English Premier League,Liverpool ,3,1,Manchester,V,True,2001 - 2002,5
+2001-11-17,English Premier League,Blackburn Rovers FC ,1,1,Liverpool,N,False,2001 - 2002,13
+2001-11-20,UEFA Champions League,Liverpool - England ,1,3,FC,D,True,2001 - 2002,3
+2001-11-25,English Premier League,Liverpool ,1,0,AFC,V,True,2001 - 2002,5
+2001-12-01,English Premier League,Derby County FC ,0,1,Liverpool,V,False,2001 - 2002,6
+2001-12-05,UEFA Champions League,AS Roma - Italy ,0,0,Liverpool,N,False,2001 - 2002,4
+2001-12-08,English Premier League,Liverpool ,2,0,Middlesbrough,V,True,2001 - 2002,3
+2001-12-12,English Premier League,Liverpool ,0,0,Fulham,N,True,2001 - 2002,4
+2001-12-16,English Premier League,Chelsea ,4,0,Liverpool,D,False,2001 - 2002,4
+2001-12-23,English Premier League,Liverpool ,1,2,Arsenal,D,True,2001 - 2002,7
+2001-12-26,English Premier League,Aston Villa ,1,2,Liverpool,V,False,2001 - 2002,3
+2001-12-29,English Premier League,West Ham United ,1,1,Liverpool,N,False,2001 - 2002,3
+2002-01-01,English Premier League,Liverpool ,1,1,Bolton,N,True,2001 - 2002,3
+2002-01-09,English Premier League,FC Southampton ,2,0,Liverpool,D,False,2001 - 2002,8
+2002-01-13,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2001 - 2002,4
+2002-01-19,English Premier League,Liverpool ,1,1,FC,N,True,2001 - 2002,6
+2002-01-22,English Premier League,Manchester United ,0,1,Liverpool,V,False,2001 - 2002,3
+2002-01-27,FA Cup,Arsenal FC ,1,0,Liverpool,D,False,2001 - 2002,5
+2002-01-30,English Premier League,Liverpool ,1,0,Leicester,V,True,2001 - 2002,3
+2002-02-03,English Premier League,Leeds United FC ,0,4,Liverpool,V,False,2001 - 2002,4
+2002-02-09,English Premier League,Ipswich Town FC ,0,6,Liverpool,V,False,2001 - 2002,6
+2002-02-20,UEFA Champions League,Liverpool - England ,0,0,Galatasaray,N,True,2001 - 2002,11
+2002-02-23,English Premier League,Liverpool ,1,1,Everton,N,True,2001 - 2002,3
+2002-02-26,UEFA Champions League,Galatasaray SK - Turkey ,1,1,Liverpool,N,False,2001 - 2002,3
+2002-03-02,English Premier League,Fulham FC ,0,2,Liverpool,V,False,2001 - 2002,4
+2002-03-06,English Premier League,Liverpool ,3,0,Newcastle,V,True,2001 - 2002,4
+2002-03-13,UEFA Champions League,FC Barcelona - Spain ,0,0,Liverpool,N,False,2001 - 2002,7
+2002-03-16,English Premier League,Middlesbrough ,1,2,Liverpool,V,False,2001 - 2002,3
+2002-03-19,UEFA Champions League,Liverpool - England ,2,0,AS,V,True,2001 - 2002,3
+2002-03-24,English Premier League,Liverpool ,1,0,Chelsea,V,True,2001 - 2002,5
+2002-03-30,English Premier League,Liverpool ,2,0,Charlton,V,True,2001 - 2002,6
+2002-04-03,UEFA Champions League,Liverpool - England ,1,0,Bayer,V,True,2001 - 2002,4
+2002-04-09,UEFA Champions League,Bayer 04 Leverkusen - Germany ,4,2,Liverpool,D,False,2001 - 2002,6
+2002-04-13,English Premier League,AFC Sunderland ,0,1,Liverpool,V,False,2001 - 2002,4
+2002-04-20,English Premier League,Liverpool ,2,0,Derby,V,True,2001 - 2002,7
+2002-04-27,English Premier League,Tottenham Hotspur ,1,0,Liverpool,D,False,2001 - 2002,7
+2002-05-08,English Premier League,Liverpool ,4,3,Blackburn,V,True,2001 - 2002,11
+2002-05-11,English Premier League,Liverpool ,5,0,Ipswich,V,True,2001 - 2002,3
+2002-08-02,Trofeo Santiago Bernabeu,Real Madrid CF - Spain ,2,0,Liverpool,D,False,2002 - 2003,83
+2002-08-04,Trofeo Santiago Bernabeu,Liverpool - England ,2,1,AC,V,True,2002 - 2003,2
+2002-08-11,FA Community Shield,Arsenal FC ,1,0,Liverpool,D,False,2002 - 2003,7
+2002-08-18,English Premier League,Aston Villa ,0,1,Liverpool,V,False,2002 - 2003,7
+2002-08-24,English Premier League,Liverpool ,3,0,FC,V,True,2002 - 2003,6
+2002-08-28,English Premier League,Blackburn Rovers FC ,2,2,Liverpool,N,False,2002 - 2003,4
+2002-09-02,English Premier League,Liverpool ,2,2,Newcastle,N,True,2002 - 2003,5
+2002-09-11,English Premier League,Liverpool ,2,2,Birmingham,N,True,2002 - 2003,9
+2002-09-14,English Premier League,Bolton Wanderers ,2,3,Liverpool,V,False,2002 - 2003,3
+2002-09-17,UEFA Champions League,Valencia C.F - Spain ,2,0,Liverpool,D,False,2002 - 2003,3
+2002-09-21,English Premier League,Liverpool ,2,0,West,V,True,2002 - 2003,4
+2002-09-25,UEFA Champions League,Liverpool - England ,1,1,FC,N,True,2002 - 2003,4
+2002-09-28,English Premier League,Manchester City ,0,3,Liverpool,V,False,2002 - 2003,3
+2002-10-02,UEFA Champions League,Liverpool - England ,5,0,Spartak,V,True,2002 - 2003,4
+2002-10-06,English Premier League,Liverpool ,1,0,Chelsea,V,True,2002 - 2003,4
+2002-10-19,English Premier League,Leeds United FC ,0,1,Liverpool,V,False,2002 - 2003,13
+2002-10-22,UEFA Champions League,Spartak Moscow - Russia ,1,3,Liverpool,V,False,2002 - 2003,3
+2002-10-26,English Premier League,Liverpool ,2,1,Tottenham,V,True,2002 - 2003,4
+2002-10-30,UEFA Champions League,Liverpool - England ,0,1,Valencia,D,True,2002 - 2003,4
+2002-11-02,English Premier League,Liverpool ,2,0,West,V,True,2002 - 2003,3
+2002-11-06,English League Cup,Liverpool ,3,1,FC,V,True,2002 - 2003,4
+2002-11-09,English Premier League,Middlesbrough ,1,0,Liverpool,D,False,2002 - 2003,3
+2002-11-12,UEFA Champions League,FC Basel 1893 - Switzerland ,3,3,Liverpool,N,False,2002 - 2003,3
+2002-11-17,English Premier League,Liverpool ,0,0,AFC,N,True,2002 - 2003,5
+2002-11-23,English Premier League,Fulham FC ,3,2,Liverpool,D,False,2002 - 2003,6
+2002-11-28,UEFA Cup,Vitesse Arnhem - Netherlands ,0,1,Liverpool,V,False,2002 - 2003,5
+2002-12-01,English Premier League,Liverpool ,1,2,Manchester,D,True,2002 - 2003,3
+2002-12-04,English League Cup,Liverpool ,1,1,Ipswich,N,True,2002 - 2003,3
+2002-12-07,English Premier League,Charlton Athletic FC ,2,0,Liverpool,D,False,2002 - 2003,3
+2002-12-12,UEFA Cup,Liverpool - England ,1,0,Vitesse,V,True,2002 - 2003,5
+2002-12-15,English Premier League,AFC Sunderland ,2,1,Liverpool,D,False,2002 - 2003,3
+2002-12-18,English League Cup,Aston Villa ,3,4,Liverpool,V,False,2002 - 2003,3
+2002-12-22,English Premier League,Liverpool ,0,0,Everton,N,True,2002 - 2003,4
+2002-12-26,English Premier League,Liverpool ,1,1,Blackburn,N,True,2002 - 2003,4
+2002-12-29,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2002 - 2003,3
+2003-01-01,English Premier League,Newcastle United FC ,1,0,Liverpool,D,False,2002 - 2003,3
+2003-01-08,English League Cup,Sheffield United FC ,2,1,Liverpool,D,False,2002 - 2003,7
+2003-01-11,English Premier League,Liverpool ,1,1,Aston,N,True,2002 - 2003,3
+2003-01-18,English Premier League,FC Southampton ,0,1,Liverpool,V,False,2002 - 2003,7
+2003-01-21,English League Cup,Liverpool ,2,0,Sheffield,V,True,2002 - 2003,3
+2003-01-26,FA Cup,Crystal Palace FC ,0,0,Liverpool,N,False,2002 - 2003,5
+2003-01-29,English Premier League,Liverpool ,2,2,Arsenal,N,True,2002 - 2003,3
+2003-02-02,English Premier League,West Ham United ,0,3,Liverpool,V,False,2002 - 2003,4
+2003-02-05,FA Cup,Liverpool ,0,2,Crystal,D,True,2002 - 2003,3
+2003-02-08,English Premier League,Liverpool ,1,1,Middlesbrough,N,True,2002 - 2003,3
+2003-02-20,UEFA Cup,Auxerre - France ,0,1,Liverpool,V,False,2002 - 2003,12
+2003-02-23,English Premier League,Birmingham City FC ,2,1,Liverpool,D,False,2002 - 2003,3
+2003-02-27,UEFA Cup,Liverpool - England ,2,0,Auxerre,V,True,2002 - 2003,4
+2003-03-02,English League Cup,Liverpool ,2,0,Manchester,V,True,2002 - 2003,3
+2003-03-08,English Premier League,Liverpool ,2,0,Bolton,V,True,2002 - 2003,6
+2003-03-13,UEFA Cup,Celtic Glasgow - Scotland ,1,1,Liverpool,N,False,2002 - 2003,5
+2003-03-16,English Premier League,Tottenham Hotspur ,2,3,Liverpool,V,False,2002 - 2003,3
+2003-03-20,UEFA Cup,Liverpool - England ,0,2,Celtic,D,True,2002 - 2003,4
+2003-03-23,English Premier League,Liverpool ,3,1,Leeds,V,True,2002 - 2003,3
+2003-04-05,English Premier League,Manchester United ,4,0,Liverpool,D,False,2002 - 2003,13
+2003-04-12,English Premier League,Liverpool ,2,0,Fulham,V,True,2002 - 2003,7
+2003-04-19,English Premier League,Everton FC ,1,2,Liverpool,V,False,2002 - 2003,7
+2003-04-21,English Premier League,Liverpool ,2,1,Charlton,V,True,2002 - 2003,2
+2003-04-26,English Premier League,West Bromwich Albion FC ,0,6,Liverpool,V,False,2002 - 2003,5
+2003-05-03,English Premier League,Liverpool ,1,2,Manchester,D,True,2002 - 2003,7
+2003-05-11,English Premier League,Chelsea ,2,1,Liverpool,D,False,2002 - 2003,8
+2003-07-16,Friendlies - Clubs - 2003,Liverpool - England ,3,1,1.,V,True,2002 - 2003,66
+2003-07-19,Friendlies - Clubs - 2003,Liverpool - England ,1,1,Crewe,N,True,2002 - 2003,3
+2003-07-24,Friendlies - Clubs - 2003,Liverpool - England ,3,1,Thailand,V,True,2002 - 2003,5
+2003-08-01,Amsterdam Intl.,Ajax Amsterdam ,0,0,Liverpool,N,False,2003 - 2004,8
+2003-08-03,Amsterdam Intl.,Galatasaray SK ,2,1,Liverpool,D,False,2003 - 2004,2
+2003-08-05,Friendlies - Clubs - 2003,Liverpool - England ,5,1,Aberdeen,V,True,2003 - 2004,2
+2003-08-09,Friendlies - Clubs - 2003,Liverpool - England ,0,2,Valencia,D,True,2003 - 2004,4
+2003-08-17,English Premier League,Liverpool ,1,2,Chelsea,D,True,2003 - 2004,8
+2003-08-24,English Premier League,Aston Villa ,0,0,Liverpool,N,False,2003 - 2004,7
+2003-08-27,English Premier League,Liverpool ,0,0,Tottenham,N,True,2003 - 2004,3
+2003-08-30,English Premier League,Everton FC ,0,3,Liverpool,V,False,2003 - 2004,3
+2003-09-13,English Premier League,Blackburn Rovers FC ,1,3,Liverpool,V,False,2003 - 2004,14
+2003-09-20,English Premier League,Liverpool ,2,1,Leicester,V,True,2003 - 2004,7
+2003-09-24,UEFA Cup,NK Olimpija Ljubljana ,1,1,Liverpool,N,False,2003 - 2004,4
+2003-09-28,English Premier League,Charlton Athletic FC ,3,2,Liverpool,D,False,2003 - 2004,4
+2003-10-04,English Premier League,Liverpool ,1,2,Arsenal,D,True,2003 - 2004,6
+2003-10-15,UEFA Cup,Liverpool ,3,0,NK,V,True,2003 - 2004,11
+2003-10-18,English Premier League,Portsmouth ,1,0,Liverpool,D,False,2003 - 2004,3
+2003-10-25,English Premier League,Liverpool ,3,1,Leeds,V,True,2003 - 2004,7
+2003-10-29,English League Cup,Blackburn Rovers FC ,3,4,Liverpool,V,False,2003 - 2004,4
+2003-11-02,English Premier League,Fulham FC ,1,2,Liverpool,V,False,2003 - 2004,4
+2003-11-06,UEFA Cup,FCSB Steaua Bucarest ,1,1,Liverpool,N,False,2003 - 2004,4
+2003-11-09,English Premier League,Liverpool ,1,2,Manchester,D,True,2003 - 2004,3
+2003-11-22,English Premier League,Middlesbrough ,0,0,Liverpool,N,False,2003 - 2004,13
+2003-11-27,UEFA Cup,Liverpool ,1,0,FCSB,V,True,2003 - 2004,5
+2003-11-30,English Premier League,Liverpool ,3,1,Birmingham,V,True,2003 - 2004,3
+2003-12-03,English League Cup,Liverpool ,2,3,Bolton,D,True,2003 - 2004,3
+2003-12-06,English Premier League,Newcastle United FC ,1,1,Liverpool,N,False,2003 - 2004,3
+2003-12-13,English Premier League,Liverpool ,1,2,FC,D,True,2003 - 2004,7
+2003-12-26,English Premier League,Liverpool ,3,1,Bolton,V,True,2003 - 2004,13
+2003-12-28,English Premier League,Manchester City ,2,2,Liverpool,N,False,2003 - 2004,2
+2004-01-04,FA Cup,Yeovil Town ,0,2,Liverpool,V,False,2003 - 2004,7
+2004-01-07,English Premier League,Chelsea ,0,1,Liverpool,V,False,2003 - 2004,3
+2004-01-10,English Premier League,Liverpool ,1,0,Aston,V,True,2003 - 2004,3
+2004-01-17,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2003 - 2004,7
+2004-01-21,English Premier League,Wolverhampton Wanderers FC ,1,1,Liverpool,N,False,2003 - 2004,4
+2004-01-24,FA Cup,Liverpool ,2,1,Newcastle,V,True,2003 - 2004,3
+2004-01-31,English Premier League,Liverpool ,0,0,Everton,N,True,2003 - 2004,7
+2004-02-07,English Premier League,Bolton Wanderers ,2,2,Liverpool,N,False,2003 - 2004,7
+2004-02-11,English Premier League,Liverpool ,2,1,Manchester,V,True,2003 - 2004,4
+2004-02-15,FA Cup,Liverpool ,1,1,Portsmouth,N,True,2003 - 2004,4
+2004-02-22,FA Cup,Portsmouth ,1,0,Liverpool,D,False,2003 - 2004,7
+2004-02-26,UEFA Cup,Liverpool ,2,0,PFC,V,True,2003 - 2004,4
+2004-02-29,English Premier League,Leeds United FC ,2,2,Liverpool,N,False,2003 - 2004,3
+2004-03-03,UEFA Cup,PFC Levski Sofia ,2,4,Liverpool,V,False,2003 - 2004,3
+2004-03-11,UEFA Cup,Liverpool ,1,1,Olympique,N,True,2003 - 2004,8
+2004-03-14,English Premier League,FC Southampton ,2,0,Liverpool,D,False,2003 - 2004,3
+2004-03-17,English Premier League,Liverpool ,3,0,Portsmouth,V,True,2003 - 2004,3
+2004-03-20,English Premier League,Liverpool ,1,0,Wolverhampton,V,True,2003 - 2004,3
+2004-03-25,UEFA Cup,Olympique Marseille ,2,1,Liverpool,D,False,2003 - 2004,5
+2004-03-28,English Premier League,Leicester City ,0,0,Liverpool,N,False,2003 - 2004,3
+2004-04-04,English Premier League,Liverpool ,4,0,Blackburn,V,True,2003 - 2004,7
+2004-04-09,English Premier League,Arsenal FC ,4,2,Liverpool,D,False,2003 - 2004,5
+2004-04-12,English Premier League,Liverpool ,0,1,Charlton,D,True,2003 - 2004,3
+2004-04-17,English Premier League,Liverpool ,0,0,Fulham,N,True,2003 - 2004,5
+2004-04-24,English Premier League,Manchester United ,0,1,Liverpool,V,False,2003 - 2004,7
+2004-05-02,English Premier League,Liverpool ,2,0,Middlesbrough,V,True,2003 - 2004,8
+2004-05-08,English Premier League,Birmingham City FC ,0,3,Liverpool,V,False,2003 - 2004,6
+2004-05-15,English Premier League,Liverpool ,1,1,Newcastle,N,True,2003 - 2004,7
+2004-07-21,Friendlies - Clubs,Wrexham FC - First - England ,1,2,Liverpool,V,False,2003 - 2004,67
+2004-07-27,US ChampionsWorld Series,Celtic Glasgow - Scotland ,1,5,Liverpool,V,False,2003 - 2004,6
+2004-07-31,US ChampionsWorld Series,FC Porto - Portugal ,1,0,Liverpool,D,False,2003 - 2004,4
+2004-08-04,US ChampionsWorld Series,AS Roma - Italy ,1,2,Liverpool,V,False,2004 - 2005,4
+2004-08-10,UEFA Champions League,Grazer AK - Austria ,0,2,Liverpool,V,False,2004 - 2005,6
+2004-08-14,English Premier League,Tottenham Hotspur ,1,1,Liverpool,N,False,2004 - 2005,4
+2004-08-21,English Premier League,Liverpool ,2,1,Manchester,V,True,2004 - 2005,7
+2004-08-24,UEFA Champions League,Liverpool - England ,0,1,Grazer,D,True,2004 - 2005,3
+2004-08-29,English Premier League,Bolton Wanderers ,1,0,Liverpool,D,False,2004 - 2005,5
+2004-09-11,English Premier League,Liverpool ,3,0,West,V,True,2004 - 2005,13
+2004-09-15,UEFA Champions League,Liverpool - England ,2,0,AS,V,True,2004 - 2005,4
+2004-09-20,English Premier League,Manchester United ,2,1,Liverpool,D,False,2004 - 2005,5
+2004-09-25,English Premier League,Liverpool ,3,0,Norwich,V,True,2004 - 2005,5
+2004-09-28,UEFA Champions League,Olympiacos Piraeus - Greece ,1,0,Liverpool,D,False,2004 - 2005,3
+2004-10-03,English Premier League,Chelsea ,1,0,Liverpool,D,False,2004 - 2005,5
+2004-10-16,English Premier League,Fulham FC ,2,4,Liverpool,V,False,2004 - 2005,13
+2004-10-19,UEFA Champions League,Liverpool - England ,0,0,Deportivo,N,True,2004 - 2005,3
+2004-10-23,English Premier League,Liverpool ,2,0,Charlton,V,True,2004 - 2005,4
+2004-10-26,English League Cup,Millwall FC ,0,3,Liverpool,V,False,2004 - 2005,3
+2004-10-30,English Premier League,Blackburn Rovers FC ,2,2,Liverpool,N,False,2004 - 2005,4
+2004-11-03,UEFA Champions League,Deportivo La Coruna - Spain ,0,1,Liverpool,V,False,2004 - 2005,4
+2004-11-06,English Premier League,Liverpool ,0,1,Birmingham,D,True,2004 - 2005,3
+2004-11-10,English League Cup,Liverpool ,2,0,Middlesbrough,V,True,2004 - 2005,4
+2004-11-13,English Premier League,Liverpool ,3,2,Crystal,V,True,2004 - 2005,3
+2004-11-20,English Premier League,Middlesbrough ,2,0,Liverpool,D,False,2004 - 2005,7
+2004-11-23,UEFA Champions League,AS Monaco FC - France ,1,0,Liverpool,D,False,2004 - 2005,3
+2004-11-28,English Premier League,Liverpool ,2,1,Arsenal,V,True,2004 - 2005,5
+2004-12-04,English Premier League,Aston Villa ,1,1,Liverpool,N,False,2004 - 2005,6
+2004-12-08,UEFA Champions League,Liverpool - England ,3,1,Olympiacos,V,True,2004 - 2005,4
+2004-12-11,English Premier League,Everton FC ,1,0,Liverpool,D,False,2004 - 2005,3
+2004-12-14,English Premier League,Liverpool ,1,1,Portsmouth,N,True,2004 - 2005,3
+2004-12-19,English Premier League,Liverpool ,3,1,Newcastle,V,True,2004 - 2005,5
+2004-12-26,English Premier League,West Bromwich Albion FC ,0,5,Liverpool,V,False,2004 - 2005,7
+2004-12-28,English Premier League,Liverpool ,1,0,FC,V,True,2004 - 2005,2
+2005-01-01,English Premier League,Liverpool ,0,1,Chelsea,D,True,2004 - 2005,4
+2005-01-03,English Premier League,Norwich City ,1,2,Liverpool,V,False,2004 - 2005,2
+2005-01-11,English League Cup,Liverpool ,1,0,Watford,V,True,2004 - 2005,8
+2005-01-15,English Premier League,Liverpool ,0,1,Manchester,D,True,2004 - 2005,4
+2005-01-18,FA Cup,Burnley FC ,1,0,Liverpool,D,False,2004 - 2005,3
+2005-01-22,English Premier League,FC Southampton ,2,0,Liverpool,D,False,2004 - 2005,4
+2005-01-25,English League Cup,Watford ,0,1,Liverpool,V,False,2004 - 2005,3
+2005-02-01,English Premier League,Charlton Athletic FC ,1,2,Liverpool,V,False,2004 - 2005,7
+2005-02-05,English Premier League,Liverpool ,3,1,Fulham,V,True,2004 - 2005,4
+2005-02-12,English Premier League,Birmingham City FC ,2,0,Liverpool,D,False,2004 - 2005,7
+2005-02-22,UEFA Champions League,Liverpool - England ,3,1,Bayer,V,True,2004 - 2005,10
+2005-02-27,English League Cup,Liverpool ,2,3,Chelsea,D,True,2004 - 2005,5
+2005-03-05,English Premier League,Newcastle United FC ,1,0,Liverpool,D,False,2004 - 2005,6
+2005-03-09,UEFA Champions League,Bayer 04 Leverkusen - Germany ,1,3,Liverpool,V,False,2004 - 2005,4
+2005-03-16,English Premier League,Liverpool ,0,0,Blackburn,N,True,2004 - 2005,7
+2005-03-20,English Premier League,Liverpool ,2,1,Everton,V,True,2004 - 2005,4
+2005-04-02,English Premier League,Liverpool ,1,0,Bolton,V,True,2004 - 2005,13
+2005-04-05,UEFA Champions League,Liverpool - England ,2,1,Juventus,V,True,2004 - 2005,3
+2005-04-09,English Premier League,Manchester City ,1,0,Liverpool,D,False,2004 - 2005,4
+2005-04-13,UEFA Champions League,Juventus FC - Italy ,0,0,Liverpool,N,False,2004 - 2005,4
+2005-04-16,English Premier League,Liverpool ,2,2,Tottenham,N,True,2004 - 2005,3
+2005-04-20,English Premier League,Portsmouth ,1,2,Liverpool,V,False,2004 - 2005,4
+2005-04-23,English Premier League,Crystal Palace FC ,1,0,Liverpool,D,False,2004 - 2005,3
+2005-04-27,UEFA Champions League,Chelsea - England ,0,0,Liverpool,N,False,2004 - 2005,4
+2005-04-30,English Premier League,Liverpool ,1,1,Middlesbrough,N,True,2004 - 2005,3
+2005-05-03,UEFA Champions League,Liverpool - England ,1,0,Chelsea,V,True,2004 - 2005,3
+2005-05-08,English Premier League,Arsenal FC ,3,1,Liverpool,D,False,2004 - 2005,5
+2005-05-15,English Premier League,Liverpool ,2,1,Aston,V,True,2004 - 2005,7
+2005-07-13,UEFA Champions League,Liverpool - England ,3,0,The,V,True,2004 - 2005,59
+2005-07-16,Friendlies - Clubs,Bayer 04 Leverkusen - Germany ,0,3,Liverpool,V,False,2004 - 2005,3
+2005-07-19,UEFA Champions League,The New Saints - Wales ,0,3,Liverpool,V,False,2004 - 2005,3
+2005-07-23,Friendlies - Clubs,Olympiacos Piraeus - Greece ,3,4,Liverpool,V,False,2004 - 2005,4
+2005-07-26,UEFA Champions League,FBK Kaunas - Lithuania ,1,3,Liverpool,V,False,2004 - 2005,3
+2005-08-02,UEFA Champions League,Liverpool - England ,2,0,FBK,V,True,2005 - 2006,7
+2005-08-10,UEFA Champions League,CSKA Sofia - Bulgaria ,1,3,Liverpool,V,False,2005 - 2006,8
+2005-08-13,English Premier League,Middlesbrough ,0,0,Liverpool,N,False,2005 - 2006,3
+2005-08-20,English Premier League,Liverpool ,1,0,AFC,V,True,2005 - 2006,7
+2005-08-23,UEFA Champions League,Liverpool - England ,0,1,CSKA,D,True,2005 - 2006,3
+2005-08-26,UEFA Super Cup,Liverpool - England ,3,1,CSKA,V,True,2005 - 2006,3
+2005-09-10,English Premier League,Tottenham Hotspur ,0,0,Liverpool,N,False,2005 - 2006,15
+2005-09-13,UEFA Champions League,Real Betis - Spain ,1,2,Liverpool,V,False,2005 - 2006,3
+2005-09-18,English Premier League,Liverpool ,0,0,Manchester,N,True,2005 - 2006,5
+2005-09-24,English Premier League,Birmingham City FC ,2,2,Liverpool,N,False,2005 - 2006,6
+2005-09-28,UEFA Champions League,Liverpool - England ,0,0,Chelsea,N,True,2005 - 2006,4
+2005-10-02,English Premier League,Liverpool ,1,4,Chelsea,D,True,2005 - 2006,4
+2005-10-15,English Premier League,Liverpool ,1,0,Blackburn,V,True,2005 - 2006,13
+2005-10-19,UEFA Champions League,RSC Anderlecht - Belgium ,0,1,Liverpool,V,False,2005 - 2006,4
+2005-10-22,English Premier League,Fulham FC ,2,0,Liverpool,D,False,2005 - 2006,3
+2005-10-25,English League Cup,Crystal Palace FC ,2,1,Liverpool,D,False,2005 - 2006,3
+2005-10-29,English Premier League,Liverpool ,2,0,West,V,True,2005 - 2006,4
+2005-11-01,UEFA Champions League,Liverpool - England ,3,0,RSC,V,True,2005 - 2006,3
+2005-11-05,English Premier League,Aston Villa ,0,2,Liverpool,V,False,2005 - 2006,4
+2005-11-19,English Premier League,Liverpool ,3,0,Portsmouth,V,True,2005 - 2006,14
+2005-11-23,UEFA Champions League,Liverpool - England ,0,0,Real,N,True,2005 - 2006,4
+2005-11-26,English Premier League,Manchester City ,0,1,Liverpool,V,False,2005 - 2006,3
+2005-11-30,English Premier League,AFC Sunderland ,0,2,Liverpool,V,False,2005 - 2006,4
+2005-12-03,English Premier League,Liverpool ,3,0,Wigan,V,True,2005 - 2006,3
+2005-12-06,UEFA Champions League,Chelsea - England ,0,0,Liverpool,N,False,2005 - 2006,3
+2005-12-10,English Premier League,Liverpool ,2,0,Middlesbrough,V,True,2005 - 2006,4
+2005-12-15,FIFA Club World Championship,Deportivo Saprissa - Costa Rica ,0,3,Liverpool,V,False,2005 - 2006,5
+2005-12-18,FIFA Club World Championship,Sao Paulo Futebol Clube - Brazil ,1,0,Liverpool,D,False,2005 - 2006,3
+2005-12-26,English Premier League,Liverpool ,2,0,Newcastle,V,True,2005 - 2006,8
+2005-12-28,English Premier League,Everton FC ,1,3,Liverpool,V,False,2005 - 2006,2
+2005-12-31,English Premier League,Liverpool ,1,0,West,V,True,2005 - 2006,3
+2006-01-02,English Premier League,Bolton Wanderers ,2,2,Liverpool,N,False,2005 - 2006,2
+2006-01-07,FA Cup,Luton Town ,3,5,Liverpool,V,False,2005 - 2006,5
+2006-01-14,English Premier League,Liverpool ,1,0,Tottenham,V,True,2005 - 2006,7
+2006-01-22,English Premier League,Manchester United ,1,0,Liverpool,D,False,2005 - 2006,8
+2006-01-29,FA Cup,Portsmouth ,1,2,Liverpool,V,False,2005 - 2006,7
+2006-02-01,English Premier League,Liverpool ,1,1,Birmingham,N,True,2005 - 2006,3
+2006-02-05,English Premier League,Chelsea ,2,0,Liverpool,D,False,2005 - 2006,4
+2006-02-08,English Premier League,Charlton Athletic FC ,2,0,Liverpool,D,False,2005 - 2006,3
+2006-02-11,English Premier League,Wigan Athletic ,0,1,Liverpool,V,False,2005 - 2006,3
+2006-02-14,English Premier League,Liverpool ,1,0,Arsenal,V,True,2005 - 2006,3
+2006-02-18,FA Cup,Liverpool ,1,0,Manchester,V,True,2005 - 2006,4
+2006-02-21,UEFA Champions League,SL Benfica - Portugal ,1,0,Liverpool,D,False,2005 - 2006,3
+2006-02-26,English Premier League,Liverpool ,1,0,Manchester,V,True,2005 - 2006,5
+2006-03-04,English Premier League,Liverpool ,0,0,Charlton,N,True,2005 - 2006,6
+2006-03-08,UEFA Champions League,Liverpool - England ,0,2,SL,D,True,2005 - 2006,4
+2006-03-12,English Premier League,Arsenal FC ,2,1,Liverpool,D,False,2005 - 2006,4
+2006-03-15,English Premier League,Liverpool ,5,1,Fulham,V,True,2005 - 2006,3
+2006-03-19,English Premier League,Newcastle United FC ,1,3,Liverpool,V,False,2005 - 2006,4
+2006-03-21,FA Cup,Birmingham City FC ,0,7,Liverpool,V,False,2005 - 2006,2
+2006-03-25,English Premier League,Liverpool ,3,1,Everton,V,True,2005 - 2006,4
+2006-04-01,English Premier League,West Bromwich Albion FC ,0,2,Liverpool,V,False,2005 - 2006,7
+2006-04-09,English Premier League,Liverpool ,1,0,Bolton,V,True,2005 - 2006,8
+2006-04-16,English Premier League,Blackburn Rovers FC ,0,1,Liverpool,V,False,2005 - 2006,7
+2006-04-22,FA Cup,Chelsea ,1,2,Liverpool,V,False,2005 - 2006,6
+2006-04-26,English Premier League,West Ham United ,1,2,Liverpool,V,False,2005 - 2006,4
+2006-04-29,English Premier League,Liverpool ,3,1,Aston,V,True,2005 - 2006,3
+2006-05-07,English Premier League,Portsmouth ,1,3,Liverpool,V,False,2005 - 2006,8
+2006-07-15,Friendlies - Clubs,Wrexham FC - England ,0,2,Liverpool,V,False,2005 - 2006,69
+2006-07-22,Friendlies - Clubs,Crewe Alexandra FC - England ,0,1,Liverpool,V,False,2005 - 2006,7
+2006-07-29,Friendlies - Clubs,1. FC Kaiserslautern - Germany ,3,2,Liverpool,D,False,2005 - 2006,7
+2006-08-01,Friendlies - Clubs,Grasshoppers - Switzerland ,2,0,Liverpool,D,False,2006 - 2007,3
+2006-08-04,Friendlies - Clubs,FSV Mainz 05 - Germany ,5,0,Liverpool,D,False,2006 - 2007,3
+2006-08-09,UEFA Champions League,Liverpool - England ,2,1,Maccabi,V,True,2006 - 2007,5
+2006-08-13,FA Community Shield,Chelsea ,1,2,Liverpool,V,False,2006 - 2007,4
+2006-08-19,English Premier League,Sheffield United FC ,1,1,Liverpool,N,False,2006 - 2007,6
+2006-08-22,UEFA Champions League,Maccabi Haifa - Israel ,1,1,Liverpool,N,False,2006 - 2007,3
+2006-08-26,English Premier League,Liverpool ,2,1,West,V,True,2006 - 2007,4
+2006-09-09,English Premier League,Everton FC ,3,0,Liverpool,D,False,2006 - 2007,14
+2006-09-12,UEFA Champions League,PSV Eindhoven - Netherlands ,0,0,Liverpool,N,False,2006 - 2007,3
+2006-09-17,English Premier League,Chelsea ,1,0,Liverpool,D,False,2006 - 2007,5
+2006-09-20,English Premier League,Liverpool ,2,0,Newcastle,V,True,2006 - 2007,3
+2006-09-23,English Premier League,Liverpool ,3,0,Tottenham,V,True,2006 - 2007,3
+2006-09-27,UEFA Champions League,Liverpool - England ,3,2,Galatasaray,V,True,2006 - 2007,4
+2006-09-30,English Premier League,Bolton Wanderers ,2,0,Liverpool,D,False,2006 - 2007,3
+2006-10-14,English Premier League,Liverpool ,1,1,Blackburn,N,True,2006 - 2007,14
+2006-10-18,UEFA Champions League,Bordeaux - France ,0,1,Liverpool,V,False,2006 - 2007,4
+2006-10-22,English Premier League,Manchester United ,2,0,Liverpool,D,False,2006 - 2007,4
+2006-10-25,English League Cup,Liverpool ,4,3,Reading,V,True,2006 - 2007,3
+2006-10-28,English Premier League,Liverpool ,3,1,Aston,V,True,2006 - 2007,3
+2006-10-31,UEFA Champions League,Liverpool - England ,3,0,Bordeaux,V,True,2006 - 2007,3
+2006-11-04,English Premier League,Liverpool ,2,0,Reading,V,True,2006 - 2007,4
+2006-11-08,English League Cup,Birmingham City FC ,0,1,Liverpool,V,False,2006 - 2007,4
+2006-11-12,English Premier League,Arsenal FC ,3,0,Liverpool,D,False,2006 - 2007,4
+2006-11-18,English Premier League,Middlesbrough ,0,0,Liverpool,N,False,2006 - 2007,6
+2006-11-22,UEFA Champions League,Liverpool - England ,2,0,PSV,V,True,2006 - 2007,4
+2006-11-25,English Premier League,Liverpool ,1,0,Manchester,V,True,2006 - 2007,3
+2006-11-29,English Premier League,Liverpool ,0,0,Portsmouth,N,True,2006 - 2007,4
+2006-12-02,English Premier League,Wigan Athletic ,0,4,Liverpool,V,False,2006 - 2007,3
+2006-12-05,UEFA Champions League,Galatasaray SK - Turkey ,3,2,Liverpool,D,False,2006 - 2007,3
+2006-12-09,English Premier League,Liverpool ,4,0,Fulham,V,True,2006 - 2007,4
+2006-12-16,English Premier League,Charlton Athletic FC ,0,3,Liverpool,V,False,2006 - 2007,7
+2006-12-23,English Premier League,Liverpool ,2,0,Watford,V,True,2006 - 2007,7
+2006-12-26,English Premier League,Blackburn Rovers FC ,1,0,Liverpool,D,False,2006 - 2007,3
+2006-12-30,English Premier League,Tottenham Hotspur ,0,1,Liverpool,V,False,2006 - 2007,4
+2007-01-01,English Premier League,Liverpool ,3,0,Bolton,V,True,2006 - 2007,2
+2007-01-06,FA Cup,Liverpool ,1,3,Arsenal,D,True,2006 - 2007,5
+2007-01-09,English League Cup,Liverpool ,3,6,Arsenal,D,True,2006 - 2007,3
+2007-01-13,English Premier League,Watford ,0,3,Liverpool,V,False,2006 - 2007,4
+2007-01-20,English Premier League,Liverpool ,2,0,Chelsea,V,True,2006 - 2007,7
+2007-01-30,English Premier League,West Ham United ,1,2,Liverpool,V,False,2006 - 2007,10
+2007-02-03,English Premier League,Liverpool ,0,0,Everton,N,True,2006 - 2007,4
+2007-02-10,English Premier League,Newcastle United FC ,2,1,Liverpool,D,False,2006 - 2007,7
+2007-02-21,UEFA Champions League,FC Barcelona - Spain ,1,2,Liverpool,V,False,2006 - 2007,11
+2007-02-24,English Premier League,Liverpool ,4,0,Sheffield,V,True,2006 - 2007,3
+2007-03-03,English Premier League,Liverpool ,0,1,Manchester,D,True,2006 - 2007,7
+2007-03-06,UEFA Champions League,Liverpool - England ,0,1,FC,D,True,2006 - 2007,3
+2007-03-18,English Premier League,Aston Villa ,0,0,Liverpool,N,False,2006 - 2007,12
+2007-03-31,English Premier League,Liverpool ,4,1,Arsenal,V,True,2006 - 2007,13
+2007-04-03,UEFA Champions League,PSV Eindhoven - Netherlands ,0,3,Liverpool,V,False,2006 - 2007,3
+2007-04-07,English Premier League,Reading FC ,1,2,Liverpool,V,False,2006 - 2007,4
+2007-04-11,UEFA Champions League,Liverpool - England ,1,0,PSV,V,True,2006 - 2007,4
+2007-04-14,English Premier League,Manchester City ,0,0,Liverpool,N,False,2006 - 2007,3
+2007-04-18,English Premier League,Liverpool ,2,0,Middlesbrough,V,True,2006 - 2007,4
+2007-04-21,English Premier League,Liverpool ,2,0,Wigan,V,True,2006 - 2007,3
+2007-04-25,UEFA Champions League,Chelsea - England ,1,0,Liverpool,D,False,2006 - 2007,4
+2007-04-28,English Premier League,Portsmouth ,2,1,Liverpool,D,False,2006 - 2007,3
+2007-05-05,English Premier League,Fulham FC ,1,0,Liverpool,D,False,2006 - 2007,7
+2007-05-13,English Premier League,Liverpool ,2,2,Charlton,N,True,2006 - 2007,8
+2007-05-23,UEFA Champions League,AC Milan - Italy ,2,1,Liverpool,D,False,2006 - 2007,10
+2007-07-07,Liverpool Pre-Season,Wrexham FC - England ,2,3,Liverpool,V,False,2006 - 2007,45
+2007-07-14,Liverpool Pre-Season,Crewe Alexandra FC - England ,0,3,Liverpool,V,False,2006 - 2007,7
+2007-07-17,Liverpool Pre-Season,SV Werder Bremen - Germany ,2,3,Liverpool,V,False,2006 - 2007,3
+2007-07-20,Liverpool Pre-Season,Auxerre - France ,0,2,Liverpool,V,False,2006 - 2007,3
+2007-07-24,Premier League Asia Trophy,South China AA - Hong Kong ,1,3,Liverpool,V,False,2006 - 2007,4
+2007-08-03,Rotterdam Tournament,Shanghai Greenland Shenhua FC - China ,0,2,Liverpool,V,False,2007 - 2008,10
+2007-08-05,Rotterdam Tournament,Feyenoord Rotterdam - Netherlands ,1,1,Liverpool,N,False,2007 - 2008,2
+2007-08-11,English Premier League,Aston Villa ,1,2,Liverpool,V,False,2007 - 2008,6
+2007-08-15,UEFA Champions League,Toulouse FC - France ,0,1,Liverpool,V,False,2007 - 2008,4
+2007-08-19,English Premier League,Liverpool ,1,1,Chelsea,N,True,2007 - 2008,4
+2007-08-25,English Premier League,AFC Sunderland ,0,2,Liverpool,V,False,2007 - 2008,6
+2007-08-28,UEFA Champions League,Liverpool - England ,4,0,Toulouse,V,True,2007 - 2008,3
+2007-09-01,English Premier League,Liverpool ,6,0,Derby,V,True,2007 - 2008,4
+2007-09-15,English Premier League,Portsmouth ,0,0,Liverpool,N,False,2007 - 2008,14
+2007-09-18,UEFA Champions League,FC Porto - Portugal ,1,1,Liverpool,N,False,2007 - 2008,3
+2007-09-22,English Premier League,Liverpool ,0,0,Birmingham,N,True,2007 - 2008,4
+2007-09-25,English League Cup,Reading FC ,2,4,Liverpool,V,False,2007 - 2008,3
+2007-09-29,English Premier League,Wigan Athletic ,0,1,Liverpool,V,False,2007 - 2008,4
+2007-10-03,UEFA Champions League,Liverpool - England ,0,1,Olympique,D,True,2007 - 2008,4
+2007-10-07,English Premier League,Liverpool ,2,2,Tottenham,N,True,2007 - 2008,4
+2007-10-20,English Premier League,Everton FC ,1,2,Liverpool,V,False,2007 - 2008,13
+2007-10-24,UEFA Champions League,Besiktas JK - Turkey ,2,1,Liverpool,D,False,2007 - 2008,4
+2007-10-28,English Premier League,Liverpool ,1,1,Arsenal,N,True,2007 - 2008,4
+2007-10-31,English League Cup,Liverpool ,2,1,Cardiff,V,True,2007 - 2008,3
+2007-11-03,English Premier League,Blackburn Rovers FC ,0,0,Liverpool,N,False,2007 - 2008,3
+2007-11-06,UEFA Champions League,Liverpool - England ,8,0,Besiktas,V,True,2007 - 2008,3
+2007-11-10,English Premier League,Liverpool ,2,0,Fulham,V,True,2007 - 2008,4
+2007-11-24,English Premier League,Newcastle United FC ,0,3,Liverpool,V,False,2007 - 2008,14
+2007-11-28,UEFA Champions League,Liverpool - England ,4,1,FC,V,True,2007 - 2008,4
+2007-12-02,English Premier League,Liverpool ,4,0,Bolton,V,True,2007 - 2008,4
+2007-12-08,English Premier League,Reading FC ,3,1,Liverpool,D,False,2007 - 2008,6
+2007-12-11,UEFA Champions League,Olympique Marseille - France ,0,4,Liverpool,V,False,2007 - 2008,3
+2007-12-16,English Premier League,Liverpool ,0,1,Manchester,D,True,2007 - 2008,5
+2007-12-19,English League Cup,Chelsea ,2,0,Liverpool,D,False,2007 - 2008,3
+2007-12-22,English Premier League,Liverpool ,4,1,Portsmouth,V,True,2007 - 2008,3
+2007-12-26,English Premier League,Derby County FC ,1,2,Liverpool,V,False,2007 - 2008,4
+2007-12-30,English Premier League,Manchester City ,0,0,Liverpool,N,False,2007 - 2008,4
+2008-01-02,English Premier League,Liverpool ,1,1,Wigan,N,True,2007 - 2008,3
+2008-01-06,FA Cup,Luton Town ,1,1,Liverpool,N,False,2007 - 2008,4
+2008-01-12,English Premier League,Middlesbrough ,1,1,Liverpool,N,False,2007 - 2008,6
+2008-01-15,FA Cup,Liverpool ,5,0,Luton,V,True,2007 - 2008,3
+2008-01-21,English Premier League,Liverpool ,2,2,Aston,N,True,2007 - 2008,6
+2008-01-26,FA Cup,Liverpool ,5,2,Havant,V,True,2007 - 2008,5
+2008-01-30,English Premier League,West Ham United ,1,0,Liverpool,D,False,2007 - 2008,4
+2008-02-02,English Premier League,Liverpool ,3,0,AFC,V,True,2007 - 2008,3
+2008-02-10,English Premier League,Chelsea ,0,0,Liverpool,N,False,2007 - 2008,8
+2008-02-16,FA Cup,Liverpool ,1,2,Barnsley,D,True,2007 - 2008,6
+2008-02-19,UEFA Champions League,Liverpool - England ,2,0,Internazionale,V,True,2007 - 2008,3
+2008-02-23,English Premier League,Liverpool ,3,2,Middlesbrough,V,True,2007 - 2008,4
+2008-03-02,English Premier League,Bolton Wanderers ,1,3,Liverpool,V,False,2007 - 2008,8
+2008-03-05,English Premier League,Liverpool ,4,0,West,V,True,2007 - 2008,3
+2008-03-08,English Premier League,Liverpool ,3,0,Newcastle,V,True,2007 - 2008,3
+2008-03-11,UEFA Champions League,Internazionale Milano - Italy ,0,1,Liverpool,V,False,2007 - 2008,3
+2008-03-15,English Premier League,Liverpool ,2,1,Reading,V,True,2007 - 2008,4
+2008-03-23,English Premier League,Manchester United ,3,0,Liverpool,D,False,2007 - 2008,8
+2008-03-30,English Premier League,Liverpool ,1,0,Everton,V,True,2007 - 2008,7
+2008-04-02,UEFA Champions League,Arsenal FC - England ,1,1,Liverpool,N,False,2007 - 2008,3
+2008-04-05,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2007 - 2008,3
+2008-04-08,UEFA Champions League,Liverpool - England ,4,2,Arsenal,V,True,2007 - 2008,3
+2008-04-13,English Premier League,Liverpool ,3,1,Blackburn,V,True,2007 - 2008,5
+2008-04-19,English Premier League,Fulham FC ,0,2,Liverpool,V,False,2007 - 2008,6
+2008-04-22,UEFA Champions League,Liverpool - England ,1,1,Chelsea,N,True,2007 - 2008,3
+2008-04-26,English Premier League,Birmingham City FC ,2,2,Liverpool,N,False,2007 - 2008,4
+2008-04-30,UEFA Champions League,Chelsea - England ,3,2,Liverpool,D,False,2007 - 2008,4
+2008-05-04,English Premier League,Liverpool ,1,0,Manchester,V,True,2007 - 2008,4
+2008-05-11,English Premier League,Tottenham Hotspur ,0,2,Liverpool,V,False,2007 - 2008,7
+2008-07-12,Liverpool Pre-Season,Tranmere Rovers FC - First - England ,0,1,Liverpool,V,False,2007 - 2008,62
+2008-07-16,Liverpool Pre-Season,FC Lucerne - First - Switzerland ,1,2,Liverpool,V,False,2007 - 2008,4
+2008-07-19,Liverpool Pre-Season,Wisla Krakow - First - Poland ,1,1,Liverpool,N,False,2007 - 2008,3
+2008-07-22,Liverpool Pre-Season,Hertha Berlin - First - Germany ,0,0,Liverpool,N,False,2007 - 2008,3
+2008-07-30,Liverpool Pre-Season,Villarreal CF - First - Spain ,0,0,Liverpool,N,False,2007 - 2008,8
+2008-08-02,Liverpool Pre-Season,Glasgow Rangers FC - First - Scotland ,0,4,Liverpool,V,False,2008 - 2009,3
+2008-08-05,Liverpool Pre-Season,Valerenga IF - First - Norway ,1,4,Liverpool,V,False,2008 - 2009,3
+2008-08-08,Liverpool Pre-Season,Liverpool - First - England ,1,0,SS,V,True,2008 - 2009,3
+2008-08-13,UEFA Champions League,Standard de Liege - Belgium ,0,0,Liverpool,N,False,2008 - 2009,5
+2008-08-16,English Premier League,AFC Sunderland ,0,1,Liverpool,V,False,2008 - 2009,3
+2008-08-23,English Premier League,Liverpool ,2,1,Middlesbrough,V,True,2008 - 2009,7
+2008-08-27,UEFA Champions League,Liverpool - England ,1,0,Standard,V,True,2008 - 2009,4
+2008-08-31,English Premier League,Aston Villa ,0,0,Liverpool,N,False,2008 - 2009,4
+2008-09-13,English Premier League,Liverpool ,2,1,Manchester,V,True,2008 - 2009,13
+2008-09-16,UEFA Champions League,Olympique Marseille - France ,1,2,Liverpool,V,False,2008 - 2009,3
+2008-09-20,English Premier League,Liverpool ,0,0,Stoke,N,True,2008 - 2009,4
+2008-09-23,English League Cup,Liverpool ,2,1,Crewe,V,True,2008 - 2009,3
+2008-09-27,English Premier League,Everton FC ,0,2,Liverpool,V,False,2008 - 2009,4
+2008-10-01,UEFA Champions League,Liverpool - England ,3,1,PSV,V,True,2008 - 2009,4
+2008-10-05,English Premier League,Manchester City ,2,3,Liverpool,V,False,2008 - 2009,4
+2008-10-18,English Premier League,Liverpool ,3,2,Wigan,V,True,2008 - 2009,13
+2008-10-22,UEFA Champions League,Atletico de Madrid - Spain ,1,1,Liverpool,N,False,2008 - 2009,4
+2008-10-26,English Premier League,Chelsea ,0,1,Liverpool,V,False,2008 - 2009,4
+2008-10-29,English Premier League,Liverpool ,1,0,Portsmouth,V,True,2008 - 2009,3
+2008-11-01,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2008 - 2009,3
+2008-11-04,UEFA Champions League,Liverpool - England ,1,1,Atletico,N,True,2008 - 2009,3
+2008-11-08,English Premier League,Liverpool ,3,0,West,V,True,2008 - 2009,4
+2008-11-12,English League Cup,Tottenham Hotspur ,4,2,Liverpool,D,False,2008 - 2009,4
+2008-11-15,English Premier League,Bolton Wanderers ,0,2,Liverpool,V,False,2008 - 2009,3
+2008-11-22,English Premier League,Liverpool ,0,0,Fulham,N,True,2008 - 2009,7
+2008-11-26,UEFA Champions League,Liverpool - England ,1,0,Olympique,V,True,2008 - 2009,4
+2008-12-01,English Premier League,Liverpool ,0,0,West,N,True,2008 - 2009,5
+2008-12-06,English Premier League,Blackburn Rovers FC ,1,3,Liverpool,V,False,2008 - 2009,5
+2008-12-09,UEFA Champions League,PSV Eindhoven - Netherlands ,1,3,Liverpool,V,False,2008 - 2009,3
+2008-12-13,English Premier League,Liverpool ,2,2,Hull,N,True,2008 - 2009,4
+2008-12-21,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2008 - 2009,8
+2008-12-26,English Premier League,Liverpool ,3,0,Bolton,V,True,2008 - 2009,5
+2008-12-28,English Premier League,Newcastle United FC ,1,5,Liverpool,V,False,2008 - 2009,2
+2009-01-03,FA Cup,Preston North End ,0,2,Liverpool,V,False,2008 - 2009,6
+2009-01-10,English Premier League,Stoke City FC ,0,0,Liverpool,N,False,2008 - 2009,7
+2009-01-19,English Premier League,Liverpool ,1,1,Everton,N,True,2008 - 2009,9
+2009-01-25,FA Cup,Liverpool ,1,1,Everton,N,True,2008 - 2009,6
+2009-01-28,English Premier League,Wigan Athletic ,1,1,Liverpool,N,False,2008 - 2009,3
+2009-02-01,English Premier League,Liverpool ,2,0,Chelsea,V,True,2008 - 2009,4
+2009-02-04,FA Cup,Everton FC ,1,0,Liverpool,D,False,2008 - 2009,3
+2009-02-07,English Premier League,Portsmouth ,2,3,Liverpool,V,False,2008 - 2009,3
+2009-02-22,English Premier League,Liverpool ,1,1,Manchester,N,True,2008 - 2009,15
+2009-02-25,UEFA Champions League,Real Madrid CF - Spain ,0,1,Liverpool,V,False,2008 - 2009,3
+2009-02-28,English Premier League,Middlesbrough ,2,0,Liverpool,D,False,2008 - 2009,3
+2009-03-03,English Premier League,Liverpool ,2,0,AFC,V,True,2008 - 2009,3
+2009-03-10,UEFA Champions League,Liverpool - England ,4,0,Real,V,True,2008 - 2009,7
+2009-03-14,English Premier League,Manchester United ,1,4,Liverpool,V,False,2008 - 2009,4
+2009-03-22,English Premier League,Liverpool ,5,0,Aston,V,True,2008 - 2009,8
+2009-04-04,English Premier League,Fulham FC ,0,1,Liverpool,V,False,2008 - 2009,13
+2009-04-08,UEFA Champions League,Liverpool - England ,1,3,Chelsea,D,True,2008 - 2009,4
+2009-04-11,English Premier League,Liverpool ,4,0,Blackburn,V,True,2008 - 2009,3
+2009-04-14,UEFA Champions League,Chelsea - England ,4,4,Liverpool,N,False,2008 - 2009,3
+2009-04-21,English Premier League,Liverpool ,4,4,Arsenal,N,True,2008 - 2009,7
+2009-04-25,English Premier League,Hull City ,1,3,Liverpool,V,False,2008 - 2009,4
+2009-05-03,English Premier League,Liverpool ,3,0,Newcastle,V,True,2008 - 2009,8
+2009-05-09,English Premier League,West Ham United ,0,3,Liverpool,V,False,2008 - 2009,6
+2009-05-17,English Premier League,West Bromwich Albion FC ,0,2,Liverpool,V,False,2008 - 2009,8
+2009-05-24,English Premier League,Liverpool ,3,1,Tottenham,V,True,2008 - 2009,7
+2009-07-15,Liverpool Pre-Season,Club St. Gallen - First - Switzerland ,0,0,Club,N,False,2008 - 2009,52
+2009-07-19,Liverpool Pre-Season,Club SK Rapid Wien - First - Austria ,1,0,Club,D,False,2008 - 2009,4
+2009-07-22,Liverpool Pre-Season,National Thailand - First ,1,1,Club,N,False,2008 - 2009,3
+2009-07-26,Liverpool Pre-Season,National Singapore - First ,0,5,Club,V,False,2008 - 2009,4
+2009-08-02,Liverpool Pre-Season,Club RCD Espanyol - First - Spain ,3,0,Club,D,False,2009 - 2010,7
+2009-08-05,Liverpool Pre-Season,Club SFK Lyn - First - Norway ,0,2,Club,V,False,2009 - 2010,3
+2009-08-08,Liverpool Pre-Season,Club Liverpool - First - England ,1,2,Club,D,True,2009 - 2010,3
+2009-08-16,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2009 - 2010,8
+2009-08-19,English Premier League,Liverpool ,4,0,Stoke,V,True,2009 - 2010,3
+2009-08-24,English Premier League,Liverpool ,1,3,Aston,D,True,2009 - 2010,5
+2009-08-29,English Premier League,Bolton Wanderers ,2,3,Liverpool,V,False,2009 - 2010,5
+2009-09-12,English Premier League,Liverpool ,4,0,Burnley,V,True,2009 - 2010,14
+2009-09-16,UEFA Champions League,Liverpool - England ,1,0,Debreceni,V,True,2009 - 2010,4
+2009-09-19,English Premier League,West Ham United ,2,3,Liverpool,V,False,2009 - 2010,3
+2009-09-22,English League Cup,Leeds United FC ,0,1,Liverpool,V,False,2009 - 2010,3
+2009-09-26,English Premier League,Liverpool ,6,1,Hull,V,True,2009 - 2010,4
+2009-09-29,UEFA Champions League,ACF Fiorentina - Italy ,2,0,Liverpool,D,False,2009 - 2010,3
+2009-10-04,English Premier League,Chelsea ,2,0,Liverpool,D,False,2009 - 2010,5
+2009-10-17,English Premier League,AFC Sunderland ,1,0,Liverpool,D,False,2009 - 2010,13
+2009-10-20,UEFA Champions League,Liverpool - England ,1,2,Olympique,D,True,2009 - 2010,3
+2009-10-25,English Premier League,Liverpool ,2,0,Manchester,V,True,2009 - 2010,5
+2009-10-28,English League Cup,Arsenal FC ,2,1,Liverpool,D,False,2009 - 2010,3
+2009-10-31,English Premier League,Fulham FC ,3,1,Liverpool,D,False,2009 - 2010,3
+2009-11-04,UEFA Champions League,Olympique Lyonnais - France ,1,1,Liverpool,N,False,2009 - 2010,4
+2009-11-09,English Premier League,Liverpool ,2,2,Birmingham,N,True,2009 - 2010,5
+2009-11-21,English Premier League,Liverpool ,2,2,Manchester,N,True,2009 - 2010,12
+2009-11-24,UEFA Champions League,Debreceni VSC - Hungary ,0,1,Liverpool,V,False,2009 - 2010,3
+2009-11-29,English Premier League,Everton FC ,0,2,Liverpool,V,False,2009 - 2010,5
+2009-12-05,English Premier League,Blackburn Rovers FC ,0,0,Liverpool,N,False,2009 - 2010,6
+2009-12-09,UEFA Champions League,Liverpool - England ,1,2,ACF,D,True,2009 - 2010,4
+2009-12-13,English Premier League,Liverpool ,1,2,Arsenal,D,True,2009 - 2010,4
+2009-12-16,English Premier League,Liverpool ,2,1,Wigan,V,True,2009 - 2010,3
+2009-12-19,English Premier League,Portsmouth ,2,0,Liverpool,D,False,2009 - 2010,3
+2009-12-26,English Premier League,Liverpool ,2,0,Wolverhampton,V,True,2009 - 2010,7
+2009-12-29,English Premier League,Aston Villa ,0,1,Liverpool,V,False,2009 - 2010,3
+2010-01-02,FA Cup,Reading FC ,1,1,Liverpool,N,False,2009 - 2010,4
+2010-01-13,FA Cup,Liverpool ,1,2,Reading,D,True,2009 - 2010,11
+2010-01-16,English Premier League,Stoke City FC ,1,1,Liverpool,N,False,2009 - 2010,3
+2010-01-20,English Premier League,Liverpool ,2,0,Tottenham,V,True,2009 - 2010,4
+2010-01-26,English Premier League,Wolverhampton Wanderers FC ,0,0,Liverpool,N,False,2009 - 2010,6
+2010-01-30,English Premier League,Liverpool ,2,0,Bolton,V,True,2009 - 2010,4
+2010-02-06,English Premier League,Liverpool ,1,0,Everton,V,True,2009 - 2010,7
+2010-02-10,English Premier League,Arsenal FC ,1,0,Liverpool,D,False,2009 - 2010,4
+2010-02-18,UEFA Europa League,Liverpool - England ,1,0,FC,V,True,2009 - 2010,8
+2010-02-21,English Premier League,Manchester City ,0,0,Liverpool,N,False,2009 - 2010,3
+2010-02-25,UEFA Europa League,FC Unirea Urziceni - Romania ,1,3,Liverpool,V,False,2009 - 2010,4
+2010-02-28,English Premier League,Liverpool ,2,1,Blackburn,V,True,2009 - 2010,3
+2010-03-08,English Premier League,Wigan Athletic ,1,0,Liverpool,D,False,2009 - 2010,8
+2010-03-11,UEFA Europa League,LOSC Lille - France ,1,0,Liverpool,D,False,2009 - 2010,3
+2010-03-15,English Premier League,Liverpool ,4,1,Portsmouth,V,True,2009 - 2010,4
+2010-03-18,UEFA Europa League,Liverpool - England ,3,0,LOSC,V,True,2009 - 2010,3
+2010-03-21,English Premier League,Manchester United ,2,1,Liverpool,D,False,2009 - 2010,3
+2010-03-28,English Premier League,Liverpool ,3,0,AFC,V,True,2009 - 2010,7
+2010-04-01,UEFA Europa League,SL Benfica - Portugal ,2,1,Liverpool,D,False,2009 - 2010,4
+2010-04-04,English Premier League,Birmingham City FC ,1,1,Liverpool,N,False,2009 - 2010,3
+2010-04-08,UEFA Europa League,Liverpool - England ,4,1,SL,V,True,2009 - 2010,4
+2010-04-11,English Premier League,Liverpool ,0,0,Fulham,N,True,2009 - 2010,3
+2010-04-19,English Premier League,Liverpool ,3,0,West,V,True,2009 - 2010,8
+2010-04-22,UEFA Europa League,Atletico de Madrid - Spain ,1,0,Liverpool,D,False,2009 - 2010,3
+2010-04-25,English Premier League,Burnley FC ,0,4,Liverpool,V,False,2009 - 2010,3
+2010-04-29,UEFA Europa League,Liverpool - England ,2,1,Atletico,V,True,2009 - 2010,4
+2010-05-02,English Premier League,Liverpool ,0,2,Chelsea,D,True,2009 - 2010,3
+2010-05-09,English Premier League,Hull City ,0,0,Liverpool,N,False,2009 - 2010,7
+2010-07-21,Liverpool Pre-Season,Club Grasshoppers - First - Switzerland ,0,0,Club,N,False,2009 - 2010,73
+2010-07-24,Summer of Champions,1. FC Kaiserslautern - Germany ,1,0,Liverpool,D,False,2009 - 2010,3
+2010-07-29,UEFA Europa League,FC Rabotnicki - North Macedonia ,0,2,Liverpool,V,False,2009 - 2010,5
+2010-08-01,Liverpool Pre-Season,Club Borussia Monchengladbach - First - Germany ,1,0,Club,D,False,2010 - 2011,3
+2010-08-05,UEFA Europa League,Liverpool - England ,2,0,FC,V,True,2010 - 2011,4
+2010-08-15,English Premier League,Liverpool ,1,1,Arsenal,N,True,2010 - 2011,10
+2010-08-19,UEFA Europa League,Liverpool - England ,1,0,Trabzonspor,V,True,2010 - 2011,4
+2010-08-23,English Premier League,Manchester City ,3,0,Liverpool,D,False,2010 - 2011,4
+2010-08-26,UEFA Europa League,Trabzonspor - Turkey ,1,2,Liverpool,V,False,2010 - 2011,3
+2010-08-29,English Premier League,Liverpool ,1,0,West,V,True,2010 - 2011,3
+2010-09-12,English Premier League,Birmingham City FC ,0,0,Liverpool,N,False,2010 - 2011,14
+2010-09-16,UEFA Europa League,Liverpool - England ,4,1,FCSB,V,True,2010 - 2011,4
+2010-09-19,English Premier League,Manchester United ,3,2,Liverpool,D,False,2010 - 2011,3
+2010-09-25,English Premier League,Liverpool ,2,2,AFC,N,True,2010 - 2011,6
+2010-09-30,UEFA Europa League,FC Utrecht - Netherlands ,0,0,Liverpool,N,False,2010 - 2011,5
+2010-10-03,English Premier League,Liverpool ,1,2,Blackpool,D,True,2010 - 2011,3
+2010-10-17,English Premier League,Everton FC ,2,0,Liverpool,D,False,2010 - 2011,14
+2010-10-21,UEFA Europa League,SSC Napoli - Italy ,0,0,Liverpool,N,False,2010 - 2011,4
+2010-10-24,English Premier League,Liverpool ,2,1,Blackburn,V,True,2010 - 2011,3
+2010-10-31,English Premier League,Bolton Wanderers ,0,1,Liverpool,V,False,2010 - 2011,7
+2010-11-04,UEFA Europa League,Liverpool - England ,3,1,SSC,V,True,2010 - 2011,4
+2010-11-07,English Premier League,Liverpool ,2,0,Chelsea,V,True,2010 - 2011,3
+2010-11-10,English Premier League,Wigan Athletic ,1,1,Liverpool,N,False,2010 - 2011,3
+2010-11-13,English Premier League,Stoke City FC ,2,0,Liverpool,D,False,2010 - 2011,3
+2010-11-20,English Premier League,Liverpool ,3,0,West,V,True,2010 - 2011,7
+2010-11-28,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2010 - 2011,8
+2010-12-02,UEFA Europa League,FCSB Steaua Bucarest - Romania ,1,1,Liverpool,N,False,2010 - 2011,4
+2010-12-06,English Premier League,Liverpool ,3,0,Aston,V,True,2010 - 2011,4
+2010-12-11,English Premier League,Newcastle United FC ,3,1,Liverpool,D,False,2010 - 2011,5
+2010-12-15,UEFA Europa League,Liverpool - England ,0,0,FC,N,True,2010 - 2011,4
+2010-12-29,English Premier League,Liverpool ,0,1,Wolverhampton,D,True,2010 - 2011,14
+2011-01-01,English Premier League,Liverpool ,2,1,Bolton,V,True,2010 - 2011,3
+2011-01-05,English Premier League,Blackburn Rovers FC ,3,1,Liverpool,D,False,2010 - 2011,4
+2011-01-09,FA Cup,Manchester United ,1,0,Liverpool,D,False,2010 - 2011,4
+2011-01-12,English Premier League,Blackpool FC ,2,1,Liverpool,D,False,2010 - 2011,3
+2011-01-16,English Premier League,Liverpool ,2,2,Everton,N,True,2010 - 2011,4
+2011-01-22,English Premier League,Wolverhampton Wanderers FC ,0,3,Liverpool,V,False,2010 - 2011,6
+2011-01-26,English Premier League,Liverpool ,1,0,Fulham,V,True,2010 - 2011,4
+2011-02-02,English Premier League,Liverpool ,2,0,Stoke,V,True,2010 - 2011,7
+2011-02-06,English Premier League,Chelsea ,0,1,Liverpool,V,False,2010 - 2011,4
+2011-02-12,English Premier League,Liverpool ,1,1,Wigan,N,True,2010 - 2011,6
+2011-02-17,UEFA Europa League,AC Sparta Praha - Czech Republic ,0,0,Liverpool,N,False,2010 - 2011,5
+2011-02-24,UEFA Europa League,Liverpool - England ,1,0,AC,V,True,2010 - 2011,7
+2011-02-27,English Premier League,West Ham United ,3,1,Liverpool,D,False,2010 - 2011,3
+2011-03-06,English Premier League,Liverpool ,3,1,Manchester,V,True,2010 - 2011,7
+2011-03-10,UEFA Europa League,Sporting Braga - Portugal ,1,0,Liverpool,D,False,2010 - 2011,4
+2011-03-17,UEFA Europa League,Liverpool - England ,0,0,Sporting,N,True,2010 - 2011,7
+2011-03-20,English Premier League,AFC Sunderland ,0,2,Liverpool,V,False,2010 - 2011,3
+2011-04-02,English Premier League,West Bromwich Albion FC ,2,1,Liverpool,D,False,2010 - 2011,13
+2011-04-11,English Premier League,Liverpool ,3,0,Manchester,V,True,2010 - 2011,9
+2011-04-17,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2010 - 2011,6
+2011-04-23,English Premier League,Liverpool ,5,0,Birmingham,V,True,2010 - 2011,6
+2011-05-01,English Premier League,Liverpool ,3,0,Newcastle,V,True,2010 - 2011,8
+2011-05-09,English Premier League,Fulham FC ,2,5,Liverpool,V,False,2010 - 2011,8
+2011-05-15,English Premier League,Liverpool ,0,2,Tottenham,D,True,2010 - 2011,6
+2011-05-22,English Premier League,Aston Villa ,1,0,Liverpool,D,False,2010 - 2011,7
+2011-07-13,Liverpool Pre-Season,Guangdong Sunray Cave - China ,3,4,Liverpool,V,False,2010 - 2011,52
+2011-07-16,Liverpool Pre-Season,Malaysian XI ,3,6,Liverpool,V,False,2010 - 2011,3
+2011-07-23,Liverpool Pre-Season,Hull City - England ,3,0,Liverpool,D,False,2010 - 2011,7
+2011-07-28,Liverpool Pre-Season,Galatasaray SK - Turkey ,3,0,Liverpool,D,False,2010 - 2011,5
+2011-08-01,Liverpool Pre-Season,Valerenga IF - Norway ,3,3,Liverpool,N,False,2011 - 2012,4
+2011-08-06,Liverpool Pre-Season,Liverpool - England ,2,0,Valencia,V,True,2011 - 2012,5
+2011-08-13,English Premier League,Liverpool ,1,1,AFC,N,True,2011 - 2012,7
+2011-08-20,English Premier League,Arsenal FC ,0,2,Liverpool,V,False,2011 - 2012,7
+2011-08-24,English League Cup,Exeter City ,1,3,Liverpool,V,False,2011 - 2012,4
+2011-08-27,English Premier League,Liverpool ,3,1,Bolton,V,True,2011 - 2012,3
+2011-09-10,English Premier League,Stoke City FC ,1,0,Liverpool,D,False,2011 - 2012,14
+2011-09-18,English Premier League,Tottenham Hotspur ,4,0,Liverpool,D,False,2011 - 2012,8
+2011-09-21,English League Cup,Brighton & Hove Albion ,1,2,Liverpool,V,False,2011 - 2012,3
+2011-09-24,English Premier League,Liverpool ,2,1,Wolverhampton,V,True,2011 - 2012,3
+2011-10-01,English Premier League,Everton FC ,0,2,Liverpool,V,False,2011 - 2012,7
+2011-10-15,English Premier League,Liverpool ,1,1,Manchester,N,True,2011 - 2012,14
+2011-10-18,Friendlies - Clubs,Glasgow Rangers FC - Scotland ,1,0,Liverpool,D,False,2011 - 2012,3
+2011-10-22,English Premier League,Liverpool ,1,1,Norwich,N,True,2011 - 2012,4
+2011-10-26,English League Cup,Stoke City FC ,1,2,Liverpool,V,False,2011 - 2012,4
+2011-10-29,English Premier League,West Bromwich Albion FC ,0,2,Liverpool,V,False,2011 - 2012,3
+2011-11-05,English Premier League,Liverpool ,0,0,Swansea,N,True,2011 - 2012,7
+2011-11-20,English Premier League,Chelsea ,1,2,Liverpool,V,False,2011 - 2012,15
+2011-11-27,English Premier League,Liverpool ,1,1,Manchester,N,True,2011 - 2012,7
+2011-11-29,English League Cup,Chelsea ,0,2,Liverpool,V,False,2011 - 2012,2
+2011-12-05,English Premier League,Fulham FC ,1,0,Liverpool,D,False,2011 - 2012,6
+2011-12-10,English Premier League,Liverpool ,1,0,Queens,V,True,2011 - 2012,5
+2011-12-18,English Premier League,Aston Villa ,0,2,Liverpool,V,False,2011 - 2012,8
+2011-12-21,English Premier League,Wigan Athletic ,0,0,Liverpool,N,False,2011 - 2012,3
+2011-12-26,English Premier League,Liverpool ,1,1,Blackburn,N,True,2011 - 2012,5
+2011-12-30,English Premier League,Liverpool ,3,1,Newcastle,V,True,2011 - 2012,4
+2012-01-03,English Premier League,Manchester City ,3,0,Liverpool,D,False,2011 - 2012,4
+2012-01-06,FA Cup,Liverpool ,5,1,Oldham,V,True,2011 - 2012,3
+2012-01-11,English League Cup,Manchester City ,0,1,Liverpool,V,False,2011 - 2012,5
+2012-01-14,English Premier League,Liverpool ,0,0,Stoke,N,True,2011 - 2012,3
+2012-01-21,English Premier League,Bolton Wanderers ,3,1,Liverpool,D,False,2011 - 2012,7
+2012-01-25,English League Cup,Liverpool ,2,2,Manchester,N,True,2011 - 2012,4
+2012-01-28,FA Cup,Liverpool ,2,1,Manchester,V,True,2011 - 2012,3
+2012-01-31,English Premier League,Wolverhampton Wanderers FC ,0,3,Liverpool,V,False,2011 - 2012,3
+2012-02-06,English Premier League,Liverpool ,0,0,Tottenham,N,True,2011 - 2012,6
+2012-02-11,English Premier League,Manchester United ,2,1,Liverpool,D,False,2011 - 2012,5
+2012-02-19,FA Cup,Liverpool ,6,1,Brighton,V,True,2011 - 2012,8
+2012-03-03,English Premier League,Liverpool ,1,2,Arsenal,D,True,2011 - 2012,13
+2012-03-10,English Premier League,AFC Sunderland ,1,0,Liverpool,D,False,2011 - 2012,7
+2012-03-13,English Premier League,Liverpool ,3,0,Everton,V,True,2011 - 2012,3
+2012-03-18,FA Cup,Liverpool ,2,1,Stoke,V,True,2011 - 2012,5
+2012-03-21,English Premier League,Queens Park Rangers ,3,2,Liverpool,D,False,2011 - 2012,3
+2012-03-24,English Premier League,Liverpool ,1,2,Wigan,D,True,2011 - 2012,3
+2012-04-01,English Premier League,Newcastle United FC ,2,0,Liverpool,D,False,2011 - 2012,8
+2012-04-07,English Premier League,Liverpool ,1,1,Aston,N,True,2011 - 2012,6
+2012-04-10,English Premier League,Blackburn Rovers FC ,2,3,Liverpool,V,False,2011 - 2012,3
+2012-04-14,FA Cup,Liverpool ,2,1,Everton,V,True,2011 - 2012,4
+2012-04-22,English Premier League,Liverpool ,0,1,West,D,True,2011 - 2012,8
+2012-04-28,English Premier League,Norwich City ,0,3,Liverpool,V,False,2011 - 2012,6
+2012-05-01,English Premier League,Liverpool ,0,1,Fulham,D,True,2011 - 2012,3
+2012-05-05,FA Cup,Chelsea ,2,1,Liverpool,D,False,2011 - 2012,4
+2012-05-08,English Premier League,Liverpool ,4,1,Chelsea,V,True,2011 - 2012,3
+2012-05-13,English Premier League,Swansea City ,1,0,Liverpool,D,False,2011 - 2012,5
+2012-07-21,Liverpool Pre-Season 2011,Toronto FC ,1,1,Liverpool,N,False,2011 - 2012,69
+2012-07-26,As Roma Pre-Season,AS Roma ,2,1,Liverpool,D,False,2011 - 2012,5
+2012-07-26,Liverpool Pre-Season 2011,AS Roma ,2,1,Liverpool,D,False,2011 - 2012,0
+2012-07-28,Liverpool Pre-Season 2011,Liverpool ,0,0,Tottenham,N,True,2011 - 2012,2
+2012-08-02,UEFA Europa League,FC Gomel - Belarus ,0,1,Liverpool,V,False,2012 - 2013,5
+2012-08-09,UEFA Europa League,Liverpool - England ,3,0,FC,V,True,2012 - 2013,7
+2012-08-12,Liverpool Pre-Season 2011,Liverpool ,3,1,Bayer,V,True,2012 - 2013,3
+2012-08-18,English Premier League,West Bromwich Albion FC ,3,0,Liverpool,D,False,2012 - 2013,6
+2012-08-23,UEFA Europa League,Heart of Midlothian FC - Scotland ,0,1,Liverpool,V,False,2012 - 2013,5
+2012-08-26,English Premier League,Liverpool ,2,2,Manchester,N,True,2012 - 2013,3
+2012-08-30,UEFA Europa League,Liverpool - England ,1,1,Heart,N,True,2012 - 2013,4
+2012-09-02,English Premier League,Liverpool ,0,2,Arsenal,D,True,2012 - 2013,3
+2012-09-15,English Premier League,AFC Sunderland ,1,1,Liverpool,N,False,2012 - 2013,13
+2012-09-20,UEFA Europa League,BSC Young Boys - Switzerland ,3,5,Liverpool,V,False,2012 - 2013,5
+2012-09-23,English Premier League,Liverpool ,1,2,Manchester,D,True,2012 - 2013,3
+2012-09-26,English League Cup,West Bromwich Albion FC ,1,2,Liverpool,V,False,2012 - 2013,3
+2012-09-29,English Premier League,Norwich City ,2,5,Liverpool,V,False,2012 - 2013,3
+2012-10-04,UEFA Europa League,Liverpool - England ,2,3,Udinese,D,True,2012 - 2013,5
+2012-10-07,English Premier League,Liverpool ,0,0,Stoke,N,True,2012 - 2013,3
+2012-10-20,English Premier League,Liverpool ,1,0,Reading,V,True,2012 - 2013,13
+2012-10-25,UEFA Europa League,Liverpool - England ,1,0,Anzhi,V,True,2012 - 2013,5
+2012-10-28,English Premier League,Everton FC ,2,2,Liverpool,N,False,2012 - 2013,3
+2012-10-31,English League Cup,Liverpool ,1,3,Swansea,D,True,2012 - 2013,3
+2012-11-04,English Premier League,Liverpool ,1,1,Newcastle,N,True,2012 - 2013,4
+2012-11-08,UEFA Europa League,Anzhi Makhachkala - Russia ,1,0,Liverpool,D,False,2012 - 2013,4
+2012-11-11,English Premier League,Chelsea ,1,1,Liverpool,N,False,2012 - 2013,3
+2012-11-17,English Premier League,Liverpool ,3,0,Wigan,V,True,2012 - 2013,6
+2012-11-22,UEFA Europa League,Liverpool - England ,2,2,BSC,N,True,2012 - 2013,5
+2012-11-25,English Premier League,Swansea City ,0,0,Liverpool,N,False,2012 - 2013,3
+2012-11-28,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2012 - 2013,3
+2012-12-01,English Premier League,Liverpool ,1,0,FC,V,True,2012 - 2013,3
+2012-12-06,UEFA Europa League,Udinese Calcio - Italy ,0,1,Liverpool,V,False,2012 - 2013,5
+2012-12-09,English Premier League,West Ham United ,2,3,Liverpool,V,False,2012 - 2013,3
+2012-12-15,English Premier League,Liverpool ,1,3,Aston,D,True,2012 - 2013,6
+2012-12-22,English Premier League,Liverpool ,4,0,Fulham,V,True,2012 - 2013,7
+2012-12-26,English Premier League,Stoke City FC ,3,1,Liverpool,D,False,2012 - 2013,4
+2012-12-30,English Premier League,Queens Park Rangers ,0,3,Liverpool,V,False,2012 - 2013,4
+2013-01-02,English Premier League,Liverpool ,3,0,AFC,V,True,2012 - 2013,3
+2013-01-06,England FA Cup,Mansfield Town ,1,2,Liverpool,V,False,2012 - 2013,4
+2013-01-13,English Premier League,Manchester United ,2,1,Liverpool,D,False,2012 - 2013,7
+2013-01-19,English Premier League,Liverpool ,5,0,Norwich,V,True,2012 - 2013,6
+2013-01-27,England FA Cup,Oldham Athletic ,3,2,Liverpool,D,False,2012 - 2013,8
+2013-01-30,English Premier League,Arsenal FC ,2,2,Liverpool,N,False,2012 - 2013,3
+2013-02-03,English Premier League,Manchester City ,2,2,Liverpool,N,False,2012 - 2013,4
+2013-02-11,English Premier League,Liverpool ,0,2,West,D,True,2012 - 2013,8
+2013-02-14,UEFA Europa League,Zenit St. Petersburg - Russia ,2,0,Liverpool,D,False,2012 - 2013,3
+2013-02-17,English Premier League,Liverpool ,5,0,Swansea,V,True,2012 - 2013,3
+2013-02-21,UEFA Europa League,Liverpool - England ,3,1,Zenit,V,True,2012 - 2013,4
+2013-03-02,English Premier League,Wigan Athletic ,0,4,Liverpool,V,False,2012 - 2013,9
+2013-03-10,English Premier League,Liverpool ,3,2,Tottenham,V,True,2012 - 2013,8
+2013-03-16,English Premier League,FC Southampton ,3,1,Liverpool,D,False,2012 - 2013,6
+2013-03-31,English Premier League,Aston Villa ,1,2,Liverpool,V,False,2012 - 2013,15
+2013-04-07,English Premier League,Liverpool ,0,0,West,N,True,2012 - 2013,7
+2013-04-13,English Premier League,Reading FC ,0,0,Liverpool,N,False,2012 - 2013,6
+2013-04-21,English Premier League,Liverpool ,2,2,Chelsea,N,True,2012 - 2013,8
+2013-04-27,English Premier League,Newcastle United FC ,0,6,Liverpool,V,False,2012 - 2013,6
+2013-05-05,English Premier League,Liverpool ,0,0,Everton,N,True,2012 - 2013,8
+2013-05-12,English Premier League,Fulham FC ,1,3,Liverpool,V,False,2012 - 2013,7
+2013-05-19,English Premier League,Liverpool ,1,0,Queens,V,True,2012 - 2013,7
+2013-07-13,Liverpool Pre-Season,Preston North End - England ,0,4,Liverpool,V,False,2012 - 2013,55
+2013-07-20,Liverpool Pre-Season,Indonesia All Star ,0,2,Liverpool,V,False,2012 - 2013,7
+2013-07-24,Liverpool Pre-Season,Melbourne Victory FC - Australia ,0,2,Liverpool,V,False,2012 - 2013,4
+2013-07-28,Liverpool Pre-Season,Thailand ,0,3,Liverpool,V,False,2012 - 2013,4
+2013-08-03,Liverpool Pre-Season,Liverpool - England ,2,0,Olympiacos,V,True,2013 - 2014,6
+2013-08-07,Liverpool Pre-Season,Valerenga IF - Norway ,1,4,Liverpool,V,False,2013 - 2014,4
+2013-08-10,Liverpool Pre-Season,Liverpool - England ,0,1,Celtic,D,True,2013 - 2014,3
+2013-08-17,English Premier League,Liverpool ,1,0,Stoke,V,True,2013 - 2014,7
+2013-08-24,English Premier League,Aston Villa ,0,1,Liverpool,V,False,2013 - 2014,7
+2013-08-27,English League Cup,Liverpool ,4,2,Notts,V,True,2013 - 2014,3
+2013-09-01,English Premier League,Liverpool ,1,0,Manchester,V,True,2013 - 2014,5
+2013-09-16,English Premier League,Swansea City ,2,2,Liverpool,N,False,2013 - 2014,15
+2013-09-21,English Premier League,Liverpool ,0,1,FC,D,True,2013 - 2014,5
+2013-09-25,English League Cup,Manchester United ,1,0,Liverpool,D,False,2013 - 2014,4
+2013-09-29,English Premier League,AFC Sunderland ,1,3,Liverpool,V,False,2013 - 2014,4
+2013-10-05,English Premier League,Liverpool ,3,1,Crystal,V,True,2013 - 2014,6
+2013-10-19,English Premier League,Newcastle United FC ,2,2,Liverpool,N,False,2013 - 2014,14
+2013-10-26,English Premier League,Liverpool ,4,1,West,V,True,2013 - 2014,7
+2013-11-02,English Premier League,Arsenal FC ,2,0,Liverpool,D,False,2013 - 2014,7
+2013-11-09,English Premier League,Liverpool ,4,0,Fulham,V,True,2013 - 2014,7
+2013-11-23,English Premier League,Everton FC ,3,3,Liverpool,N,False,2013 - 2014,14
+2013-12-01,English Premier League,Hull City ,3,1,Liverpool,D,False,2013 - 2014,8
+2013-12-04,English Premier League,Liverpool ,5,1,Norwich,V,True,2013 - 2014,3
+2013-12-07,English Premier League,Liverpool ,4,1,West,V,True,2013 - 2014,3
+2013-12-15,English Premier League,Tottenham Hotspur ,0,5,Liverpool,V,False,2013 - 2014,8
+2013-12-21,English Premier League,Liverpool ,3,1,Cardiff,V,True,2013 - 2014,6
+2013-12-26,English Premier League,Manchester City ,2,1,Liverpool,D,False,2013 - 2014,5
+2013-12-29,English Premier League,Chelsea ,2,1,Liverpool,D,False,2013 - 2014,3
+2014-01-01,English Premier League,Liverpool ,2,0,Hull,V,True,2013 - 2014,3
+2014-01-05,England FA Cup,Liverpool ,2,0,Oldham,V,True,2013 - 2014,4
+2014-01-12,English Premier League,Stoke City FC ,3,5,Liverpool,V,False,2013 - 2014,7
+2014-01-18,English Premier League,Liverpool ,2,2,Aston,N,True,2013 - 2014,6
+2014-01-25,England FA Cup,AFC Bournemouth ,0,2,Liverpool,V,False,2013 - 2014,7
+2014-01-28,English Premier League,Liverpool ,4,0,Everton,V,True,2013 - 2014,3
+2014-02-02,English Premier League,West Bromwich Albion FC ,1,1,Liverpool,N,False,2013 - 2014,5
+2014-02-08,English Premier League,Liverpool ,5,1,Arsenal,V,True,2013 - 2014,6
+2014-02-12,English Premier League,Fulham FC ,2,3,Liverpool,V,False,2013 - 2014,4
+2014-02-16,England FA Cup,Arsenal FC ,2,1,Liverpool,D,False,2013 - 2014,4
+2014-02-23,English Premier League,Liverpool ,4,3,Swansea,V,True,2013 - 2014,7
+2014-03-01,English Premier League,FC Southampton ,0,3,Liverpool,V,False,2013 - 2014,6
+2014-03-16,English Premier League,Manchester United ,0,3,Liverpool,V,False,2013 - 2014,15
+2014-03-22,English Premier League,Cardiff City ,3,6,Liverpool,V,False,2013 - 2014,6
+2014-03-26,English Premier League,Liverpool ,2,1,AFC,V,True,2013 - 2014,4
+2014-03-30,English Premier League,Liverpool ,4,0,Tottenham,V,True,2013 - 2014,4
+2014-04-06,English Premier League,West Ham United ,1,2,Liverpool,V,False,2013 - 2014,7
+2014-04-13,English Premier League,Liverpool ,3,2,Manchester,V,True,2013 - 2014,7
+2014-04-20,English Premier League,Norwich City ,2,3,Liverpool,V,False,2013 - 2014,7
+2014-04-27,English Premier League,Liverpool ,0,2,Chelsea,D,True,2013 - 2014,7
+2014-05-05,English Premier League,Crystal Palace FC ,3,3,Liverpool,N,False,2013 - 2014,8
+2014-05-11,English Premier League,Liverpool ,2,1,Newcastle,V,True,2013 - 2014,6
+2014-05-14,Friendlies - Clubs,Shamrock Rovers - Ireland ,0,4,Liverpool,V,False,2013 - 2014,3
+2014-07-16,Liverpool Pre-Season,Brondby IF - Denmark ,2,1,Liverpool,D,False,2013 - 2014,63
+2014-07-19,Liverpool Pre-Season,Preston North End - England ,1,2,Liverpool,V,False,2013 - 2014,3
+2014-07-24,Liverpool Pre-Season,Liverpool - England ,0,1,AS,D,True,2013 - 2014,5
+2014-07-28,International Champions Cup,Liverpool - England ,1,0,Olympiacos,V,True,2013 - 2014,4
+2014-08-03,International Champions Cup,Liverpool - England ,2,0,AC,V,True,2014 - 2015,6
+2014-08-05,International Champions Cup,Manchester United - England ,3,1,Liverpool,D,False,2014 - 2015,2
+2014-08-10,Borussia Dortmund Pre-Season,Liverpool - England ,4,0,Borussia,V,True,2014 - 2015,5
+2014-08-17,English Premier League,Liverpool ,2,1,FC,V,True,2014 - 2015,7
+2014-08-25,English Premier League,Manchester City ,3,1,Liverpool,D,False,2014 - 2015,8
+2014-08-31,English Premier League,Tottenham Hotspur ,0,3,Liverpool,V,False,2014 - 2015,6
+2014-09-13,English Premier League,Liverpool ,0,1,Aston,D,True,2014 - 2015,13
+2014-09-16,UEFA Champions League,Liverpool - England ,2,1,Ludogorets,V,True,2014 - 2015,3
+2014-09-20,English Premier League,West Ham United ,3,1,Liverpool,D,False,2014 - 2015,4
+2014-09-27,English Premier League,Liverpool ,1,1,Everton,N,True,2014 - 2015,7
+2014-10-01,UEFA Champions League,FC Basel 1893 - Switzerland ,1,0,Liverpool,D,False,2014 - 2015,4
+2014-10-04,English Premier League,Liverpool ,2,1,West,V,True,2014 - 2015,3
+2014-10-19,English Premier League,Queens Park Rangers ,2,3,Liverpool,V,False,2014 - 2015,15
+2014-10-22,UEFA Champions League,Liverpool - England ,0,3,Real,D,True,2014 - 2015,3
+2014-10-25,English Premier League,Liverpool ,0,0,Hull,N,True,2014 - 2015,3
+2014-10-28,English League Cup,Liverpool ,2,1,Swansea,V,True,2014 - 2015,3
+2014-11-01,English Premier League,Newcastle United FC ,1,0,Liverpool,D,False,2014 - 2015,4
+2014-11-04,UEFA Champions League,Real Madrid CF - Spain ,1,0,Liverpool,D,False,2014 - 2015,3
+2014-11-08,English Premier League,Liverpool ,1,2,Chelsea,D,True,2014 - 2015,4
+2014-11-23,English Premier League,Crystal Palace FC ,3,1,Liverpool,D,False,2014 - 2015,15
+2014-11-26,UEFA Champions League,Ludogorets Razgrad - Bulgaria ,2,2,Liverpool,N,False,2014 - 2015,3
+2014-11-29,English Premier League,Liverpool ,1,0,Stoke,V,True,2014 - 2015,3
+2014-12-02,English Premier League,Leicester City ,1,3,Liverpool,V,False,2014 - 2015,3
+2014-12-06,English Premier League,Liverpool ,0,0,AFC,N,True,2014 - 2015,4
+2014-12-09,UEFA Champions League,Liverpool - England ,1,1,FC,N,True,2014 - 2015,3
+2014-12-14,English Premier League,Manchester United ,3,0,Liverpool,D,False,2014 - 2015,5
+2014-12-17,English League Cup,AFC Bournemouth ,1,3,Liverpool,V,False,2014 - 2015,3
+2014-12-21,English Premier League,Liverpool ,2,2,Arsenal,N,True,2014 - 2015,4
+2014-12-26,English Premier League,Burnley FC ,0,1,Liverpool,V,False,2014 - 2015,5
+2014-12-29,English Premier League,Liverpool ,4,1,Swansea,V,True,2014 - 2015,3
+2015-01-01,English Premier League,Liverpool ,2,2,Leicester,N,True,2014 - 2015,3
+2015-01-05,England FA Cup,AFC Wimbledon ,1,2,Liverpool,V,False,2014 - 2015,4
+2015-01-10,English Premier League,AFC Sunderland ,0,1,Liverpool,V,False,2014 - 2015,5
+2015-01-17,English Premier League,Aston Villa ,0,2,Liverpool,V,False,2014 - 2015,7
+2015-01-20,English League Cup,Liverpool ,1,1,Chelsea,N,True,2014 - 2015,3
+2015-01-24,England FA Cup,Liverpool ,0,0,Bolton,N,True,2014 - 2015,4
+2015-01-27,English League Cup,Chelsea ,1,0,Liverpool,D,False,2014 - 2015,3
+2015-01-31,English Premier League,Liverpool ,2,0,West,V,True,2014 - 2015,4
+2015-02-04,England FA Cup,Bolton Wanderers ,1,2,Liverpool,V,False,2014 - 2015,4
+2015-02-07,English Premier League,Everton FC ,0,0,Liverpool,N,False,2014 - 2015,3
+2015-02-10,English Premier League,Liverpool ,3,2,Tottenham,V,True,2014 - 2015,3
+2015-02-14,England FA Cup,Crystal Palace FC ,1,2,Liverpool,V,False,2014 - 2015,4
+2015-02-19,UEFA Europa League,Liverpool - England ,1,0,Besiktas,V,True,2014 - 2015,5
+2015-02-22,English Premier League,FC Southampton ,0,2,Liverpool,V,False,2014 - 2015,3
+2015-03-01,English Premier League,Liverpool ,2,1,Manchester,V,True,2014 - 2015,7
+2015-03-04,English Premier League,Liverpool ,2,0,Burnley,V,True,2014 - 2015,3
+2015-03-08,England FA Cup,Liverpool ,0,0,Blackburn,N,True,2014 - 2015,4
+2015-03-16,English Premier League,Swansea City ,0,1,Liverpool,V,False,2014 - 2015,8
+2015-03-22,English Premier League,Liverpool ,1,2,Manchester,D,True,2014 - 2015,6
+2015-04-04,English Premier League,Arsenal FC ,4,1,Liverpool,D,False,2014 - 2015,13
+2015-04-08,England FA Cup,Blackburn Rovers FC ,0,1,Liverpool,V,False,2014 - 2015,4
+2015-04-13,English Premier League,Liverpool ,2,0,Newcastle,V,True,2014 - 2015,5
+2015-04-19,England FA Cup,Aston Villa ,2,1,Liverpool,D,False,2014 - 2015,6
+2015-04-25,English Premier League,West Bromwich Albion FC ,0,0,Liverpool,N,False,2014 - 2015,6
+2015-04-28,English Premier League,Hull City ,1,0,Liverpool,D,False,2014 - 2015,3
+2015-05-02,English Premier League,Liverpool ,2,1,Queens,V,True,2014 - 2015,4
+2015-05-10,English Premier League,Chelsea ,1,1,Liverpool,N,False,2014 - 2015,8
+2015-05-16,English Premier League,Liverpool ,1,3,Crystal,D,True,2014 - 2015,6
+2015-05-24,English Premier League,Stoke City FC ,6,1,Liverpool,D,False,2014 - 2015,8
+2015-07-14,Liverpool Pre-Season,Thailand All Stars ,0,4,Liverpool,V,False,2014 - 2015,51
+2015-07-17,Liverpool Pre-Season,Brisbane Roar FC - Australia ,1,2,Liverpool,V,False,2014 - 2015,3
+2015-07-20,Liverpool Pre-Season,Adelaide United - Australia ,0,2,Liverpool,V,False,2014 - 2015,3
+2015-07-24,Liverpool Pre-Season,Malaysian XI ,1,1,Liverpool,N,False,2014 - 2015,4
+2015-08-01,Liverpool Pre-Season,Liverpool - England ,2,0,HJK,V,True,2015 - 2016,8
+2015-08-02,Liverpool Pre-Season,Swindon Town FC - England ,1,2,Liverpool,V,False,2015 - 2016,1
+2015-08-09,English Premier League,Stoke City FC ,0,1,Liverpool,V,False,2015 - 2016,7
+2015-08-17,English Premier League,Liverpool ,1,0,AFC,V,True,2015 - 2016,8
+2015-08-24,English Premier League,Arsenal FC ,0,0,Liverpool,N,False,2015 - 2016,7
+2015-08-29,English Premier League,Liverpool ,0,3,West,D,True,2015 - 2016,5
+2015-09-12,English Premier League,Manchester United ,3,1,Liverpool,D,False,2015 - 2016,14
+2015-09-17,UEFA Europa League,Bordeaux - France ,1,1,Liverpool,N,False,2015 - 2016,5
+2015-09-20,English Premier League,Liverpool ,1,1,Norwich,N,True,2015 - 2016,3
+2015-09-26,English Premier League,Liverpool ,3,2,Aston,V,True,2015 - 2016,6
+2015-10-01,UEFA Europa League,Liverpool - England ,1,1,FC,N,True,2015 - 2016,5
+2015-10-04,English Premier League,Everton FC ,1,1,Liverpool,N,False,2015 - 2016,3
+2015-10-17,English Premier League,Tottenham Hotspur ,0,0,Liverpool,N,False,2015 - 2016,13
+2015-10-22,UEFA Europa League,Liverpool - England ,1,1,FC,N,True,2015 - 2016,5
+2015-10-25,English Premier League,Liverpool ,1,1,FC,N,True,2015 - 2016,3
+2015-10-28,English League Cup,Liverpool ,1,0,AFC,V,True,2015 - 2016,3
+2015-10-31,English Premier League,Chelsea ,1,3,Liverpool,V,False,2015 - 2016,3
+2015-11-05,UEFA Europa League,FC Rubin Kazan - Russia ,0,1,Liverpool,V,False,2015 - 2016,5
+2015-11-08,English Premier League,Liverpool ,1,2,Crystal,D,True,2015 - 2016,3
+2015-11-21,English Premier League,Manchester City ,1,4,Liverpool,V,False,2015 - 2016,13
+2015-11-26,UEFA Europa League,Liverpool - England ,2,1,Bordeaux,V,True,2015 - 2016,5
+2015-11-29,English Premier League,Liverpool ,1,0,Swansea,V,True,2015 - 2016,3
+2015-12-02,English League Cup,FC Southampton ,1,6,Liverpool,V,False,2015 - 2016,3
+2015-12-06,English Premier League,Newcastle United FC ,2,0,Liverpool,D,False,2015 - 2016,4
+2015-12-10,UEFA Europa League,FC Sion - Switzerland ,0,0,Liverpool,N,False,2015 - 2016,4
+2015-12-13,English Premier League,Liverpool ,2,2,West,N,True,2015 - 2016,3
+2015-12-20,English Premier League,Watford ,3,0,Liverpool,D,False,2015 - 2016,7
+2015-12-26,English Premier League,Liverpool ,1,0,Leicester,V,True,2015 - 2016,6
+2015-12-30,English Premier League,AFC Sunderland ,0,1,Liverpool,V,False,2015 - 2016,4
+2016-01-02,English Premier League,West Ham United ,2,0,Liverpool,D,False,2015 - 2016,3
+2016-01-05,English League Cup,Stoke City FC ,0,1,Liverpool,V,False,2015 - 2016,3
+2016-01-08,England FA Cup,Exeter City ,2,2,Liverpool,N,False,2015 - 2016,3
+2016-01-13,English Premier League,Liverpool ,3,3,Arsenal,N,True,2015 - 2016,5
+2016-01-17,English Premier League,Liverpool ,0,1,Manchester,D,True,2015 - 2016,4
+2016-01-20,England FA Cup,Liverpool ,3,0,Exeter,V,True,2015 - 2016,3
+2016-01-23,English Premier League,Norwich City ,4,5,Liverpool,V,False,2015 - 2016,3
+2016-01-30,England FA Cup,Liverpool ,0,0,West,N,True,2015 - 2016,7
+2016-02-02,English Premier League,Leicester City ,2,0,Liverpool,D,False,2015 - 2016,3
+2016-02-06,English Premier League,Liverpool ,2,2,AFC,N,True,2015 - 2016,4
+2016-02-09,England FA Cup,West Ham United ,2,1,Liverpool,D,False,2015 - 2016,3
+2016-02-14,English Premier League,Aston Villa ,0,6,Liverpool,V,False,2015 - 2016,5
+2016-02-18,UEFA Europa League,FC Augsburg - Germany ,0,0,Liverpool,N,False,2015 - 2016,4
+2016-02-25,UEFA Europa League,Liverpool - England ,1,0,FC,V,True,2015 - 2016,7
+2016-03-02,English Premier League,Liverpool ,3,0,Manchester,V,True,2015 - 2016,6
+2016-03-06,English Premier League,Crystal Palace FC ,1,2,Liverpool,V,False,2015 - 2016,4
+2016-03-10,UEFA Europa League,Liverpool - England ,2,0,Manchester,V,True,2015 - 2016,4
+2016-03-17,UEFA Europa League,Manchester United - England ,1,1,Liverpool,N,False,2015 - 2016,7
+2016-03-20,English Premier League,FC Southampton ,3,2,Liverpool,D,False,2015 - 2016,3
+2016-04-02,English Premier League,Liverpool ,1,1,Tottenham,N,True,2015 - 2016,13
+2016-04-07,UEFA Europa League,Borussia Dortmund - Germany ,1,1,Liverpool,N,False,2015 - 2016,5
+2016-04-10,English Premier League,Liverpool ,4,1,Stoke,V,True,2015 - 2016,3
+2016-04-14,UEFA Europa League,Liverpool - England ,4,3,Borussia,V,True,2015 - 2016,4
+2016-04-17,English Premier League,AFC Bournemouth ,1,2,Liverpool,V,False,2015 - 2016,3
+2016-04-20,English Premier League,Liverpool ,4,0,Everton,V,True,2015 - 2016,3
+2016-04-23,English Premier League,Liverpool ,2,2,Newcastle,N,True,2015 - 2016,3
+2016-04-28,UEFA Europa League,Villarreal CF - Spain ,1,0,Liverpool,D,False,2015 - 2016,5
+2016-05-01,English Premier League,Swansea City ,3,1,Liverpool,D,False,2015 - 2016,3
+2016-05-05,UEFA Europa League,Liverpool - England ,3,0,Villarreal,V,True,2015 - 2016,4
+2016-05-08,English Premier League,Liverpool ,2,0,Watford,V,True,2015 - 2016,3
+2016-05-11,English Premier League,Liverpool ,1,1,Chelsea,N,True,2015 - 2016,3
+2016-05-15,English Premier League,West Bromwich Albion FC ,1,1,Liverpool,N,False,2015 - 2016,4
+2016-05-18,UEFA Europa League,Liverpool - England ,1,3,Sevilla,D,True,2015 - 2016,3
+2016-07-08,Liverpool Pre-Season,Tranmere Rovers FC - England ,0,1,Liverpool,V,False,2015 - 2016,51
+2016-07-13,Liverpool Pre-Season,Fleetwood Town - England ,0,5,Liverpool,V,False,2015 - 2016,5
+2016-07-17,Liverpool Pre-Season,Wigan Athletic - England ,0,2,Liverpool,V,False,2015 - 2016,4
+2016-07-20,Liverpool Pre-Season,Huddersfield Town - England ,0,2,Liverpool,V,False,2015 - 2016,3
+2016-07-28,International Champions Cup,Chelsea - England ,1,0,Liverpool,D,False,2015 - 2016,8
+2016-07-31,International Champions Cup,Liverpool - England ,2,0,AC,V,True,2015 - 2016,3
+2016-08-02,Liverpool Pre-Season,Liverpool - England ,1,2,AS,D,True,2016 - 2017,2
+2016-08-06,International Champions Cup,Liverpool - England ,4,0,FC,V,True,2016 - 2017,4
+2016-08-07,Liverpool Pre-Season,FSV Mainz 05 - Germany ,4,0,Liverpool,D,False,2016 - 2017,1
+2016-08-14,English Premier League,Arsenal FC ,3,4,Liverpool,V,False,2016 - 2017,7
+2016-08-20,English Premier League,Burnley FC ,2,0,Liverpool,D,False,2016 - 2017,6
+2016-08-23,English League Cup,Burton Albion ,0,5,Liverpool,V,False,2016 - 2017,3
+2016-08-27,English Premier League,Tottenham Hotspur ,1,1,Liverpool,N,False,2016 - 2017,4
+2016-09-10,English Premier League,Liverpool ,4,1,Leicester,V,True,2016 - 2017,14
+2016-09-16,English Premier League,Chelsea ,1,2,Liverpool,V,False,2016 - 2017,6
+2016-09-20,English League Cup,Derby County FC ,0,3,Liverpool,V,False,2016 - 2017,4
+2016-09-24,English Premier League,Liverpool ,5,1,Hull,V,True,2016 - 2017,4
+2016-10-01,English Premier League,Swansea City ,1,2,Liverpool,V,False,2016 - 2017,7
+2016-10-17,English Premier League,Liverpool ,0,0,Manchester,N,True,2016 - 2017,16
+2016-10-22,English Premier League,Liverpool ,2,1,West,V,True,2016 - 2017,5
+2016-10-25,English League Cup,Liverpool ,2,1,Tottenham,V,True,2016 - 2017,3
+2016-10-29,English Premier League,Crystal Palace FC ,2,4,Liverpool,V,False,2016 - 2017,4
+2016-11-06,English Premier League,Liverpool ,6,1,Watford,V,True,2016 - 2017,8
+2016-11-19,English Premier League,FC Southampton ,0,0,Liverpool,N,False,2016 - 2017,13
+2016-11-26,English Premier League,Liverpool ,2,0,AFC,V,True,2016 - 2017,7
+2016-11-29,English League Cup,Liverpool ,2,0,Leeds,V,True,2016 - 2017,3
+2016-12-04,English Premier League,AFC Bournemouth ,4,3,Liverpool,D,False,2016 - 2017,5
+2016-12-11,English Premier League,Liverpool ,2,2,West,N,True,2016 - 2017,7
+2016-12-14,English Premier League,Middlesbrough ,0,3,Liverpool,V,False,2016 - 2017,3
+2016-12-19,English Premier League,Everton FC ,0,1,Liverpool,V,False,2016 - 2017,5
+2016-12-27,English Premier League,Liverpool ,4,1,Stoke,V,True,2016 - 2017,8
+2016-12-31,English Premier League,Liverpool ,1,0,Manchester,V,True,2016 - 2017,4
+2017-01-02,English Premier League,AFC Sunderland ,2,2,Liverpool,N,False,2016 - 2017,2
+2017-01-08,England FA Cup,Liverpool ,0,0,Plymouth,N,True,2016 - 2017,6
+2017-01-11,English League Cup,FC Southampton ,1,0,Liverpool,D,False,2016 - 2017,3
+2017-01-15,English Premier League,Manchester United ,1,1,Liverpool,N,False,2016 - 2017,4
+2017-01-18,England FA Cup,Plymouth Argyle FC ,0,1,Liverpool,V,False,2016 - 2017,3
+2017-01-21,English Premier League,Liverpool ,2,3,Swansea,D,True,2016 - 2017,3
+2017-01-25,English League Cup,Liverpool ,0,1,FC,D,True,2016 - 2017,4
+2017-01-28,England FA Cup,Liverpool ,1,2,Wolverhampton,D,True,2016 - 2017,3
+2017-01-31,English Premier League,Liverpool ,1,1,Chelsea,N,True,2016 - 2017,3
+2017-02-04,English Premier League,Hull City ,2,0,Liverpool,D,False,2016 - 2017,4
+2017-02-11,English Premier League,Liverpool ,2,0,Tottenham,V,True,2016 - 2017,7
+2017-02-27,English Premier League,Leicester City ,3,1,Liverpool,D,False,2016 - 2017,16
+2017-03-04,English Premier League,Liverpool ,3,1,Arsenal,V,True,2016 - 2017,5
+2017-03-12,English Premier League,Liverpool ,2,1,Burnley,V,True,2016 - 2017,8
+2017-03-19,English Premier League,Manchester City ,1,1,Liverpool,N,False,2016 - 2017,7
+2017-04-01,English Premier League,Liverpool ,3,1,Everton,V,True,2016 - 2017,13
+2017-04-05,English Premier League,Liverpool ,2,2,AFC,N,True,2016 - 2017,4
+2017-04-08,English Premier League,Stoke City FC ,1,2,Liverpool,V,False,2016 - 2017,3
+2017-04-16,English Premier League,West Bromwich Albion FC ,0,1,Liverpool,V,False,2016 - 2017,8
+2017-04-23,English Premier League,Liverpool ,1,2,Crystal,D,True,2016 - 2017,7
+2017-05-01,English Premier League,Watford ,0,1,Liverpool,V,False,2016 - 2017,8
+2017-05-07,English Premier League,Liverpool ,0,0,FC,N,True,2016 - 2017,6
+2017-05-14,English Premier League,West Ham United ,0,4,Liverpool,V,False,2016 - 2017,7
+2017-05-21,English Premier League,Liverpool ,3,0,Middlesbrough,V,True,2016 - 2017,7
+2017-05-24,Liverpool Pre-Season,Sydney FC - Australia ,0,3,Liverpool,V,False,2016 - 2017,3
+2017-07-12,Liverpool Pre-Season,Tranmere Rovers FC - England ,0,4,Liverpool,V,False,2016 - 2017,49
+2017-07-14,Liverpool Pre-Season,Wigan Athletic - England ,3,0,Liverpool,D,False,2016 - 2017,2
+2017-07-19,Premier League Asia Trophy,Liverpool - England ,1,3,Crystal,D,True,2016 - 2017,5
+2017-07-22,Premier League Asia Trophy,Leicester City - England ,1,2,Liverpool,V,False,2016 - 2017,3
+2017-07-29,Liverpool Pre-Season,Hertha Berlin - Germany ,0,3,Liverpool,V,False,2016 - 2017,7
+2017-08-01,Audi Cup,FC Bayern Munich - Germany ,0,3,Liverpool,V,False,2017 - 2018,3
+2017-08-05,Liverpool Pre-Season,Liverpool - England ,3,1,Athletic,V,True,2017 - 2018,4
+2017-08-12,English Premier League,Watford ,3,3,Liverpool,N,False,2017 - 2018,7
+2017-08-15,UEFA Champions League,TSG 1899 Hoffenheim - Germany ,1,2,Liverpool,V,False,2017 - 2018,3
+2017-08-19,English Premier League,Liverpool ,1,0,Crystal,V,True,2017 - 2018,4
+2017-08-23,UEFA Champions League,Liverpool - England ,4,2,TSG,V,True,2017 - 2018,4
+2017-08-27,English Premier League,Liverpool ,4,0,Arsenal,V,True,2017 - 2018,4
+2017-09-09,English Premier League,Manchester City ,5,0,Liverpool,D,False,2017 - 2018,13
+2017-09-13,UEFA Champions League,Liverpool - England ,2,2,Sevilla,N,True,2017 - 2018,4
+2017-09-16,English Premier League,Liverpool ,1,1,Burnley,N,True,2017 - 2018,3
+2017-09-19,English League Cup,Leicester City ,2,0,Liverpool,D,False,2017 - 2018,3
+2017-09-23,English Premier League,Leicester City ,2,3,Liverpool,V,False,2017 - 2018,4
+2017-09-26,UEFA Champions League,Spartak Moscow - Russia ,1,1,Liverpool,N,False,2017 - 2018,3
+2017-10-01,English Premier League,Newcastle United FC ,1,1,Liverpool,N,False,2017 - 2018,5
+2017-10-14,English Premier League,Liverpool ,0,0,Manchester,N,True,2017 - 2018,13
+2017-10-17,UEFA Champions League,NK Maribor - Slovenia ,0,7,Liverpool,V,False,2017 - 2018,3
+2017-10-22,English Premier League,Tottenham Hotspur ,4,1,Liverpool,D,False,2017 - 2018,5
+2017-10-28,English Premier League,Liverpool ,3,0,Huddersfield,V,True,2017 - 2018,6
+2017-11-01,UEFA Champions League,Liverpool - England ,3,0,NK,V,True,2017 - 2018,4
+2017-11-04,English Premier League,West Ham United ,1,4,Liverpool,V,False,2017 - 2018,3
+2017-11-18,English Premier League,Liverpool ,3,0,FC,V,True,2017 - 2018,14
+2017-11-21,UEFA Champions League,Sevilla FC - Spain ,3,3,Liverpool,N,False,2017 - 2018,3
+2017-11-25,English Premier League,Liverpool ,1,1,Chelsea,N,True,2017 - 2018,4
+2017-11-29,English Premier League,Stoke City FC ,0,3,Liverpool,V,False,2017 - 2018,4
+2017-12-02,English Premier League,Brighton & Hove Albion ,1,5,Liverpool,V,False,2017 - 2018,3
+2017-12-06,UEFA Champions League,Liverpool - England ,7,0,Spartak,V,True,2017 - 2018,4
+2017-12-10,English Premier League,Liverpool ,1,1,Everton,N,True,2017 - 2018,4
+2017-12-13,English Premier League,Liverpool ,0,0,West,N,True,2017 - 2018,3
+2017-12-17,English Premier League,AFC Bournemouth ,0,4,Liverpool,V,False,2017 - 2018,4
+2017-12-22,English Premier League,Arsenal FC ,3,3,Liverpool,N,False,2017 - 2018,5
+2017-12-26,English Premier League,Liverpool ,5,0,Swansea,V,True,2017 - 2018,4
+2017-12-30,English Premier League,Liverpool ,2,1,Leicester,V,True,2017 - 2018,4
+2018-01-01,English Premier League,Burnley FC ,1,2,Liverpool,V,False,2017 - 2018,2
+2018-01-05,England FA Cup,Liverpool ,2,1,Everton,V,True,2017 - 2018,4
+2018-01-14,English Premier League,Liverpool ,4,3,Manchester,V,True,2017 - 2018,9
+2018-01-22,English Premier League,Swansea City ,1,0,Liverpool,D,False,2017 - 2018,8
+2018-01-27,England FA Cup,Liverpool ,2,3,West,D,True,2017 - 2018,5
+2018-01-30,English Premier League,Huddersfield Town ,0,3,Liverpool,V,False,2017 - 2018,3
+2018-02-04,English Premier League,Liverpool ,2,2,Tottenham,N,True,2017 - 2018,5
+2018-02-11,English Premier League,FC Southampton ,0,2,Liverpool,V,False,2017 - 2018,7
+2018-02-14,UEFA Champions League,FC Porto - Portugal ,0,5,Liverpool,V,False,2017 - 2018,3
+2018-02-24,English Premier League,Liverpool ,4,1,West,V,True,2017 - 2018,10
+2018-03-03,English Premier League,Liverpool ,2,0,Newcastle,V,True,2017 - 2018,7
+2018-03-06,UEFA Champions League,Liverpool - England ,0,0,FC,N,True,2017 - 2018,3
+2018-03-10,English Premier League,Manchester United ,2,1,Liverpool,D,False,2017 - 2018,4
+2018-03-17,English Premier League,Liverpool ,5,0,Watford,V,True,2017 - 2018,7
+2018-03-31,English Premier League,Crystal Palace FC ,1,2,Liverpool,V,False,2017 - 2018,14
+2018-04-04,UEFA Champions League,Liverpool - England ,3,0,Manchester,V,True,2017 - 2018,4
+2018-04-07,English Premier League,Everton FC ,0,0,Liverpool,N,False,2017 - 2018,3
+2018-04-10,UEFA Champions League,Manchester City - England ,1,2,Liverpool,V,False,2017 - 2018,3
+2018-04-14,English Premier League,Liverpool ,3,0,AFC,V,True,2017 - 2018,4
+2018-04-21,English Premier League,West Bromwich Albion FC ,2,2,Liverpool,N,False,2017 - 2018,7
+2018-04-24,UEFA Champions League,Liverpool - England ,5,2,AS,V,True,2017 - 2018,3
+2018-04-28,English Premier League,Liverpool ,0,0,Stoke,N,True,2017 - 2018,4
+2018-05-02,UEFA Champions League,AS Roma - Italy ,4,2,Liverpool,D,False,2017 - 2018,4
+2018-05-06,English Premier League,Chelsea ,1,0,Liverpool,D,False,2017 - 2018,4
+2018-05-13,English Premier League,Liverpool ,4,0,Brighton,V,True,2017 - 2018,7
+2018-05-26,UEFA Champions League,Real Madrid CF - Spain ,3,1,Liverpool,D,False,2017 - 2018,13
+2018-07-07,Liverpool Pre-Season,Chester City fc - England ,0,7,Liverpool,V,False,2017 - 2018,42
+2018-07-10,Liverpool Pre-Season,Tranmere Rovers FC - England ,2,3,Liverpool,V,False,2017 - 2018,3
+2018-07-14,Liverpool Pre-Season,Bury F.C - England ,0,0,Liverpool,N,False,2017 - 2018,4
+2018-07-19,Liverpool Pre-Season,Blackburn Rovers FC - England ,0,2,Liverpool,V,False,2017 - 2018,5
+2018-07-22,International Champions Cup,Liverpool - England ,1,3,Borussia,D,True,2017 - 2018,3
+2018-07-26,International Champions Cup,Manchester City - England ,1,2,Liverpool,V,False,2017 - 2018,4
+2018-07-28,International Champions Cup,Manchester United - England ,1,4,Liverpool,V,False,2017 - 2018,2
+2018-08-04,Liverpool Pre-Season,Liverpool - England ,5,0,SSC,V,True,2018 - 2019,7
+2018-08-07,Liverpool Pre-Season,Liverpool - England ,3,1,Torino,V,True,2018 - 2019,3
+2018-08-12,English Premier League,Liverpool ,4,0,West,V,True,2018 - 2019,5
+2018-08-20,English Premier League,Crystal Palace FC ,0,2,Liverpool,V,False,2018 - 2019,8
+2018-08-25,English Premier League,Liverpool ,1,0,Brighton,V,True,2018 - 2019,5
+2018-09-01,English Premier League,Leicester City ,1,2,Liverpool,V,False,2018 - 2019,7
+2018-09-15,English Premier League,Tottenham Hotspur ,1,2,Liverpool,V,False,2018 - 2019,14
+2018-09-18,UEFA Champions League,Liverpool - England ,3,2,Paris,V,True,2018 - 2019,3
+2018-09-22,English Premier League,Liverpool ,3,0,FC,V,True,2018 - 2019,4
+2018-09-26,English League Cup,Liverpool ,1,2,Chelsea,D,True,2018 - 2019,4
+2018-09-29,English Premier League,Chelsea ,1,1,Liverpool,N,False,2018 - 2019,3
+2018-10-03,UEFA Champions League,SSC Napoli - Italy ,1,0,Liverpool,D,False,2018 - 2019,4
+2018-10-07,English Premier League,Liverpool ,0,0,Manchester,N,True,2018 - 2019,4
+2018-10-20,English Premier League,Huddersfield Town ,0,1,Liverpool,V,False,2018 - 2019,13
+2018-10-24,UEFA Champions League,Liverpool - England ,4,0,Crvena,V,True,2018 - 2019,4
+2018-10-27,English Premier League,Liverpool ,4,1,Cardiff,V,True,2018 - 2019,3
+2018-11-03,English Premier League,Arsenal FC ,1,1,Liverpool,N,False,2018 - 2019,7
+2018-11-06,UEFA Champions League,Crvena Zvezda - Serbia ,2,0,Liverpool,D,False,2018 - 2019,3
+2018-11-11,English Premier League,Liverpool ,2,0,Fulham,V,True,2018 - 2019,5
+2018-11-24,English Premier League,Watford ,0,3,Liverpool,V,False,2018 - 2019,13
+2018-11-28,UEFA Champions League,Paris Saint-Germain - France ,2,1,Liverpool,D,False,2018 - 2019,4
+2018-12-02,English Premier League,Liverpool ,1,0,Everton,V,True,2018 - 2019,4
+2018-12-05,English Premier League,Burnley FC ,1,3,Liverpool,V,False,2018 - 2019,3
+2018-12-08,English Premier League,AFC Bournemouth ,0,4,Liverpool,V,False,2018 - 2019,3
+2018-12-11,UEFA Champions League,Liverpool - England ,1,0,SSC,V,True,2018 - 2019,3
+2018-12-16,English Premier League,Liverpool ,3,1,Manchester,V,True,2018 - 2019,5
+2018-12-21,English Premier League,Wolverhampton Wanderers FC ,0,2,Liverpool,V,False,2018 - 2019,5
+2018-12-26,English Premier League,Liverpool ,4,0,Newcastle,V,True,2018 - 2019,5
+2018-12-29,English Premier League,Liverpool ,5,1,Arsenal,V,True,2018 - 2019,3
+2019-01-03,English Premier League,Manchester City ,2,1,Liverpool,D,False,2018 - 2019,5
+2019-01-07,England FA Cup,Wolverhampton Wanderers FC ,2,1,Liverpool,D,False,2018 - 2019,4
+2019-01-12,English Premier League,Brighton & Hove Albion ,0,1,Liverpool,V,False,2018 - 2019,5
+2019-01-19,English Premier League,Liverpool ,4,3,Crystal,V,True,2018 - 2019,7
+2019-01-30,English Premier League,Liverpool ,1,1,Leicester,N,True,2018 - 2019,11
+2019-02-04,English Premier League,West Ham United ,1,1,Liverpool,N,False,2018 - 2019,5
+2019-02-09,English Premier League,Liverpool ,3,0,AFC,V,True,2018 - 2019,5
+2019-02-19,UEFA Champions League,Liverpool - England ,0,0,FC,N,True,2018 - 2019,10
+2019-02-24,English Premier League,Manchester United ,0,0,Liverpool,N,False,2018 - 2019,5
+2019-02-27,English Premier League,Liverpool ,5,0,Watford,V,True,2018 - 2019,3
+2019-03-03,English Premier League,Everton FC ,0,0,Liverpool,N,False,2018 - 2019,4
+2019-03-10,English Premier League,Liverpool ,4,2,Burnley,V,True,2018 - 2019,7
+2019-03-13,UEFA Champions League,FC Bayern Munich - Germany ,1,3,Liverpool,V,False,2018 - 2019,3
+2019-03-17,English Premier League,Fulham FC ,1,2,Liverpool,V,False,2018 - 2019,4
+2019-03-31,English Premier League,Liverpool ,2,1,Tottenham,V,True,2018 - 2019,14
+2019-04-05,English Premier League,FC Southampton ,1,3,Liverpool,V,False,2018 - 2019,5
+2019-04-09,UEFA Champions League,Liverpool - England ,2,0,FC,V,True,2018 - 2019,4
+2019-04-14,English Premier League,Liverpool ,2,0,Chelsea,V,True,2018 - 2019,5
+2019-04-17,UEFA Champions League,FC Porto - Portugal ,1,4,Liverpool,V,False,2018 - 2019,3
+2019-04-21,English Premier League,Cardiff City ,0,2,Liverpool,V,False,2018 - 2019,4
+2019-04-26,English Premier League,Liverpool ,5,0,Huddersfield,V,True,2018 - 2019,5
+2019-05-01,UEFA Champions League,FC Barcelona - Spain ,3,0,Liverpool,D,False,2018 - 2019,5
+2019-05-04,English Premier League,Newcastle United FC ,2,3,Liverpool,V,False,2018 - 2019,3
+2019-05-07,UEFA Champions League,Liverpool - England ,4,0,FC,V,True,2018 - 2019,3
+2019-05-12,English Premier League,Liverpool ,2,0,Wolverhampton,V,True,2018 - 2019,5
+2019-06-01,UEFA Champions League,Tottenham Hotspur - England ,0,2,Liverpool,V,False,2018 - 2019,20
+2019-07-11,Liverpool Pre-Season,Tranmere Rovers FC - England ,0,6,Liverpool,V,False,2018 - 2019,40
+2019-07-14,Liverpool Pre-Season,Bradford City FC - England ,1,3,Liverpool,V,False,2018 - 2019,3
+2019-07-20,Liverpool Pre-Season,Borussia Dortmund - Germany ,3,2,Liverpool,D,False,2018 - 2019,6
+2019-07-22,Liverpool Pre-Season,Sevilla FC - Spain ,2,1,Liverpool,D,False,2018 - 2019,2
+2019-07-25,Liverpool Pre-Season,Sporting CP - Portugal ,2,2,Liverpool,N,False,2018 - 2019,3
+2019-07-28,Liverpool Pre-Season,Liverpool - England ,0,3,SSC,D,True,2018 - 2019,3
+2019-07-31,Liverpool Pre-Season,Liverpool - England ,3,1,Olympique,V,True,2018 - 2019,3
+2019-08-09,English Premier League,Liverpool ,4,1,Norwich,V,True,2019 - 2020,9
+2019-08-17,English Premier League,FC Southampton ,1,2,Liverpool,V,False,2019 - 2020,8
+2019-08-24,English Premier League,Liverpool ,3,1,Arsenal,V,True,2019 - 2020,7
+2019-08-31,English Premier League,Burnley FC ,0,3,Liverpool,V,False,2019 - 2020,7
+2019-09-14,English Premier League,Liverpool ,3,1,Newcastle,V,True,2019 - 2020,14
+2019-09-17,UEFA Champions League,SSC Napoli - Italy ,2,0,Liverpool,D,False,2019 - 2020,3
+2019-09-22,English Premier League,Chelsea ,1,2,Liverpool,V,False,2019 - 2020,5
+2019-09-25,English League Cup,Milton Keynes Dons FC ,0,2,Liverpool,V,False,2019 - 2020,3
+2019-09-28,English Premier League,Sheffield United FC ,0,1,Liverpool,V,False,2019 - 2020,3
+2019-10-02,UEFA Champions League,Liverpool - England ,4,3,Red,V,True,2019 - 2020,4
+2019-10-05,English Premier League,Liverpool ,2,1,Leicester,V,True,2019 - 2020,3
+2019-10-20,English Premier League,Manchester United ,1,1,Liverpool,N,False,2019 - 2020,15
+2019-10-23,UEFA Champions League,KRC Genk - Belgium ,1,4,Liverpool,V,False,2019 - 2020,3
+2019-10-27,English Premier League,Liverpool ,2,1,Tottenham,V,True,2019 - 2020,4
+2019-11-02,English Premier League,Aston Villa ,1,2,Liverpool,V,False,2019 - 2020,6
+2019-11-05,UEFA Champions League,Liverpool - England ,2,1,KRC,V,True,2019 - 2020,3
+2019-11-10,English Premier League,Liverpool ,3,1,Manchester,V,True,2019 - 2020,5
+2019-11-23,English Premier League,Crystal Palace FC ,1,2,Liverpool,V,False,2019 - 2020,13
+2019-11-27,UEFA Champions League,Liverpool - England ,1,1,SSC,N,True,2019 - 2020,4
+2019-11-30,English Premier League,Liverpool ,2,1,Brighton,V,True,2019 - 2020,3
+2019-12-04,English Premier League,Liverpool ,5,2,Everton,V,True,2019 - 2020,4
+2019-12-07,English Premier League,AFC Bournemouth ,0,3,Liverpool,V,False,2019 - 2020,3
+2019-12-10,UEFA Champions League,Red Bull Salzburg - Austria ,0,2,Liverpool,V,False,2019 - 2020,3
+2019-12-14,English Premier League,Liverpool ,2,0,Watford,V,True,2019 - 2020,4
+2019-12-17,English League Cup,Aston Villa ,5,0,Liverpool,D,False,2019 - 2020,3
+2019-12-18,FIFA Club World Championship,Monterrey - Mexico ,1,2,Liverpool,V,False,2019 - 2020,1
+2019-12-21,FIFA Club World Championship,Liverpool - England ,1,0,Flamengo,V,True,2019 - 2020,3
+2019-12-26,English Premier League,Leicester City ,0,4,Liverpool,V,False,2019 - 2020,5
+2019-12-29,English Premier League,Liverpool ,1,0,Wolverhampton,V,True,2019 - 2020,3
+2020-01-02,English Premier League,Liverpool ,2,0,Sheffield,V,True,2019 - 2020,4
+2020-01-05,England FA Cup,Liverpool ,1,0,Everton,V,True,2019 - 2020,3
+2020-01-11,English Premier League,Tottenham Hotspur ,0,1,Liverpool,V,False,2019 - 2020,6
+2020-01-19,English Premier League,Liverpool ,2,0,Manchester,V,True,2019 - 2020,8
+2020-01-23,English Premier League,Wolverhampton Wanderers FC ,1,2,Liverpool,V,False,2019 - 2020,4
+2020-01-26,England FA Cup,Shrewsbury Town FC ,2,2,Liverpool,N,False,2019 - 2020,3
+2020-01-29,English Premier League,West Ham United ,0,2,Liverpool,V,False,2019 - 2020,3
+2020-02-01,English Premier League,Liverpool ,4,0,FC,V,True,2019 - 2020,3
+2020-02-04,England FA Cup,Liverpool ,1,0,Shrewsbury,V,True,2019 - 2020,3
+2020-02-15,English Premier League,Norwich City ,0,1,Liverpool,V,False,2019 - 2020,11
+2020-02-18,UEFA Champions League,Atletico de Madrid - Spain ,1,0,Liverpool,D,False,2019 - 2020,3
+2020-02-24,English Premier League,Liverpool ,3,2,West,V,True,2019 - 2020,6
+2020-02-29,English Premier League,Watford ,3,0,Liverpool,D,False,2019 - 2020,5
+2020-03-03,England FA Cup,Chelsea ,2,0,Liverpool,D,False,2019 - 2020,3
+2020-03-07,English Premier League,Liverpool ,2,1,AFC,V,True,2019 - 2020,4
+2020-03-11,UEFA Champions League,Liverpool - England ,2,3,Atletico,D,True,2019 - 2020,4
+2020-06-21,English Premier League,Everton FC ,0,0,Liverpool,N,False,2019 - 2020,102
+2020-06-24,English Premier League,Liverpool ,4,0,Crystal,V,True,2019 - 2020,3
+2020-07-02,English Premier League,Manchester City ,4,0,Liverpool,D,False,2019 - 2020,8
+2020-07-05,English Premier League,Liverpool ,2,0,Aston,V,True,2019 - 2020,3
+2020-07-08,English Premier League,Brighton & Hove Albion ,1,3,Liverpool,V,False,2019 - 2020,3
+2020-07-11,English Premier League,Liverpool ,1,1,Burnley,N,True,2019 - 2020,3
+2020-07-15,English Premier League,Arsenal FC ,2,1,Liverpool,D,False,2019 - 2020,4
+2020-07-22,English Premier League,Liverpool ,5,3,Chelsea,V,True,2019 - 2020,7
+2020-07-26,English Premier League,Newcastle United FC ,1,3,Liverpool,V,False,2019 - 2020,4

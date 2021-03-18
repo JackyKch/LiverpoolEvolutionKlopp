@@ -1,0 +1,9 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+2019-09-17,UEFA Champions League,SSC Napoli - Italy ,2,0,Liverpool,D,False,2019 - 2020,3
+2019-10-02,UEFA Champions League,Liverpool - England ,4,3,Red,V,True,2019 - 2020,4
+2019-10-23,UEFA Champions League,KRC Genk - Belgium ,1,4,Liverpool,V,False,2019 - 2020,3
+2019-11-05,UEFA Champions League,Liverpool - England ,2,1,KRC,V,True,2019 - 2020,3
+2019-11-27,UEFA Champions League,Liverpool - England ,1,1,SSC,N,True,2019 - 2020,4
+2019-12-10,UEFA Champions League,Red Bull Salzburg - Austria ,0,2,Liverpool,V,False,2019 - 2020,3
+2020-02-18,UEFA Champions League,Atletico de Madrid - Spain ,1,0,Liverpool,D,False,2019 - 2020,3
+2020-03-11,UEFA Champions League,Liverpool - England ,2,3,Atletico,D,True,2019 - 2020,4

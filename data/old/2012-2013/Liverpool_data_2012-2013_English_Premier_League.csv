@@ -1,0 +1,39 @@
+date_match,contests,home_team,home_score,away_score,away_team,liverpool_score,at_anfield,season,rest_days
+2012-08-18,English Premier League,West Bromwich Albion FC ,3,0,Liverpool,D,False,2012 - 2013,6
+2012-08-26,English Premier League,Liverpool ,2,2,Manchester,N,True,2012 - 2013,3
+2012-09-02,English Premier League,Liverpool ,0,2,Arsenal,D,True,2012 - 2013,3
+2012-09-15,English Premier League,AFC Sunderland ,1,1,Liverpool,N,False,2012 - 2013,13
+2012-09-23,English Premier League,Liverpool ,1,2,Manchester,D,True,2012 - 2013,3
+2012-09-29,English Premier League,Norwich City ,2,5,Liverpool,V,False,2012 - 2013,3
+2012-10-07,English Premier League,Liverpool ,0,0,Stoke,N,True,2012 - 2013,3
+2012-10-20,English Premier League,Liverpool ,1,0,Reading,V,True,2012 - 2013,13
+2012-10-28,English Premier League,Everton FC ,2,2,Liverpool,N,False,2012 - 2013,3
+2012-11-04,English Premier League,Liverpool ,1,1,Newcastle,N,True,2012 - 2013,4
+2012-11-11,English Premier League,Chelsea ,1,1,Liverpool,N,False,2012 - 2013,3
+2012-11-17,English Premier League,Liverpool ,3,0,Wigan,V,True,2012 - 2013,6
+2012-11-25,English Premier League,Swansea City ,0,0,Liverpool,N,False,2012 - 2013,3
+2012-11-28,English Premier League,Tottenham Hotspur ,2,1,Liverpool,D,False,2012 - 2013,3
+2012-12-01,English Premier League,Liverpool ,1,0,FC,V,True,2012 - 2013,3
+2012-12-09,English Premier League,West Ham United ,2,3,Liverpool,V,False,2012 - 2013,3
+2012-12-15,English Premier League,Liverpool ,1,3,Aston,D,True,2012 - 2013,6
+2012-12-22,English Premier League,Liverpool ,4,0,Fulham,V,True,2012 - 2013,7
+2012-12-26,English Premier League,Stoke City FC ,3,1,Liverpool,D,False,2012 - 2013,4
+2012-12-30,English Premier League,Queens Park Rangers ,0,3,Liverpool,V,False,2012 - 2013,4
+2013-01-02,English Premier League,Liverpool ,3,0,AFC,V,True,2012 - 2013,3
+2013-01-13,English Premier League,Manchester United ,2,1,Liverpool,D,False,2012 - 2013,7
+2013-01-19,English Premier League,Liverpool ,5,0,Norwich,V,True,2012 - 2013,6
+2013-01-30,English Premier League,Arsenal FC ,2,2,Liverpool,N,False,2012 - 2013,3
+2013-02-03,English Premier League,Manchester City ,2,2,Liverpool,N,False,2012 - 2013,4
+2013-02-11,English Premier League,Liverpool ,0,2,West,D,True,2012 - 2013,8
+2013-02-17,English Premier League,Liverpool ,5,0,Swansea,V,True,2012 - 2013,3
+2013-03-02,English Premier League,Wigan Athletic ,0,4,Liverpool,V,False,2012 - 2013,9
+2013-03-10,English Premier League,Liverpool ,3,2,Tottenham,V,True,2012 - 2013,8
+2013-03-16,English Premier League,FC Southampton ,3,1,Liverpool,D,False,2012 - 2013,6
+2013-03-31,English Premier League,Aston Villa ,1,2,Liverpool,V,False,2012 - 2013,15
+2013-04-07,English Premier League,Liverpool ,0,0,West,N,True,2012 - 2013,7
+2013-04-13,English Premier League,Reading FC ,0,0,Liverpool,N,False,2012 - 2013,6
+2013-04-21,English Premier League,Liverpool ,2,2,Chelsea,N,True,2012 - 2013,8
+2013-04-27,English Premier League,Newcastle United FC ,0,6,Liverpool,V,False,2012 - 2013,6
+2013-05-05,English Premier League,Liverpool ,0,0,Everton,N,True,2012 - 2013,8
+2013-05-12,English Premier League,Fulham FC ,1,3,Liverpool,V,False,2012 - 2013,7
+2013-05-19,English Premier League,Liverpool ,1,0,Queens,V,True,2012 - 2013,7
