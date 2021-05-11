@@ -4,8 +4,8 @@
 
 
 ## Introduction
-This is a project led by three engineers students in Paris: Ibrahim NASSAR, Thomas TRANG and myself, Jacky KUOCH. The objective of this project was to discover the use of Data in 
-the football world, as we are all huge fans of football, and to put into practice the notions that we learnt during our various courses.
+This is a project led by three engineers students in Paris: Ibrahim NASSAR, Thomas TRANG and myself, Jacky KUOCH. The objective of this project was to discover the use of Data in the football world, as we are all huge fans of football, and to put into practice the notions that we learnt during our various courses.
+At the end of our semester, I decided to pursue this project on my own by writing an article with football data visualizations.
 
 ## Context 
 In history, Liverpool F.C. has won nineteen English Premier League titles. However, before the 2019/2020 season, Liverpool had't been crowned champion for more than 20 years. 
@@ -29,3 +29,4 @@ How can we explain, through Data, Jürgen Klopp's influence over Liverpool's com
 - Python scripts in Jupyter notebooks. 
 - Data stored in csv files.
 - Project report written in French. 
+- Data Visualizations created for Jacky's article.
