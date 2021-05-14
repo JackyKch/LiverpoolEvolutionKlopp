@@ -29,4 +29,4 @@ How can we explain, through Data, Jürgen Klopp's influence over Liverpool's com
 - Python scripts in Jupyter notebooks. 
 - Data stored in csv files.
 - Project report written in French. 
-- Data Visualizations created for Jacky's article.
+- Data Visualizations created for Jacky's article. 
