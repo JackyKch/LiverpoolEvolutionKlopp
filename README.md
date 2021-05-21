@@ -6,6 +6,7 @@
 ## Introduction
 This is a project led by three engineers students in Paris: Ibrahim NASSAR, Thomas TRANG and myself, Jacky KUOCH. The objective of this project was to discover the use of Data in the football world, as we are all huge fans of football, and to put into practice the notions that we learnt during our various courses.
 At the end of our semester, I decided to pursue this project on my own by writing an article with football data visualizations.
+You can find the article by clicking [here](https://jackykch.github.io/MyPortfolio/articles/jurgen_klopp_evolution.html)
 
 ## Context 
 In history, Liverpool F.C. has won nineteen English Premier League titles. However, before the 2019/2020 season, Liverpool had't been crowned champion for more than 20 years. 
